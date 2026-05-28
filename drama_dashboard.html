@@ -341,9 +341,12 @@ async function init() {
     document.getElementById('updated-time').textContent =
       `업데이트 ${d.getMonth()+1}/${d.getDate()} ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
   }
-  _allItems = [...(data.dramas||[]), ...(data.variety||[])];
-  renderList(data.dramas,  'pane-drama',   0);
-  renderList(data.variety, 'pane-variety', (data.dramas||[]).length);
+  // 종영 항목 제거 (fetch 단에서 이미 필터되지만 구버전 캐시 대비)
+  const dramas  = (data.dramas  || []).filter(d => !d.is_ended);
+  const variety = (data.variety || []).filter(d => !d.is_ended);
+  _allItems = [...dramas, ...variety];
+  renderList(dramas,  'pane-drama',   0);
+  renderList(variety, 'pane-variety', dramas.length);
   injectSEO(data);
 }
 init();

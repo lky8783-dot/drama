@@ -121,11 +121,19 @@ def fetch_drama_info(page, title):
             i.alt && i.alt.length > 1 && !i.alt.includes('N페이') && !i.src.includes('gnb')
         );
 
+        // 종영 여부: '종영' 키워드 OR 과거 종료년도
+        const bodyText = document.body.innerText;
+        const is_ended = bodyText.includes('종영') || (() => {
+            const m = bodyText.match(/[~～]\s*(\d{4})[.년]/);
+            return m ? parseInt(m[1]) < new Date().getFullYear() : false;
+        })();
+
         return {
             schedule,
             cast_txt,
             synopsis: desc ? desc.textContent.trim().slice(0, 300) : '',
-            imgs: imgs.slice(0, 5).map(i => ({ alt: i.alt, src: i.src }))
+            imgs: imgs.slice(0, 5).map(i => ({ alt: i.alt, src: i.src })),
+            is_ended
         };
     }''')
 
@@ -164,13 +172,14 @@ def fetch_drama_info(page, title):
             pass
 
     return {
-        'channel':   channel,
-        'air_days':  air_days,
-        'schedule':  sched,
-        'synopsis':  info.get('synopsis', ''),
-        'cast':      [c.strip() for c in re.split(r'[,·\s]+', info.get('cast_txt', ''))
-                      if c.strip() and len(c.strip()) > 1][:5],
+        'channel':    channel,
+        'air_days':   air_days,
+        'schedule':   sched,
+        'synopsis':   info.get('synopsis', ''),
+        'cast':       [c.strip() for c in re.split(r'[,·\s]+', info.get('cast_txt', ''))
+                       if c.strip() and len(c.strip()) > 1][:5],
         'poster_url': poster_url,
+        'is_ended':   info.get('is_ended', False),
     }
 
 
@@ -192,7 +201,7 @@ def main():
         for item in prev.get('dramas', []) + prev.get('variety', []):
             t = item.get('title', '')
             if t:
-                cache[t] = {k: item[k] for k in ('channel', 'air_days', 'synopsis', 'poster_url', 'cast', 'schedule') if k in item}
+                cache[t] = {k: item[k] for k in ('channel', 'air_days', 'synopsis', 'poster_url', 'cast', 'schedule', 'is_ended') if k in item}
         print('[Cache] {}편 로드'.format(len(cache)).encode('utf-8', errors='replace').decode('ascii', errors='replace'))
     except Exception:
         pass
@@ -227,19 +236,30 @@ def main():
 
         # ── 상세 정보 enrichment ────────────────────────────────────────────
         def enrich(title_pct_map, label):
-            items = sorted(title_pct_map.items(), key=lambda x: -x[1])[:12]
+            candidates = sorted(title_pct_map.items(), key=lambda x: -x[1])[:20]
             result = []
-            for rank, (title, rating) in enumerate(items, 1):
+            rank = 0
+            for title, rating in candidates:
+                if len(result) >= 12:
+                    break
+                info = dict(cache.get(title, {}))
+                # is_ended 미확인이면 항상 재조회
+                if 'is_ended' not in info or not info.get('synopsis') or not info.get('channel'):
+                    fetched = fetch_drama_info(page, title)
+                    for k, v in fetched.items():
+                        if v or k == 'is_ended':
+                            info[k] = v
+                    cache[title] = info
+                # 종영 스킵
+                if info.get('is_ended'):
+                    print('[SKIP-종영] {}'.format(
+                        title.encode('utf-8', errors='replace').decode('ascii', errors='replace')
+                    ))
+                    continue
+                rank += 1
                 print('[{}] {}. {} ({}%)'.format(
                     label, rank, title, rating
                 ).encode('utf-8', errors='replace').decode('ascii', errors='replace'))
-                info = dict(cache.get(title, {}))
-                if not info.get('synopsis') or not info.get('channel'):
-                    fetched = fetch_drama_info(page, title)
-                    for k, v in fetched.items():
-                        if v:
-                            info[k] = v
-                    cache[title] = info
                 result.append({
                     'rank':       rank,
                     'title':      title,
