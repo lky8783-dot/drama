@@ -89,6 +89,14 @@
 
   .msg { padding: 50px; text-align: center; color: var(--muted); font-size: 0.9rem; }
 
+  /* 필터 바 */
+  .filter-bar { display: flex; gap: 5px; padding: 10px 14px 8px; flex-wrap: wrap; border-bottom: 1px solid var(--border); background: var(--bg); }
+  .filter-btn { padding: 3px 10px; background: transparent; border: 1px solid var(--border); border-radius: 20px; color: var(--sub); font-size: 0.72rem; font-weight: 600; cursor: pointer; transition: all .15s; white-space: nowrap; }
+  .filter-btn:hover { border-color: var(--accent); color: var(--text); }
+  .filter-btn.active { background: #1f3a5a; border-color: var(--accent); color: var(--accent); }
+  .filter-btn.airing-btn.active { background: #122d1c; border-color: var(--green); color: var(--green); }
+  .filter-sep { width: 1px; background: var(--border); margin: 2px 2px; align-self: stretch; }
+
   /* 모달 */
   .modal-overlay { display: none; position: fixed; inset: 0; z-index: 1000; background: rgba(0,0,0,.78); backdrop-filter: blur(5px); align-items: center; justify-content: center; padding: 16px; }
   .modal-overlay.open { display: flex; }
@@ -143,6 +151,19 @@
   </div>
 </div>
 
+<div class="filter-bar" id="filter-bar">
+  <button class="filter-btn airing-btn active" data-filter="airing">방영중</button>
+  <button class="filter-btn"                  data-filter="all">전체</button>
+  <div class="filter-sep"></div>
+  <button class="filter-btn" data-filter="월">월</button>
+  <button class="filter-btn" data-filter="화">화</button>
+  <button class="filter-btn" data-filter="수">수</button>
+  <button class="filter-btn" data-filter="목">목</button>
+  <button class="filter-btn" data-filter="금">금</button>
+  <button class="filter-btn" data-filter="토">토</button>
+  <button class="filter-btn" data-filter="일">일</button>
+</div>
+
 <div id="pane-drama"  class="tab-pane active"></div>
 <div id="pane-variety" class="tab-pane"></div>
 
@@ -170,7 +191,10 @@
 </div>
 
 <script>
-let _allItems = [];
+let _allItems   = [];   // 전체 목록 (모달 인덱스용)
+let _dramaItems  = [];
+let _varietyItems = [];
+let _activeFilter = 'airing';  // 기본값: 방영중
 
 async function loadData() {
   try {
@@ -178,6 +202,13 @@ async function loadData() {
     if (!r.ok) throw new Error(r.status);
     return await r.json();
   } catch(e) { return null; }
+}
+
+function applyFilter(items) {
+  if (_activeFilter === 'all')    return items;
+  if (_activeFilter === 'airing') return items.filter(d => d.channel || d.air_days);
+  // 요일 필터: air_days 에 해당 요일 글자 포함
+  return items.filter(d => d.air_days && d.air_days.includes(_activeFilter));
 }
 
 // ── 유틸 ─────────────────────────────────────────────────────────────────────
@@ -312,14 +343,26 @@ function injectSEO(data) {
 }
 
 // ── 렌더 ─────────────────────────────────────────────────────────────────────
-function renderList(items, paneId, offset) {
+function renderList(filteredItems, paneId) {
   const pane = document.getElementById(paneId);
-  if (!items || !items.length) { pane.innerHTML = '<div class="msg">데이터가 없습니다.</div>'; return; }
-  const maxRating = Math.max(...items.map(d => d.rating || 0));
-  const cards = items.map((d, i) => dramaCardHTML(d, maxRating, offset + i)).join('');
+  if (!filteredItems || !filteredItems.length) {
+    pane.innerHTML = '<div class="msg">해당 조건의 작품이 없습니다.</div>';
+    return;
+  }
+  const maxRating = Math.max(...filteredItems.map(d => d.rating || 0));
+  const cards = filteredItems.map(d => {
+    const idx = _allItems.indexOf(d);   // 전체 목록 기준 인덱스 → 모달 정확성 보장
+    return dramaCardHTML(d, maxRating, idx);
+  }).join('');
   pane.innerHTML = `<div class="dramas-grid">${cards}</div>`;
 }
 
+function rerender() {
+  renderList(applyFilter(_dramaItems),  'pane-drama');
+  renderList(applyFilter(_varietyItems), 'pane-variety');
+}
+
+// 탭 전환
 document.querySelectorAll('.tab-btn').forEach(btn => {
   btn.addEventListener('click', () => {
     document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
@@ -327,6 +370,16 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
     btn.classList.add('active');
     document.getElementById('pane-'+btn.dataset.tab).classList.add('active');
   });
+});
+
+// 필터 버튼
+document.getElementById('filter-bar').addEventListener('click', e => {
+  const btn = e.target.closest('.filter-btn');
+  if (!btn) return;
+  _activeFilter = btn.dataset.filter;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  rerender();
 });
 
 async function init() {
@@ -341,12 +394,11 @@ async function init() {
     document.getElementById('updated-time').textContent =
       `업데이트 ${d.getMonth()+1}/${d.getDate()} ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
   }
-  // 종영 항목 제거 (fetch 단에서 이미 필터되지만 구버전 캐시 대비)
-  const dramas  = (data.dramas  || []).filter(d => !d.is_ended);
-  const variety = (data.variety || []).filter(d => !d.is_ended);
-  _allItems = [...dramas, ...variety];
-  renderList(dramas,  'pane-drama',   0);
-  renderList(variety, 'pane-variety', dramas.length);
+  // 종영 항목 제거
+  _dramaItems   = (data.dramas  || []).filter(d => !d.is_ended);
+  _varietyItems = (data.variety || []).filter(d => !d.is_ended);
+  _allItems = [..._dramaItems, ..._varietyItems];
+  rerender();   // 기본값 'airing' 필터 적용
   injectSEO(data);
 }
 init();
