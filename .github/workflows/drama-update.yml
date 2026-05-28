@@ -1,0 +1,35 @@
+name: 드라마 시청률 업데이트
+
+on:
+  workflow_dispatch:   # 외부 크론 서비스(cron-job.org)가 GitHub API로 호출
+
+jobs:
+  update-drama:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 의존성 설치
+        run: pip install playwright
+
+      - name: Playwright Chromium 설치
+        run: playwright install chromium --with-deps
+
+      - name: 드라마 시청률 수집
+        run: python drama_fetch.py
+
+      - name: 변경 시 커밋 & 푸시
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add drama_data.json
+          git diff --staged --quiet && echo "변경 없음" && exit 0
+          git commit -m "chore: drama data $(TZ=Asia/Seoul date +'%m/%d %H:%M KST')"
+          git push

@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.env
+drama_data_backup.json
