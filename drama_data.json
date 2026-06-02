@@ -1,8 +1,28 @@
 {
-  "updated": "2026-06-01T00:02:47",
+  "updated": "2026-06-02T00:02:52",
   "dramas": [
     {
       "rank": 1,
+      "title": "낭만닥터 김사부 1~3",
+      "rating": 25.6,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg2.sbs.co.kr%2Fimg%2Fsbs_cms%2FWE%2F2023%2F04%2F20%2F4vV1681949697818-640-360.jpg&type=fff208_208_ar"
+    },
+    {
+      "rank": 2,
+      "title": "열혈사제 1~2",
+      "rating": 21.5,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg2.sbs.co.kr%2Fimg%2Fsbs_cms%2FPG%2F2019%2F02%2F11%2FPG46010520_w640_h360.JPG&type=fff208_208_ar"
+    },
+    {
+      "rank": 3,
       "title": "기대가 있었던 만큼 더 크게 느껴지는 결과",
       "rating": 20.0,
       "channel": "",
@@ -12,27 +32,37 @@
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2F023%2F2026%2F04%2F13%2F0003970593_001_20260414095310817.jpg&type=fff208_208_ar"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "사랑을 처방해 드립니다",
       "rating": 19.0,
       "channel": "KBS2",
       "air_days": "토·일",
       "synopsis": "30년 동안 악연으로 얽혔던 두 집안이 오해를 풀고 서로의 상처를 보듬으며, 결국 하나의 가족으로 다시 태어나는 패밀리 메이크업 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260531_184%2FDVXP3_1780233398090IqjpW_JPEG%2F5s3e4EXZcYSs.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260601_214%2FKiPkN_1780304199534iD5ud_JPEG%2FRBVqsYzfoHAX.jpg"
     },
     {
-      "rank": 3,
-      "title": "사이다 전개",
-      "rating": 9.0,
-      "channel": "",
+      "rank": 5,
+      "title": "기쁜 우리 좋은 날",
+      "rating": 10.7,
+      "channel": "KBS1",
       "air_days": "",
-      "synopsis": "",
+      "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fyt3.ggpht.com%2F3iEBXrtUtAGK12gRRpBh2_2I4VUCRH5Aly83Eda2bsMs9GHYrq-2wUgBXcwG5HSxsxL2393QWA%3Ds800-c-k-c0x00ffffff-no-rj&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260601_209%2FTCE2g_1780318901370q4RR4_JPEG%2FzrAKFLOV0aWt.jpg"
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "title": "멋진 신세계",
+      "rating": 10.3,
+      "channel": "SBS",
+      "air_days": "금·토",
+      "synopsis": "희대의 조선 악녀 영혼이 씌어 ‘악질’해진 무명배우 신서리와 자본주의의 괴물이라 불리는 악질재벌 차세계의 일촉즉발 전쟁 같은 로맨스 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260429_112%2F1777425582811RHMXL_JPEG%2F861d2969a4ff8f2cb6a5bfd0cb451ab1.jpg"
+    },
+    {
+      "rank": 7,
       "title": "패배",
       "rating": 7.0,
       "channel": "",
@@ -42,27 +72,27 @@
       "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F139%2F2026%2F05%2F30%2F2248004.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
-      "rank": 5,
-      "title": "남주의 첫날밤을 가져버렸다'(이하",
-      "rating": 3.4,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
+      "rank": 8,
+      "title": "닥터 섬보이",
+      "rating": 4.0,
+      "channel": "ENA",
+      "air_days": "월·화",
+      "synopsis": "모두가 기피하는 악명 높은 섬 '편동도'에 입도한 공중보건의사 도지의와 비밀 많은 간호사 육하리가 그리는 메디컬 휴먼 로맨스",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5095%2F2025%2F05%2F29%2F1022385.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true"
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260506_222%2F1778030307138KNgNN_JPEG%2Fd6c5313af03651e82bef3be2cc05d72b.jpg"
     },
     {
-      "rank": 6,
-      "title": "클라이맥스', '세이렌",
+      "rank": 9,
+      "title": "현생 매진러",
       "rating": 3.3,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5353%2F2026%2F03%2F31%2F1220379.jpg&type=fface200_200&expire=2&refresh=true"
+      "poster_url": ""
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "아너: 그녀들의 법정",
       "rating": 3.1,
       "channel": "ENA",
@@ -72,12 +102,12 @@
       "poster_url": ""
     },
     {
-      "rank": 8,
-      "title": "오매진",
-      "rating": 2.7,
-      "channel": "SBS",
-      "air_days": "수·목",
-      "synopsis": "완벽주의 농부 매튜 리(aka 메추리)와 완판주의 쇼호스트 담예진이 밤낮없이 얽히며 펼쳐지는, ‘현생 매진러’들의 설렘 직배송 제철 로맨스",
+      "rank": 11,
+      "title": "1회",
+      "rating": 2.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
       "cast": [],
       "poster_url": ""
     }
@@ -85,16 +115,6 @@
   "variety": [
     {
       "rank": 1,
-      "title": "라디오 스타",
-      "rating": 5.6,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "지진 이후 재난 FM 라디오에 모인 사람들이 웃음과 진심의 목소리로 서로의 상처를 치유해 가는 이야기",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
-    },
-    {
-      "rank": 2,
       "title": "황금어장-라디오 스타",
       "rating": 5.0,
       "channel": "",
@@ -104,27 +124,17 @@
       "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5042%2F2014%2F07%2F22%2F27110.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "유재석",
       "rating": 4.0,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg.tenasia.co.kr%2Fphoto%2F202605%2FBF.44233140.1.jpg&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F437%2F2026%2F06%2F01%2F493883.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
-      "rank": 4,
-      "title": "놀면 뭐하니?",
-      "rating": 1.8,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F408%2F2026%2F05%2F31%2F310266.jpg&type=fface200_200&expire=2&refresh=true"
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
