@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T00:02:52",
+  "updated": "2026-06-07T00:02:59",
   "dramas": [
     {
       "rank": 1,
@@ -19,15 +19,15 @@
       "air_days": "토·일",
       "synopsis": "30년 동안 악연으로 얽혔던 두 집안이 오해를 풀고 서로의 상처를 보듬으며, 결국 하나의 가족으로 다시 태어나는 패밀리 메이크업 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260606_236%2FP3lOM_1780700260413GC59a_JPEG%2FGqDxbkG4PoVb.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260607_40%2FRqKb1_1780786655368iT7Jr_JPEG%2FQxKzFHCvVrv2.jpg"
     },
     {
       "rank": 3,
       "title": "멋진 신세계",
-      "rating": 13.7,
+      "rating": 11.3,
       "channel": "SBS",
       "air_days": "금·토",
-      "synopsis": "희대의 조선 악녀 영혼이 씌어 ‘악질’해진 무명배우 신서리와 자본주의의 괴물이라 불리는 악질재벌 차세계의 일촉즉발 전쟁 같은 로맨스 드라마",
+      "synopsis": "희대의 조선 악녀 영혼이 씌어 ‘악질’해진 무명배우 신서리와\n자본주의의 괴물이라 불리는 악질재벌 차세계의\n일촉즉발 전쟁 같은 로맨스 드라마",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260429_112%2F1777425582811RHMXL_JPEG%2F861d2969a4ff8f2cb6a5bfd0cb451ab1.jpg"
     },
@@ -43,16 +43,6 @@
     },
     {
       "rank": 5,
-      "title": "넌 나만 봐",
-      "rating": 9.5,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg2.sbs.co.kr%2Fimg%2Fsbs_cms%2FSR%2F2020%2F04%2F01%2FSR77935348_w640_h360.jpg&type=fff208_208_ar"
-    },
-    {
-      "rank": 6,
       "title": "패배",
       "rating": 7.0,
       "channel": "",
@@ -62,9 +52,19 @@
       "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F139%2F2026%2F05%2F30%2F2248004.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
+      "rank": 6,
+      "title": "오십프로",
+      "rating": 5.7,
+      "channel": "MBC",
+      "air_days": "금·토",
+      "synopsis": "평범해 보여도 끗발 좀 날리던 세 남자가 운명에 의해 다시 움직인다! 세상에 치이고 몸은 녹슬었을지언정 의리와 본능만은 여전한 인생의 50%를 달려온 진짜 프로들의 짠물 액션 코미디 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260605_209%2FpS4mi_1780620999912UDfCB_JPEG%2Fclip_20260605094702_2.jpg"
+    },
+    {
       "rank": 7,
       "title": "닥터 섬보이",
-      "rating": 5.0,
+      "rating": 4.045,
       "channel": "ENA",
       "air_days": "월·화",
       "synopsis": "모두가 기피하는 악명 높은 섬 '편동도'에 입도한 공중보건의사 도지의와 비밀 많은 간호사 육하리가 그리는 메디컬 휴먼 로맨스",
@@ -73,16 +73,6 @@
     },
     {
       "rank": 8,
-      "title": "오십프로",
-      "rating": 4.8,
-      "channel": "MBC",
-      "air_days": "금·토",
-      "synopsis": "평범해 보여도 끗발 좀 날리던 세 남자가 운명에 의해 다시 움직인다! 세상에 치이고 몸은 녹슬었을지언정 의리와 본능만은 여전한 인생의 50%를 달려온 진짜 프로들의 짠물 액션 코미디 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260604_77%2FThZvt_1780549901289WssYV_JPEG%2Fclip_20260604140043_12.jpg"
-    },
-    {
-      "rank": 9,
       "title": "아너: 그녀들의 법정",
       "rating": 3.1,
       "channel": "ENA",
@@ -90,31 +80,11 @@
       "synopsis": "거대한 스캔들이 되어 돌아온 과거에 정면 돌파로 맞서는 세 여성 변호사의 뜨거운 미스터리 추적극. 그리하여 지금이다. 잃어버린 명예를 되찾을 시간.",
       "cast": [],
       "poster_url": ""
-    },
-    {
-      "rank": 10,
-      "title": "오매진",
-      "rating": 2.7,
-      "channel": "SBS",
-      "air_days": "수·목",
-      "synopsis": "완벽주의 농부 매튜 리(aka 메추리)와 완판주의 쇼호스트 담예진이 밤낮없이 얽히며 펼쳐지는, ‘현생 매진러’들의 설렘 직배송 제철 로맨스",
-      "cast": [],
-      "poster_url": ""
     }
   ],
   "variety": [
     {
       "rank": 1,
-      "title": "1박2일' '무한도전' '해피투게더",
-      "rating": 20.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fwww.consumernews.co.kr%2Fnews%2Fphoto%2F200803%2F10706_aa2d39990e6a16cfc5032399cc85ddc9.bmp&type=fff208_208_ar"
-    },
-    {
-      "rank": 2,
       "title": "라디오 스타",
       "rating": 5.6,
       "channel": "",
@@ -124,7 +94,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "황금어장-라디오 스타",
       "rating": 5.0,
       "channel": "",
@@ -134,7 +104,7 @@
       "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5042%2F2014%2F07%2F22%2F27110.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "최우수산",
       "rating": 1.4,
       "channel": "",
@@ -144,7 +114,7 @@
       "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F408%2F2026%2F05%2F18%2F308804.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
@@ -154,7 +124,7 @@
       "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHb7fTPT7ALs%2Fmaxresdefault.jpg&type=f368_208"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "마니또 클럽",
       "rating": 0.9,
       "channel": "",
