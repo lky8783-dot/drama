@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T00:02:59",
+  "updated": "2026-06-08T00:02:54",
   "dramas": [
     {
       "rank": 1,
@@ -19,7 +19,7 @@
       "air_days": "토·일",
       "synopsis": "30년 동안 악연으로 얽혔던 두 집안이 오해를 풀고 서로의 상처를 보듬으며, 결국 하나의 가족으로 다시 태어나는 패밀리 메이크업 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260607_40%2FRqKb1_1780786655368iT7Jr_JPEG%2FQxKzFHCvVrv2.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260608_126%2Fmuec0_1780873057342FKWhl_JPEG%2F74xrISUQ7OF9.jpg"
     },
     {
       "rank": 3,
@@ -53,6 +53,16 @@
     },
     {
       "rank": 6,
+      "title": "첫 번째 남자",
+      "rating": 6.0,
+      "channel": "MBC",
+      "air_days": "목",
+      "synopsis": "복수를 위하여 다른 사람의 삶을 살게 된 여자와 자신의 욕망을 위하여 다른 사람의 삶을 빼앗은 여자의 목숨을 건 치명적 대결을 그린 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260605_38%2Flzcpk_1780657899524kSuDC_JPEG%2Fclip_20260605200301_48.jpg"
+    },
+    {
+      "rank": 7,
       "title": "오십프로",
       "rating": 5.7,
       "channel": "MBC",
@@ -62,9 +72,9 @@
       "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260605_209%2FpS4mi_1780620999912UDfCB_JPEG%2Fclip_20260605094702_2.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "닥터 섬보이",
-      "rating": 4.045,
+      "rating": 5.0,
       "channel": "ENA",
       "air_days": "월·화",
       "synopsis": "모두가 기피하는 악명 높은 섬 '편동도'에 입도한 공중보건의사 도지의와 비밀 많은 간호사 육하리가 그리는 메디컬 휴먼 로맨스",
@@ -72,12 +82,12 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260506_222%2F1778030307138KNgNN_JPEG%2Fd6c5313af03651e82bef3be2cc05d72b.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "아너: 그녀들의 법정",
       "rating": 3.1,
       "channel": "ENA",
       "air_days": "",
-      "synopsis": "거대한 스캔들이 되어 돌아온 과거에 정면 돌파로 맞서는 세 여성 변호사의 뜨거운 미스터리 추적극. 그리하여 지금이다. 잃어버린 명예를 되찾을 시간.",
+      "synopsis": "거대한 스캔들이 되어 돌아온 과거에 정면 돌파로 맞서는 세 여성 변호사의 뜨거운 미스터리 추적극.\n그리하여 지금이다. 잃어버린 명예를 되찾을 시간.",
       "cast": [],
       "poster_url": ""
     }
@@ -105,16 +115,6 @@
     },
     {
       "rank": 3,
-      "title": "최우수산",
-      "rating": 1.4,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F408%2F2026%2F05%2F18%2F308804.jpg&type=fface200_200&expire=2&refresh=true"
-    },
-    {
-      "rank": 4,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
@@ -124,7 +124,7 @@
       "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHb7fTPT7ALs%2Fmaxresdefault.jpg&type=f368_208"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "마니또 클럽",
       "rating": 0.9,
       "channel": "",
