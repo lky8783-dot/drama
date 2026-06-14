@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T00:02:51",
+  "updated": "2026-06-14T00:03:01",
   "dramas": [
     {
       "rank": 1,
@@ -9,10 +9,20 @@
       "air_days": "토·일",
       "synopsis": "30년 동안 악연으로 얽혔던 두 집안이 오해를 풀고 서로의 상처를 보듬으며, 결국 하나의 가족으로 다시 태어나는 패밀리 메이크업 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260613_148%2FuX5o4_1781305057507WQ2Dc_JPEG%2FSiRbu8xO2EvU.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260614_172%2F9DPR5_1781391396564N1k7k_JPEG%2F5nk8CLX5eobi.jpg"
     },
     {
       "rank": 2,
+      "title": "진짜 신서리",
+      "rating": 12.8,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
+    },
+    {
+      "rank": 3,
       "title": "기쁜 우리 좋은 날",
       "rating": 10.2,
       "channel": "KBS1",
@@ -22,27 +32,27 @@
       "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260612_113%2FwPtu0_1781272659583rhWLo_JPEG%2FMAYHF5gyEo5E.jpg"
     },
     {
-      "rank": 3,
-      "title": "멋진 신세계",
-      "rating": 10.0,
-      "channel": "SBS",
-      "air_days": "금·토",
-      "synopsis": "희대의 조선 악녀 영혼이 씌어 ‘악질’해진 무명배우 신서리와\n자본주의의 괴물이라 불리는 악질재벌 차세계의\n일촉즉발 전쟁 같은 로맨스 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260429_112%2F1777425582811RHMXL_JPEG%2F861d2969a4ff8f2cb6a5bfd0cb451ab1.jpg"
-    },
-    {
       "rank": 4,
-      "title": "오십프로",
-      "rating": 5.3,
-      "channel": "MBC",
-      "air_days": "금·토",
-      "synopsis": "평범해 보여도 끗발 좀 날리던 세 남자가 운명에 의해 다시 움직인다! 세상에 치이고 몸은 녹슬었을지언정 의리와 본능만은 여전한 인생의 50%를 달려온 진짜 프로들의 짠물 액션 코미디 드라마",
+      "title": "취사병 전설의 되다",
+      "rating": 7.34,
+      "channel": "tvN",
+      "air_days": "월·화",
+      "synopsis": "총 대신 식칼, 탄띠 대신 앞치마! 이등병 강성재가 ‘전설의 취사병’으로 거듭나는 과정을 그린 밀리터리 쿡방 판타지 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260611_223%2FwEF2w_1781154410402bcJdi_JPEG%2Fclip_20260611135542_6.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=o&size=174x242&quality=75&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260427_289%2F1777268581598feg6T_JPEG%2Fe74bc7780afe3bcc6b1a4785c2f5bafd.jpg"
     },
     {
       "rank": 5,
+      "title": "취사병 전설이 되다",
+      "rating": 7.3,
+      "channel": "tvN",
+      "air_days": "월·화",
+      "synopsis": "총 대신 식칼, 탄띠 대신 앞치마! 이등병 강성재가 ‘전설의 취사병’으로 거듭나는 과정을 그린 밀리터리 쿡방 판타지 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=o&size=174x242&quality=75&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260427_289%2F1777268581598feg6T_JPEG%2Fe74bc7780afe3bcc6b1a4785c2f5bafd.jpg"
+    },
+    {
+      "rank": 6,
       "title": "닥터 섬보이",
       "rating": 5.2,
       "channel": "ENA",
@@ -52,17 +62,27 @@
       "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260608_256%2FbHN4E_1780901202469p3vCb_JPEG%2Fd3acaa7e-f55e-4543-833b-3a94159b29db.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "신입사원 강회장",
       "rating": 5.0,
       "channel": "JTBC",
       "air_days": "토",
       "synopsis": "사업의 신이라 불리는 굴지의 대기업 회장이 사고를 당하면서 원치 않는 2회차 인생을 살게 되는 리마인드 라이프 스토리 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260610_40%2FYSNVo_1781051199461D23VP_JPEG%2F20260610_091451_810_1.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260613_88%2F0mptz_17813580993734H1vR_JPEG%2F20260613_222949_157_1.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "오십프로",
+      "rating": 4.9,
+      "channel": "MBC",
+      "air_days": "금·토",
+      "synopsis": "평범해 보여도 끗발 좀 날리던 세 남자가 운명에 의해 다시 움직인다! 세상에 치이고 몸은 녹슬었을지언정 의리와 본능만은 여전한 인생의 50%를 달려온 진짜 프로들의 짠물 액션 코미디 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260612_62%2FiNBYN_1781240198048cVlms_JPEG%2Fclip_20260612134649_0.jpg"
+    },
+    {
+      "rank": 9,
       "title": "아너: 그녀들의 법정",
       "rating": 3.1,
       "channel": "ENA",
@@ -95,16 +115,6 @@
     },
     {
       "rank": 3,
-      "title": "이호선의 사이다",
-      "rating": 0.9,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.tving.com%2Fntgs%2Fcontents%2FCTC%2Fcaip%2FCAIP0400%2Fko%2F20251124%2F0620%2FP001779525.jpg%2Fdims%2Fresize%2F500&type=fff208_208_ar"
-    },
-    {
-      "rank": 4,
       "title": "마니또 클럽",
       "rating": 0.9,
       "channel": "",
@@ -112,6 +122,16 @@
       "synopsis": "",
       "cast": [],
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.tving.com%2Fntgs%2Fcontents%2FCTC%2Fcaip%2FCAIP0400%2Fko%2F20260324%2F0432%2FP001782371.jpg%2Fdims%2Fresize%2F500&type=fff208_208_ar"
+    },
+    {
+      "rank": 4,
+      "title": "이호선의 사이다",
+      "rating": 0.9,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.tving.com%2Fntgs%2Fcontents%2FCTC%2Fcaip%2FCAIP0400%2Fko%2F20251124%2F0620%2FP001779525.jpg%2Fdims%2Fresize%2F500&type=fff208_208_ar"
     }
   ]
 }
