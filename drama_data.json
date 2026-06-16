@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T00:02:59",
+  "updated": "2026-06-16T00:03:07",
   "dramas": [
     {
       "rank": 1,
@@ -9,47 +9,47 @@
       "air_days": "토·일",
       "synopsis": "30년 동안 악연으로 얽혔던 두 집안이 오해를 풀고 서로의 상처를 보듬으며, 결국 하나의 가족으로 다시 태어나는 패밀리 메이크업 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260614_29%2FBKdQm_1781441504198uiU0X_JPEG%2F6a2e9c0cbced4408c96e0a10_upload_1781441005392.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260615_16%2FwdvaN_178151379604545mHF_JPEG%2Fa2lJcvLnAgyz.jpg"
     },
     {
       "rank": 2,
       "title": "기쁜 우리 좋은 날",
-      "rating": 10.2,
+      "rating": 10.3,
       "channel": "KBS1",
       "air_days": "",
       "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260612_113%2FwPtu0_1781272659583rhWLo_JPEG%2FMAYHF5gyEo5E.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260615_102%2FTOcb5_1781528795883QnNMe_JPEG%2FWyOfEbW2CKLt.jpg"
     },
     {
       "rank": 3,
+      "title": "내일도 출근",
+      "rating": 10.0,
+      "channel": "tvN",
+      "air_days": "월·화",
+      "synopsis": "일상적 권태기에 시달리던 7년 차 직장인 차지윤이 까칠한 직장 상사 강시우와 함께 서로의 대체 불가능한 최선이 되어 일도 사랑도 다시 '설렘 ON 오피스 로맨스'",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260615_31%2Fv2Y4r_17815220446281MnDE_JPEG%2F613cfdc2-e565-40c2-afcc-e167e80cc3ec_naver.jpg"
+    },
+    {
+      "rank": 4,
       "title": "신입사원 강회장",
       "rating": 9.5,
       "channel": "JTBC",
       "air_days": "토",
       "synopsis": "사업의 신이라 불리는 굴지의 대기업 회장이 사고를 당하면서 원치 않는 2회차 인생을 살게 되는 리마인드 라이프 스토리 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260614_258%2FXcuX6_1781447196285OBPwR_JPEG%2F20260614_231626_618_1.jpg"
-    },
-    {
-      "rank": 4,
-      "title": "취사병 전설이 되다",
-      "rating": 7.3,
-      "channel": "tvN",
-      "air_days": "월·화",
-      "synopsis": "총 대신 식칼, 탄띠 대신 앞치마! 이등병 강성재가 ‘전설의 취사병’으로 거듭나는 과정을 그린 밀리터리 쿡방 판타지 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=174x242&quality=75&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260427_289%2F1777268581598feg6T_JPEG%2Fe74bc7780afe3bcc6b1a4785c2f5bafd.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260611_141%2F15F64_178116243646115cMs_JPEG%2FKmFlNjBbm1_07.jpg"
     },
     {
       "rank": 5,
       "title": "닥터 섬보이",
-      "rating": 5.2,
+      "rating": 5.0,
       "channel": "ENA",
       "air_days": "월·화",
       "synopsis": "모두가 기피하는 악명 높은 섬 '편동도'에 입도한 공중보건의사 도지의와 비밀 많은 간호사 육하리가 그리는 메디컬 휴먼 로맨스",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260608_256%2FbHN4E_1780901202469p3vCb_JPEG%2Fd3acaa7e-f55e-4543-833b-3a94159b29db.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260506_222%2F1778030307138KNgNN_JPEG%2Fd6c5313af03651e82bef3be2cc05d72b.jpg"
     },
     {
       "rank": 6,
@@ -63,6 +63,16 @@
     },
     {
       "rank": 7,
+      "title": "닥터 섬보이'의 시청률 추이가 심상치 않다.",
+      "rating": 4.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=http%3A%2F%2Fwww.celuvmedia.com%2Fupimages%2Fgisaimg%2F202606%2F02521488.jpg&type=fff208_208_ar"
+    },
+    {
+      "rank": 8,
       "title": "참교육",
       "rating": 3.7,
       "channel": "",
@@ -72,7 +82,7 @@
       "poster_url": "https://search.pstatic.net/common?type=o&size=594x336&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260602_285%2FddEtD_1780376690092KV33f_JPEG%2F88RythFJop_02.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "아너: 그녀들의 법정",
       "rating": 3.1,
       "channel": "ENA",
