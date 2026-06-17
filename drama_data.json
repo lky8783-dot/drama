@@ -1,50 +1,70 @@
 {
-  "updated": "2026-06-16T00:03:07",
+  "updated": "2026-06-17T00:03:04",
   "dramas": [
     {
       "rank": 1,
+      "title": "장서희 아니면 드라마를 엎겠다",
+      "rating": 47.9,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5353%2F2026%2F06%2F12%2F1259482.jpg&type=fface200_200&expire=2&refresh=true"
+    },
+    {
+      "rank": 2,
       "title": "사랑을 처방해 드립니다",
       "rating": 19.0,
       "channel": "KBS2",
       "air_days": "토·일",
       "synopsis": "30년 동안 악연으로 얽혔던 두 집안이 오해를 풀고 서로의 상처를 보듬으며, 결국 하나의 가족으로 다시 태어나는 패밀리 메이크업 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260615_16%2FwdvaN_178151379604545mHF_JPEG%2Fa2lJcvLnAgyz.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260616_229%2FKWKgi_1781600496732dL9Pk_JPEG%2FtwsV2mv9BSeJ.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "기쁜 우리 좋은 날",
       "rating": 10.3,
       "channel": "KBS1",
       "air_days": "",
       "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260615_102%2FTOcb5_1781528795883QnNMe_JPEG%2FWyOfEbW2CKLt.jpg"
-    },
-    {
-      "rank": 3,
-      "title": "내일도 출근",
-      "rating": 10.0,
-      "channel": "tvN",
-      "air_days": "월·화",
-      "synopsis": "일상적 권태기에 시달리던 7년 차 직장인 차지윤이 까칠한 직장 상사 강시우와 함께 서로의 대체 불가능한 최선이 되어 일도 사랑도 다시 '설렘 ON 오피스 로맨스'",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260615_31%2Fv2Y4r_17815220446281MnDE_JPEG%2F613cfdc2-e565-40c2-afcc-e167e80cc3ec_naver.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260616_82%2FpWUiA_1781618196649nzWbm_JPEG%2FgXZs5XzuQ5jW.jpg"
     },
     {
       "rank": 4,
-      "title": "신입사원 강회장",
-      "rating": 9.5,
-      "channel": "JTBC",
-      "air_days": "토",
-      "synopsis": "사업의 신이라 불리는 굴지의 대기업 회장이 사고를 당하면서 원치 않는 2회차 인생을 살게 되는 리마인드 라이프 스토리 드라마",
+      "title": "기쁜 우리 좋은 날 몇부작",
+      "rating": 10.3,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260611_141%2F15F64_178116243646115cMs_JPEG%2FKmFlNjBbm1_07.jpg"
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5291%2F2026%2F06%2F16%2F2539402.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
       "rank": 5,
+      "title": "허수아비",
+      "rating": 8.5,
+      "channel": "ENA",
+      "air_days": "",
+      "synopsis": "연쇄살인사건의 진범을 수사하던 형사가 자신이 혐오하던 놈과 뜻밖의 공조 관계를 맺으면서 펼쳐지는 범죄 수사 스릴러",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260526_115%2Fu9coG_17797881956945cQjX_JPEG%2F22557790-ac0b-45a7-8a7e-9bfd4e3bacbd.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "첫 번째 남자",
+      "rating": 5.6,
+      "channel": "MBC",
+      "air_days": "목",
+      "synopsis": "복수를 위하여 다른 사람의 삶을 살게 된 여자와 자신의 욕망을 위하여 다른 사람의 삶을 빼앗은 여자의 목숨을 건 치명적 대결을 그린 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260616_280%2FEcom3_1781607998464CYiYM_JPEG%2Fclip_20260616195729_30.jpg"
+    },
+    {
+      "rank": 7,
       "title": "닥터 섬보이",
-      "rating": 5.0,
+      "rating": 5.1,
       "channel": "ENA",
       "air_days": "월·화",
       "synopsis": "모두가 기피하는 악명 높은 섬 '편동도'에 입도한 공중보건의사 도지의와 비밀 많은 간호사 육하리가 그리는 메디컬 휴먼 로맨스",
@@ -52,37 +72,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260506_222%2F1778030307138KNgNN_JPEG%2Fd6c5313af03651e82bef3be2cc05d72b.jpg"
     },
     {
-      "rank": 6,
-      "title": "오십프로",
-      "rating": 4.9,
-      "channel": "MBC",
-      "air_days": "금·토",
-      "synopsis": "평범해 보여도 끗발 좀 날리던 세 남자가 운명에 의해 다시 움직인다! 세상에 치이고 몸은 녹슬었을지언정 의리와 본능만은 여전한 인생의 50%를 달려온 진짜 프로들의 짠물 액션 코미디 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260612_62%2FiNBYN_1781240198048cVlms_JPEG%2Fclip_20260612134649_0.jpg"
-    },
-    {
-      "rank": 7,
-      "title": "닥터 섬보이'의 시청률 추이가 심상치 않다.",
-      "rating": 4.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=http%3A%2F%2Fwww.celuvmedia.com%2Fupimages%2Fgisaimg%2F202606%2F02521488.jpg&type=fff208_208_ar"
-    },
-    {
       "rank": 8,
-      "title": "참교육",
-      "rating": 3.7,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "선넘는 학생, 교사, 학부모로 인해 무너진 대한민국의 교권과 교육현장을 지키기 위해 창설된 교권보호국의 통쾌하고 시원한 참교육을 그린 이야기",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=594x336&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260602_285%2FddEtD_1780376690092KV33f_JPEG%2F88RythFJop_02.jpg"
-    },
-    {
-      "rank": 9,
       "title": "아너: 그녀들의 법정",
       "rating": 3.1,
       "channel": "ENA",
@@ -95,6 +85,26 @@
   "variety": [
     {
       "rank": 1,
+      "title": "1박2일' '무한도전' '해피투게더",
+      "rating": 20.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Fthumb140%2F112%2F2011%2F09%2F06%2F2223878.jpg&type=fface200_200&expire=2&refresh=true"
+    },
+    {
+      "rank": 2,
+      "title": "라디오 스타",
+      "rating": 5.6,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "지진 이후 재난 FM 라디오에 모인 사람들이 웃음과 진심의 목소리로 서로의 상처를 치유해 가는 이야기",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
+    },
+    {
+      "rank": 3,
       "title": "황금어장-라디오 스타",
       "rating": 5.0,
       "channel": "",
@@ -104,17 +114,7 @@
       "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5042%2F2014%2F07%2F22%2F27110.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
-      "rank": 2,
-      "title": "아는 형님",
-      "rating": 1.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHb7fTPT7ALs%2Fmaxresdefault.jpg&type=f368_208"
-    },
-    {
-      "rank": 3,
+      "rank": 4,
       "title": "마니또 클럽",
       "rating": 0.9,
       "channel": "",
