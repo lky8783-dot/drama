@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T00:03:03",
+  "updated": "2026-06-24T00:03:12",
   "dramas": [
     {
       "rank": 1,
@@ -19,17 +19,17 @@
       "air_days": "",
       "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260622_194%2FilYY0_1782135401118mHIC7_JPEG%2FljuJK2aHfcub.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260623_300%2FnnGXV_1782219457002soWYB_JPEG%2F9tqCcLpoiMsI.jpg"
     },
     {
       "rank": 3,
-      "title": "허수아비",
-      "rating": 8.5,
-      "channel": "ENA",
-      "air_days": "",
-      "synopsis": "연쇄살인사건의 진범을 수사하던 형사가 자신이 혐오하던 놈과 뜻밖의 공조 관계를 맺으면서 펼쳐지는 범죄 수사 스릴러",
+      "title": "첫 번째 남자",
+      "rating": 6.1,
+      "channel": "MBC",
+      "air_days": "목",
+      "synopsis": "복수를 위하여 다른 사람의 삶을 살게 된 여자와 자신의 욕망을 위하여 다른 사람의 삶을 빼앗은 여자의 목숨을 건 치명적 대결을 그린 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260622_153%2F86vtO_17821052401592ijVL_JPEG%2F22557790-ac0b-45a7-8a7e-9bfd4e3bacbd.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260623_112%2Fiy5TC_1782212799751lETSR_JPEG%2Fclip_20260623195731_53.jpg"
     },
     {
       "rank": 4,
@@ -43,28 +43,68 @@
     },
     {
       "rank": 5,
-      "title": "내일도 출근",
-      "rating": 4.8,
-      "channel": "tvN",
-      "air_days": "월·화",
-      "synopsis": "일상적 권태기에 시달리던 7년 차 직장인 차지윤이 까칠한 직장 상사 강시우와 함께 서로의 대체 불가능한 최선이 되어 일도 사랑도 다시 '설렘 ON 오피스 로맨스'",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260618_257%2F2FLJ5_1781758683930ewV6H_JPEG%2Fb41b1c82-fe6d-40e6-8a1b-8d4d2e0fcb22_naver.jpg"
-    },
-    {
-      "rank": 6,
       "title": "내일도 출근!",
       "rating": 4.8,
       "channel": "tvN",
       "air_days": "월·화",
       "synopsis": "일상적 권태기에 시달리던 7년 차 직장인 차지윤이 까칠한 직장 상사 강시우와 함께 서로의 대체 불가능한 최선이 되어 일도 사랑도 다시 '설렘 ON 오피스 로맨스'",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260618_257%2F2FLJ5_1781758683930ewV6H_JPEG%2Fb41b1c82-fe6d-40e6-8a1b-8d4d2e0fcb22_naver.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260623_219%2FNlAb4_1782205924289mWngp_JPEG%2F2acb0d6c-75f9-4198-badc-772eec4af753_naver.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "내일도 출근",
+      "rating": 4.0,
+      "channel": "tvN",
+      "air_days": "월·화",
+      "synopsis": "일상적 권태기에 시달리던 7년 차 직장인 차지윤이 까칠한 직장 상사 강시우와 함께 서로의 대체 불가능한 최선이 되어 일도 사랑도 다시 '설렘 ON 오피스 로맨스'",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260623_219%2FNlAb4_1782205924289mWngp_JPEG%2F2acb0d6c-75f9-4198-badc-772eec4af753_naver.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "클라이맥스', '세이렌",
+      "rating": 3.3,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fcdn.ize.co.kr%2Fnews%2Fthumbnail%2F202604%2F76011_114972_2821_v150.jpg&type=fff208_208_ar"
     }
   ],
   "variety": [
     {
       "rank": 1,
+      "title": "1박2일' '무한도전' '해피투게더",
+      "rating": 20.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Fthumb140%2F112%2F2011%2F09%2F06%2F2223878.jpg&type=fface200_200&expire=2&refresh=true"
+    },
+    {
+      "rank": 2,
+      "title": "1박2일",
+      "rating": 10.1,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
+    },
+    {
+      "rank": 3,
+      "title": "미운우리새끼",
+      "rating": 9.9,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5191%2F2026%2F06%2F05%2F500755.jpg&type=fface200_200&expire=2&refresh=true"
+    },
+    {
+      "rank": 4,
       "title": "갑론을박",
       "rating": 7.0,
       "channel": "",
@@ -74,7 +114,7 @@
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg.tenasia.co.kr%2Fphoto%2F202604%2FBF.44117156.1.jpg&type=fff208_208_ar"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "title": "라디오 스타",
       "rating": 5.6,
       "channel": "",
@@ -84,17 +124,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
     },
     {
-      "rank": 3,
-      "title": "황금어장-라디오 스타",
-      "rating": 5.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5042%2F2014%2F07%2F22%2F27110.jpg&type=fface200_200&expire=2&refresh=true"
-    },
-    {
-      "rank": 4,
+      "rank": 6,
       "title": "최우수산",
       "rating": 1.4,
       "channel": "",
@@ -104,7 +134,7 @@
       "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F108%2F2026%2F06%2F13%2F3443946.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
@@ -114,7 +144,7 @@
       "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHb7fTPT7ALs%2Fmaxresdefault.jpg&type=f368_208"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "마니또 클럽",
       "rating": 0.9,
       "channel": "",
