@@ -1,48 +1,28 @@
 {
-  "updated": "2026-06-26T00:03:07",
+  "updated": "2026-06-27T00:02:58",
   "dramas": [
     {
       "rank": 1,
-      "title": "김부장",
-      "rating": 13.0,
-      "channel": "SBS",
-      "air_days": "금·토",
-      "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
+      "title": "사랑을 처방해 드립니다",
+      "rating": 19.0,
+      "channel": "KBS2",
+      "air_days": "토·일",
+      "synopsis": "30년 동안 악연으로 얽혔던 두 집안이 오해를 풀고 서로의 상처를 보듬으며, 결국 하나의 가족으로 다시 태어나는 패밀리 메이크업 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260605_177%2F1780643009824ofbJ8_JPEG%2F0b896e8db9eecc002b4012185312d75f.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260627_87%2F02QM7_1782514296471xw6iq_JPEG%2FrCkqxjeteCNz.jpg"
     },
     {
       "rank": 2,
-      "title": "김부장' 윤경호",
-      "rating": 13.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F003%2F2026%2F06%2F25%2F14029008.jpg&type=fface200_200&expire=2&refresh=true"
-    },
-    {
-      "rank": 3,
       "title": "기쁜 우리 좋은 날",
-      "rating": 10.0,
+      "rating": 10.2,
       "channel": "KBS1",
       "air_days": "",
       "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260625_53%2Fp1g4D_1782391900896lWwSc_JPEG%2FTQ3sfAWXkNAQ.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260626_190%2F6CpMv_1782480400993ulbQs_JPEG%2Fwloxe2RK0GJ4.jpg"
     },
     {
-      "rank": 4,
-      "title": "신입사원 강회장",
-      "rating": 8.83,
-      "channel": "JTBC",
-      "air_days": "토",
-      "synopsis": "사업의 신이라 불리는 굴지의 대기업 회장이 사고를 당하면서 원치 않는 2회차 인생을 살게 되는 리마인드 라이프 스토리 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260624_48%2FcaAnS_1782263801482LQpeG_JPEG%2F20260624_100655_295_1.jpg"
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "title": "허수아비",
       "rating": 8.5,
       "channel": "ENA",
@@ -52,27 +32,7 @@
       "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260622_153%2F86vtO_17821052401592ijVL_JPEG%2F22557790-ac0b-45a7-8a7e-9bfd4e3bacbd.jpg"
     },
     {
-      "rank": 6,
-      "title": "첫 번째 남자",
-      "rating": 6.1,
-      "channel": "MBC",
-      "air_days": "목",
-      "synopsis": "복수를 위하여 다른 사람의 삶을 살게 된 여자와 자신의 욕망을 위하여 다른 사람의 삶을 빼앗은 여자의 목숨을 건 치명적 대결을 그린 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260625_92%2Fp0VZq_17823859150164YVLU_JPEG%2Fclip_20260625200203_42.jpg"
-    },
-    {
-      "rank": 7,
-      "title": "내일도 출근!",
-      "rating": 4.8,
-      "channel": "tvN",
-      "air_days": "월·화",
-      "synopsis": "일상적 권태기에 시달리던 7년 차 직장인 차지윤이 까칠한 직장 상사 강시우와 함께 서로의 대체 불가능한 최선이 되어 일도 사랑도 다시 '설렘 ON 오피스 로맨스'",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260625_215%2F8rqo2_1782372843506ERn4r_JPEG%2Fde65433c-2a5f-4f57-a498-adb17c848575_naver.jpg"
-    },
-    {
-      "rank": 8,
+      "rank": 4,
       "title": "닥터 섬보이",
       "rating": 4.8,
       "channel": "ENA",
@@ -82,12 +42,32 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260506_222%2F1778030307138KNgNN_JPEG%2Fd6c5313af03651e82bef3be2cc05d72b.jpg"
     },
     {
-      "rank": 9,
+      "rank": 5,
+      "title": "내일도 출근!",
+      "rating": 4.8,
+      "channel": "tvN",
+      "air_days": "월·화",
+      "synopsis": "일상적 권태기에 시달리던 7년 차 직장인 차지윤이 까칠한 직장 상사 강시우와 함께 서로의 대체 불가능한 최선이 되어 일도 사랑도 다시 '설렘 ON 오피스 로맨스'",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260625_90%2FpeFcz_1782387369054YyTgz_JPEG%2Faf4d4b4e-f48e-4252-8cf5-4706a3b0fefc_naver.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "클라이맥스', '세이렌",
+      "rating": 3.3,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5353%2F2026%2F03%2F31%2F1220379.jpg&type=fface200_200&expire=2&refresh=true"
+    },
+    {
+      "rank": 7,
       "title": "아너: 그녀들의 법정",
       "rating": 3.1,
       "channel": "ENA",
       "air_days": "",
-      "synopsis": "거대한 스캔들이 되어 돌아온 과거에 정면 돌파로 맞서는 세 여성 변호사의 뜨거운 미스터리 추적극. 그리하여 지금이다. 잃어버린 명예를 되찾을 시간.",
+      "synopsis": "거대한 스캔들이 되어 돌아온 과거에 정면 돌파로 맞서는 세 여성 변호사의 뜨거운 미스터리 추적극.\n그리하여 지금이다. 잃어버린 명예를 되찾을 시간.",
       "cast": [],
       "poster_url": ""
     }
@@ -122,16 +102,6 @@
       "synopsis": "지진 이후 재난 FM 라디오에 모인 사람들이 웃음과 진심의 목소리로 서로의 상처를 치유해 가는 이야기",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
-    },
-    {
-      "rank": 4,
-      "title": "아는 형님",
-      "rating": 1.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHb7fTPT7ALs%2Fmaxresdefault.jpg&type=f368_208"
     }
   ]
 }
