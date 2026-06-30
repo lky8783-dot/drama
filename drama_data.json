@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T00:02:56",
+  "updated": "2026-06-30T00:02:46",
   "dramas": [
     {
       "rank": 1,
@@ -9,42 +9,32 @@
       "air_days": "토·일",
       "synopsis": "30년 동안 악연으로 얽혔던 두 집안이 오해를 풀고 서로의 상처를 보듬으며, 결국 하나의 가족으로 다시 태어나는 패밀리 메이크업 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260628_125%2FfB8nO_1782652002511PfMwz_JPEG%2FscZ2DZFDzyfY.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260629_300%2FGPBHu_17827234587641Rq4a_JPEG%2FtIWs9pSXil92.jpg"
     },
     {
       "rank": 2,
-      "title": "아빠가 된",
+      "title": "예술영화 투자'가 불러온 '보은 시청",
+      "rating": 15.7,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F445%2F2026%2F06%2F29%2F432605.jpg&type=fface200_200&expire=2&refresh=true"
+    },
+    {
+      "rank": 3,
+      "title": "13시간 못 말해요\" 윤경호, '김부장",
       "rating": 15.0,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Focc-0-8158-993.1.nflxso.net%2Fdnm%2Fapi%2Fv6%2F6AYY37jfdO6hpXcMjf9Yu5cnmO0%2FAAAABWpvGflY2J3X5l22pl8rohwTtwcvppGZL7alC8TczvPaH1q2EP4DxS1xKV_Is6BLBLX7mYaaU4CqguedovdLe6Df9dKDI3EFbY_3.jpg%3Fr%3D686&type=fff208_208_ar"
-    },
-    {
-      "rank": 3,
-      "title": "신입사원 강회장",
-      "rating": 11.0,
-      "channel": "JTBC",
-      "air_days": "토",
-      "synopsis": "사업의 신이라 불리는 굴지의 대기업 회장이 사고를 당하면서 원치 않는 2회차 인생을 살게 되는 리마인드 라이프 스토리 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260628_222%2FtDtle_1782642995099SNXN2_JPEG%2F20260628_192402_685_1.jpg"
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5486%2F2026%2F06%2F29%2F350495.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
       "rank": 4,
-      "title": "허수아비",
-      "rating": 8.5,
-      "channel": "ENA",
-      "air_days": "",
-      "synopsis": "연쇄살인사건의 진범을 수사하던 형사가 자신이 혐오하던 놈과 뜻밖의 공조 관계를 맺으면서 펼쳐지는 범죄 수사 스릴러",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260622_153%2F86vtO_17821052401592ijVL_JPEG%2F22557790-ac0b-45a7-8a7e-9bfd4e3bacbd.jpg"
-    },
-    {
-      "rank": 5,
       "title": "닥터 섬보이",
-      "rating": 4.8,
+      "rating": 4.5,
       "channel": "ENA",
       "air_days": "월·화",
       "synopsis": "모두가 기피하는 악명 높은 섬 '편동도'에 입도한 공중보건의사 도지의와 비밀 많은 간호사 육하리가 그리는 메디컬 휴먼 로맨스",
@@ -52,17 +42,17 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260506_222%2F1778030307138KNgNN_JPEG%2Fd6c5313af03651e82bef3be2cc05d72b.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "내일도 출근!",
-      "rating": 4.8,
+      "rating": 4.5,
       "channel": "tvN",
       "air_days": "월·화",
       "synopsis": "일상적 권태기에 시달리던 7년 차 직장인 차지윤이 까칠한 직장 상사 강시우와 함께 서로의 대체 불가능한 최선이 되어 일도 사랑도 다시 '설렘 ON 오피스 로맨스'",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260625_235%2FwEXfQ_1782374883955tU9ld_JPEG%2Fa94a4e36-9351-46cc-bf7f-60d2f4eae329_naver.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260625_19%2FTuPu4_1782376444420gE50e_JPEG%2Fb301cee9-a1ff-4146-9b23-4b7ab334174e_naver.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "클라이맥스', '세이렌",
       "rating": 3.3,
       "channel": "",
