@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-01T00:02:59",
+  "updated": "2026-07-02T00:03:18",
   "dramas": [
     {
       "rank": 1,
-      "title": "기쁜 우리 좋은 날",
-      "rating": 11.0,
-      "channel": "KBS1",
-      "air_days": "",
-      "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
+      "title": "사랑을 처방해 드립니다",
+      "rating": 19.0,
+      "channel": "KBS2",
+      "air_days": "토·일",
+      "synopsis": "30년 동안 악연으로 얽혔던 두 집안이 오해를 풀고 서로의 상처를 보듬으며, 결국 하나의 가족으로 다시 태어나는 패밀리 메이크업 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260630_226%2FYKuaG_1782824800378syHUN_JPEG%2Fj8KH4o9vHap4.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260630_126%2Fe6KVI_1782810097210eUE65_JPEG%2Fl9Rk1hGxgwMx.jpg"
     },
     {
       "rank": 2,
@@ -43,23 +43,23 @@
     },
     {
       "rank": 5,
+      "title": "날 채워준 한 사람",
+      "rating": 4.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimages.khan.co.kr%2Farticle%2F2026%2F07%2F01%2Fnews-p.v1.20260701.1557f1c9f04240c7abe4caa422e58a91_P1.jpg&type=fff208_208_ar"
+    },
+    {
+      "rank": 6,
       "title": "클라이맥스', '세이렌",
       "rating": 3.3,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Finfluencer-phinf.pstatic.net%2FMjAyNjAzMDFfMjEx%2FMDAxNzcyMzM4MDc4ODM1.MQqkCEePWK93h_063FXXFsLl3VPuKdYbORvUKW0dt70g.FSCHTYBFm58Bjdg9BbJAC1rADDA4RN1MrfcH2GVOJKcg.PNG%2Fc9ac.png%3Ftype%3Dw700&type=fff208_208_ar"
-    },
-    {
-      "rank": 6,
-      "title": "클라이맥스",
-      "rating": 3.3,
-      "channel": "ENA",
-      "air_days": "",
-      "synopsis": "대한민국 최고의 자리에 서기 위해 권력의 카르텔에 뛰어든 검사 방태섭과 그를 둘러싼 이들의 치열한 생존극",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260622_203%2FVjkHK_17821070263939FixJ_JPEG%2F93461292-f4db-4609-b857-dbd49b91024f.jpg"
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5353%2F2026%2F03%2F31%2F1220379.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
       "rank": 7,
@@ -75,13 +75,13 @@
   "variety": [
     {
       "rank": 1,
-      "title": "1박2일' '무한도전' '해피투게더",
-      "rating": 20.0,
+      "title": "미운우리새끼",
+      "rating": 9.9,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fwww.consumernews.co.kr%2Fnews%2Fphoto%2F200803%2F10706_aa2d39990e6a16cfc5032399cc85ddc9.bmp&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5191%2F2026%2F06%2F05%2F500755.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
       "rank": 2,
@@ -95,6 +95,26 @@
     },
     {
       "rank": 3,
+      "title": "마음이 힘들어 쓰기 시작했다",
+      "rating": 7.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
+    },
+    {
+      "rank": 4,
+      "title": "라디오 스타",
+      "rating": 5.6,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "지진 이후 재난 FM 라디오에 모인 사람들이 웃음과 진심의 목소리로 서로의 상처를 치유해 가는 이야기",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
+    },
+    {
+      "rank": 5,
       "title": "산골총각 영웅",
       "rating": 4.7,
       "channel": "",
@@ -102,6 +122,16 @@
       "synopsis": "",
       "cast": [],
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260611_90%2Fmwrk7_1781137422918ofbs2_PNG%2Fc8a4abb7-5790-4539-a8b6-4a875965d883.png%3Ftype%3Dround_192_192&type=fff208_208_ar"
+    },
+    {
+      "rank": 6,
+      "title": "콩콩팜팜",
+      "rating": 4.2,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.tving.com%2Fntgs%2Fcontents%2FCTC%2Fcaip%2FCAIP0400%2Fko%2F20260610%2F0805%2FP001788051.jpg%2Fdims%2Fresize%2F500&type=fff208_208_ar"
     }
   ]
 }
