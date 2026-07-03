@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T00:03:18",
+  "updated": "2026-07-03T00:03:07",
   "dramas": [
     {
       "rank": 1,
@@ -13,6 +13,16 @@
     },
     {
       "rank": 2,
+      "title": "김부장",
+      "rating": 18.1,
+      "channel": "SBS",
+      "air_days": "금·토",
+      "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260605_177%2F1780643009824ofbJ8_JPEG%2F0b896e8db9eecc002b4012185312d75f.jpg"
+    },
+    {
+      "rank": 3,
       "title": "허수아비",
       "rating": 8.5,
       "channel": "ENA",
@@ -22,17 +32,17 @@
       "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260622_153%2F86vtO_17821052401592ijVL_JPEG%2F22557790-ac0b-45a7-8a7e-9bfd4e3bacbd.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "내일도 출근!",
       "rating": 5.4,
       "channel": "tvN",
       "air_days": "월·화",
       "synopsis": "일상적 권태기에 시달리던 7년 차 직장인 차지윤이 까칠한 직장 상사 강시우와 함께 서로의 대체 불가능한 최선이 되어 일도 사랑도 다시 '설렘 ON 오피스 로맨스'",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260630_158%2F4KKUb_1782812644097tMuLl_JPEG%2Fb80dd916-a268-44bf-9e9f-1b6dce888327_naver.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260702_155%2FEAFWp_1782974886420G31KP_JPEG%2F42f58520-853d-41b0-967b-f594bbea33f8_naver.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "닥터 섬보이",
       "rating": 4.8,
       "channel": "ENA",
@@ -42,27 +52,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260506_222%2F1778030307138KNgNN_JPEG%2Fd6c5313af03651e82bef3be2cc05d72b.jpg"
     },
     {
-      "rank": 5,
-      "title": "날 채워준 한 사람",
-      "rating": 4.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimages.khan.co.kr%2Farticle%2F2026%2F07%2F01%2Fnews-p.v1.20260701.1557f1c9f04240c7abe4caa422e58a91_P1.jpg&type=fff208_208_ar"
-    },
-    {
       "rank": 6,
-      "title": "클라이맥스', '세이렌",
-      "rating": 3.3,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5353%2F2026%2F03%2F31%2F1220379.jpg&type=fface200_200&expire=2&refresh=true"
-    },
-    {
-      "rank": 7,
       "title": "아너: 그녀들의 법정",
       "rating": 3.1,
       "channel": "ENA",
@@ -75,13 +65,13 @@
   "variety": [
     {
       "rank": 1,
-      "title": "미운우리새끼",
-      "rating": 9.9,
+      "title": "1박2일' '무한도전' '해피투게더",
+      "rating": 20.0,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5191%2F2026%2F06%2F05%2F500755.jpg&type=fface200_200&expire=2&refresh=true"
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Fthumb140%2F112%2F2011%2F09%2F06%2F2223878.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
       "rank": 2,
@@ -95,16 +85,6 @@
     },
     {
       "rank": 3,
-      "title": "마음이 힘들어 쓰기 시작했다",
-      "rating": 7.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": ""
-    },
-    {
-      "rank": 4,
       "title": "라디오 스타",
       "rating": 5.6,
       "channel": "",
@@ -114,24 +94,14 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "산골총각 영웅",
-      "rating": 4.7,
+      "rating": 5.3,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260611_90%2Fmwrk7_1781137422918ofbs2_PNG%2Fc8a4abb7-5790-4539-a8b6-4a875965d883.png%3Ftype%3Dround_192_192&type=fff208_208_ar"
-    },
-    {
-      "rank": 6,
-      "title": "콩콩팜팜",
-      "rating": 4.2,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.tving.com%2Fntgs%2Fcontents%2FCTC%2Fcaip%2FCAIP0400%2Fko%2F20260610%2F0805%2FP001788051.jpg%2Fdims%2Fresize%2F500&type=fff208_208_ar"
     }
   ]
 }
