@@ -1,65 +1,35 @@
 {
-  "updated": "2026-07-03T00:03:07",
+  "updated": "2026-07-04T00:03:02",
   "dramas": [
     {
       "rank": 1,
+      "title": "김부장' 소지섭, 벌써 '연기대상",
+      "rating": 20.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F108%2F2026%2F07%2F04%2F3449920.jpg&type=fface200_200&expire=2&refresh=true"
+    },
+    {
+      "rank": 2,
       "title": "사랑을 처방해 드립니다",
       "rating": 19.0,
       "channel": "KBS2",
       "air_days": "토·일",
       "synopsis": "30년 동안 악연으로 얽혔던 두 집안이 오해를 풀고 서로의 상처를 보듬으며, 결국 하나의 가족으로 다시 태어나는 패밀리 메이크업 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260630_126%2Fe6KVI_1782810097210eUE65_JPEG%2Fl9Rk1hGxgwMx.jpg"
-    },
-    {
-      "rank": 2,
-      "title": "김부장",
-      "rating": 18.1,
-      "channel": "SBS",
-      "air_days": "금·토",
-      "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260605_177%2F1780643009824ofbJ8_JPEG%2F0b896e8db9eecc002b4012185312d75f.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260704_154%2F9BGsz_1783119455719oKiBU_JPEG%2Ft9fnMqduIk4C.jpg"
     },
     {
       "rank": 3,
-      "title": "허수아비",
-      "rating": 8.5,
-      "channel": "ENA",
+      "title": "한국판 테이큰",
+      "rating": 9.0,
+      "channel": "",
       "air_days": "",
-      "synopsis": "연쇄살인사건의 진범을 수사하던 형사가 자신이 혐오하던 놈과 뜻밖의 공조 관계를 맺으면서 펼쳐지는 범죄 수사 스릴러",
+      "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260622_153%2F86vtO_17821052401592ijVL_JPEG%2F22557790-ac0b-45a7-8a7e-9bfd4e3bacbd.jpg"
-    },
-    {
-      "rank": 4,
-      "title": "내일도 출근!",
-      "rating": 5.4,
-      "channel": "tvN",
-      "air_days": "월·화",
-      "synopsis": "일상적 권태기에 시달리던 7년 차 직장인 차지윤이 까칠한 직장 상사 강시우와 함께 서로의 대체 불가능한 최선이 되어 일도 사랑도 다시 '설렘 ON 오피스 로맨스'",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260702_155%2FEAFWp_1782974886420G31KP_JPEG%2F42f58520-853d-41b0-967b-f594bbea33f8_naver.jpg"
-    },
-    {
-      "rank": 5,
-      "title": "닥터 섬보이",
-      "rating": 4.8,
-      "channel": "ENA",
-      "air_days": "월·화",
-      "synopsis": "모두가 기피하는 악명 높은 섬 '편동도'에 입도한 공중보건의사 도지의와 비밀 많은 간호사 육하리가 그리는 메디컬 휴먼 로맨스",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260506_222%2F1778030307138KNgNN_JPEG%2Fd6c5313af03651e82bef3be2cc05d72b.jpg"
-    },
-    {
-      "rank": 6,
-      "title": "아너: 그녀들의 법정",
-      "rating": 3.1,
-      "channel": "ENA",
-      "air_days": "",
-      "synopsis": "거대한 스캔들이 되어 돌아온 과거에 정면 돌파로 맞서는 세 여성 변호사의 뜨거운 미스터리 추적극. 그리하여 지금이다. 잃어버린 명예를 되찾을 시간.",
-      "cast": [],
-      "poster_url": ""
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.edaily.co.kr%2Fimages%2FPhoto%2Ffiles%2FNP%2FS%2F2026%2F06%2FPS26062901314.jpg&type=fff208_208_ar"
     }
   ],
   "variety": [
@@ -75,16 +45,6 @@
     },
     {
       "rank": 2,
-      "title": "갑론을박",
-      "rating": 7.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg.tenasia.co.kr%2Fphoto%2F202604%2FBF.44117156.1.jpg&type=fff208_208_ar"
-    },
-    {
-      "rank": 3,
       "title": "라디오 스타",
       "rating": 5.6,
       "channel": "",
@@ -94,9 +54,9 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "산골총각 영웅",
-      "rating": 5.3,
+      "rating": 4.7,
       "channel": "",
       "air_days": "",
       "synopsis": "",
