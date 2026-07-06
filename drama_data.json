@@ -1,28 +1,38 @@
 {
-  "updated": "2026-07-05T00:02:55",
+  "updated": "2026-07-06T00:03:08",
   "dramas": [
     {
       "rank": 1,
-      "title": "김부장' 소지섭, 벌써 '연기대상",
+      "title": "김부장",
+      "rating": 23.0,
+      "channel": "SBS",
+      "air_days": "금·토",
+      "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260605_177%2F1780643009824ofbJ8_JPEG%2F0b896e8db9eecc002b4012185312d75f.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "아저씨표 참교육",
       "rating": 20.0,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F108%2F2026%2F07%2F04%2F3449920.jpg&type=fface200_200&expire=2&refresh=true"
-    },
-    {
-      "rank": 2,
-      "title": "사랑을 처방해 드립니다",
-      "rating": 19.0,
-      "channel": "KBS2",
-      "air_days": "토·일",
-      "synopsis": "30년 동안 악연으로 얽혔던 두 집안이 오해를 풀고 서로의 상처를 보듬으며, 결국 하나의 가족으로 다시 태어나는 패밀리 메이크업 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260705_136%2FzB5sA_1783205797385lzIs2_JPEG%2F6AxcpSBDSsLh.jpg"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fic-cdn.flipboard.com%2Fkhan.co.kr%2F4d5a664799a540f21d8a4ab2ba8fbc394cfd09e4%2F_medium.png&type=fff208_208_ar"
     },
     {
       "rank": 3,
+      "title": "김부장' 단 4회 만에",
+      "rating": 20.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F144%2F2026%2F07%2F05%2F1124423.jpg&type=fface200_200&expire=2&refresh=true"
+    },
+    {
+      "rank": 4,
       "title": "한국판 테이큰",
       "rating": 9.0,
       "channel": "",
@@ -32,14 +42,24 @@
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fwww.ftimes.kr%2Fnews%2Fthumbnail%2F202607%2F38350_46827_2532_v150.jpg&type=fff208_208_ar"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "허수아비",
+      "rating": 8.5,
+      "channel": "ENA",
+      "air_days": "",
+      "synopsis": "연쇄살인사건의 진범을 수사하던 형사가 자신이 혐오하던 놈과 뜻밖의 공조 관계를 맺으면서 펼쳐지는 범죄 수사 스릴러",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260622_153%2F86vtO_17821052401592ijVL_JPEG%2F22557790-ac0b-45a7-8a7e-9bfd4e3bacbd.jpg"
+    },
+    {
+      "rank": 6,
       "title": "내일도 출근!",
       "rating": 5.4,
       "channel": "tvN",
       "air_days": "월·화",
       "synopsis": "일상적 권태기에 시달리던 7년 차 직장인 차지윤이 까칠한 직장 상사 강시우와 함께 서로의 대체 불가능한 최선이 되어 일도 사랑도 다시 '설렘 ON 오피스 로맨스'",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260703_141%2FeIyFk_1783070047342li8Ic_JPEG%2F16671299-78de-4621-bf51-3bb87efb2833_naver.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260704_54%2FKsHs5_1783137599969icCrY_JPEG%2Ff371b109-dcd8-4df1-b80c-fb9416ec24aa_naver.jpg"
     }
   ],
   "variety": [
@@ -71,7 +91,7 @@
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260611_90%2Fmwrk7_1781137422918ofbs2_PNG%2Fc8a4abb7-5790-4539-a8b6-4a875965d883.png%3Ftype%3Dround_192_192&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Finfluencer-phinf.pstatic.net%2FMjAyNjA2MjRfOTkg%2FMDAxNzgyMjY4ODI0MzM5.Gp9Zx5iTUOA-OVG9Hn2HdvgHpzhVDfqd7rw557JOsAsg.Erx_xgrUKqMeqVE1yfUMDoGPSgeDuyJP11NEYo1ss-8g.PNG%2Fe074.png%3Ftype%3Dw700&type=fff208_208_ar"
     }
   ]
 }
