@@ -1,60 +1,50 @@
 {
-  "updated": "2026-07-08T00:03:18",
+  "updated": "2026-07-09T00:03:09",
   "dramas": [
     {
       "rank": 1,
-      "title": "김부장",
-      "rating": 29.2,
-      "channel": "SBS",
-      "air_days": "금·토",
-      "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
+      "title": "닥쳐, 네 목을 부러뜨리기 전에..",
+      "rating": 50.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260605_177%2F1780643009824ofbJ8_JPEG%2F0b896e8db9eecc002b4012185312d75f.jpg"
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5480%2F2019%2F06%2F07%2F4036.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true"
     },
     {
       "rank": 2,
-      "title": "드라마 '김부장",
-      "rating": 21.0,
+      "title": "올해 미니시리즈 최고",
+      "rating": 18.8,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F008%2F2026%2F07%2F06%2F5381765.jpg&type=fface200_200&expire=2&refresh=true"
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F001%2F2026%2F07%2F04%2F16175662.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
       "rank": 3,
-      "title": "무법 중년",
-      "rating": 15.7,
-      "channel": "",
+      "title": "모범택시",
+      "rating": 16.0,
+      "channel": "SBS",
       "air_days": "",
-      "synopsis": "",
+      "synopsis": "“정의가 실종된 사회, 전화 한 통이면 오케이” 베일에 가려진 택시회사 무지개 운수와 택시기사 김도기가 억울한 피해자를 대신해 복수를 완성하는 사적 복수 대행극",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fcdn.ize.co.kr%2Fnews%2Fthumbnail%2F202607%2F78489_119950_5219_v150.jpg&type=fff208_208_ar"
-    },
-    {
-      "rank": 4,
-      "title": "기쁜우리좋은날",
-      "rating": 11.1,
-      "channel": "KBS1",
-      "air_days": "",
-      "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
-      "cast": [],
-      "poster_url": ""
-    },
-    {
-      "rank": 5,
-      "title": "허수아비",
-      "rating": 8.5,
-      "channel": "ENA",
-      "air_days": "",
-      "synopsis": "연쇄살인사건의 진범을 수사하던 형사가 자신이 혐오하던 놈과 뜻밖의 공조 관계를 맺으면서 펼쳐지는 범죄 수사 스릴러",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260622_153%2F86vtO_17821052401592ijVL_JPEG%2F22557790-ac0b-45a7-8a7e-9bfd4e3bacbd.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20251105_124%2F1762326712784wog7W_JPEG%2Fbdadfa7aca6180e5094120f9556633ad.jpg"
     }
   ],
   "variety": [
     {
       "rank": 1,
+      "title": "미운우리새끼",
+      "rating": 9.9,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
+    },
+    {
+      "rank": 2,
       "title": "라디오 스타",
       "rating": 5.6,
       "channel": "",
@@ -62,56 +52,6 @@
       "synopsis": "지진 이후 재난 FM 라디오에 모인 사람들이 웃음과 진심의 목소리로 서로의 상처를 치유해 가는 이야기",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
-    },
-    {
-      "rank": 2,
-      "title": "결혼의 완성",
-      "rating": 4.4,
-      "channel": "KBS2",
-      "air_days": "토·일",
-      "synopsis": "이혼 직전 납치된 아내를 구하기 위해 인면수심의 범죄자와 극한 사투를 벌이게 된 한 남자의 위험천만한 범죄스릴러",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260706_274%2FcKNZa_1783292255193Q1hES_JPEG%2FpzeQIjQoM3S3.jpg"
-    },
-    {
-      "rank": 3,
-      "title": "산골총각 영웅",
-      "rating": 4.2,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Finfluencer-phinf.pstatic.net%2FMjAyNjA2MThfMjQ3%2FMDAxNzgxNzcwNjU4MTQx.el_t3uItD0ZMoNZXxuk9sjR8WI2bwcslQ-Wv9SKuDXIg.7dnQpLLskocTme_VeBFNSWBzDDwTMwO_Y1zgq0zUW6Ug.PNG%2F5cfd.png%3Ftype%3Dw700&type=fff208_208_ar"
-    },
-    {
-      "rank": 4,
-      "title": "불후의 명곡",
-      "rating": 4.1,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5191%2F2026%2F07%2F04%2F506180.jpg&type=fface200_200&expire=2&refresh=true"
-    },
-    {
-      "rank": 5,
-      "title": "메시 vs 보지냐",
-      "rating": 3.6,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fflexible.img.hani.co.kr%2Fflexible%2Fnormal%2F600%2F426%2Fimgdb%2Foriginal%2F2026%2F0705%2F20260705501348.webp&type=fff208_208_ar"
-    },
-    {
-      "rank": 6,
-      "title": "아는 형님",
-      "rating": 1.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FEMTRyqkwPKKtNGNyVpCFrRAxl9-s330eSYvRoiPKuZKe_SdmmkW7bCZ8OMreP39XjYxLBO2uj9fX5ia677yAqg.webp&type=fff208_208_ar"
     }
   ]
 }
