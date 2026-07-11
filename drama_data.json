@@ -1,18 +1,8 @@
 {
-  "updated": "2026-07-10T00:03:08",
+  "updated": "2026-07-11T00:03:14",
   "dramas": [
     {
       "rank": 1,
-      "title": "닥쳐, 네 목을 부러뜨리기 전에..",
-      "rating": 50.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5480%2F2019%2F06%2F07%2F4036.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true"
-    },
-    {
-      "rank": 2,
       "title": "김부장",
       "rating": 29.2,
       "channel": "SBS",
@@ -22,7 +12,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260605_177%2F1780643009824ofbJ8_JPEG%2F0b896e8db9eecc002b4012185312d75f.jpg"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "안경 쓴 아저씨들 제대로 일냈다",
       "rating": 21.6,
       "channel": "",
@@ -32,7 +22,7 @@
       "poster_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTJfMTM0%2FMDAxNzgxMjU4NTYyNDA0.bipaFZfEVvWKPW-UZ3xPABs9ecDTLeeqpezgHJeEgLsg.XnH6M1QPgxs4s1T4FKt8LS4ZEOlIRShhGN4Zj2rQfl0g.JPEG%2F30001067976_1280.jpg&type=fff208_208_ar"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "김부장'이 방송 4회만에 '꿈의 시청률",
       "rating": 20.0,
       "channel": "",
@@ -42,14 +32,34 @@
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg.mydaily.co.kr%2Fphotos%2F2026%2F07%2F05%2F2026070507341159736_l.jpg&type=fff208_208_ar"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "올해 미니시리즈 최고",
       "rating": 18.8,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA27aQhT.img%3Fw%3D964%26h%3D547%26m%3D4%26q%3D94&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg1.newsis.com%2F2026%2F07%2F04%2FNISI20260704_0002177980_web.jpg&type=fff208_208_ar"
+    },
+    {
+      "rank": 5,
+      "title": "판사 이한영",
+      "rating": 13.6,
+      "channel": "MBC",
+      "air_days": "",
+      "synopsis": "거대 로펌의 노예로 살다가 10년 전으로 회귀한 적폐 판사 이한영이 새로운 선택으로 거악을 응징하는 정의 구현 회귀 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260219_177%2FYS4kY_1771485696081lvJQG_PNG%2Fclip_20260219160756_45.png"
+    },
+    {
+      "rank": 6,
+      "title": "기쁜 우리 좋은 날",
+      "rating": 10.3,
+      "channel": "KBS1",
+      "air_days": "",
+      "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260710_202%2FyWGhW_1783689699968j1Ebc_JPEG%2Fl2icbc9jaTiP.jpg"
     }
   ],
   "variety": [
@@ -81,7 +91,7 @@
       "air_days": "토·일",
       "synopsis": "이혼 직전 납치된 아내를 구하기 위해 인면수심의 범죄자와 극한 사투를 벌이게 된 한 남자의 위험천만한 범죄스릴러",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260706_274%2FcKNZa_1783292255193Q1hES_JPEG%2FpzeQIjQoM3S3.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260711_76%2F7XqoK_17837206580719CEqt_JPEG%2FdkjzxqVDSiyl.jpg"
     },
     {
       "rank": 4,
