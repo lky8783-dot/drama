@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T00:03:26",
+  "updated": "2026-07-13T00:03:15",
   "dramas": [
     {
       "rank": 1,
@@ -13,6 +13,16 @@
     },
     {
       "rank": 2,
+      "title": "열혈사제'(22%), '모범택시2",
+      "rating": 21.8,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg.khan.co.kr%2Fnews%2F2026%2F07%2F12%2Fnews-p.v1.20260712.530a2e6062ea41f7bd1fbdb6a9003198.png&type=fff208_208_ar"
+    },
+    {
+      "rank": 3,
       "title": "안경 쓴 아저씨들 제대로 일냈다",
       "rating": 21.6,
       "channel": "",
@@ -20,16 +30,6 @@
       "synopsis": "",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTJfMTM0%2FMDAxNzgxMjU4NTYyNDA0.bipaFZfEVvWKPW-UZ3xPABs9ecDTLeeqpezgHJeEgLsg.XnH6M1QPgxs4s1T4FKt8LS4ZEOlIRShhGN4Zj2rQfl0g.JPEG%2F30001067976_1280.jpg&type=fff208_208_ar"
-    },
-    {
-      "rank": 3,
-      "title": "김부장'이 방송 4회만에 '꿈의 시청률",
-      "rating": 20.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg.mydaily.co.kr%2Fphotos%2F2026%2F07%2F05%2F2026070507341159736_l.jpg&type=fff208_208_ar"
     },
     {
       "rank": 4,
@@ -60,18 +60,28 @@
       "synopsis": "총 대신 식칼, 탄띠 대신 앞치마! 이등병 강성재가 ‘전설의 취사병’으로 거듭나는 과정을 그린 밀리터리 쿡방 판타지 드라마",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=o&size=174x242&quality=75&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260427_289%2F1777268581598feg6T_JPEG%2Fe74bc7780afe3bcc6b1a4785c2f5bafd.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "결혼의 완성",
+      "rating": 6.4,
+      "channel": "KBS2",
+      "air_days": "토·일",
+      "synopsis": "이혼 직전 납치된 아내를 구하기 위해 인면수심의 범죄자와 극한 사투를 벌이게 된 한 남자의 위험천만한 범죄스릴러",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260713_247%2FsJpex_1783896998355UN5Sz_JPEG%2FtEQe3NYztunL.jpg"
     }
   ],
   "variety": [
     {
       "rank": 1,
-      "title": "미운우리새끼",
-      "rating": 9.9,
+      "title": "1박2일' '무한도전' '해피투게더",
+      "rating": 20.0,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": ""
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Fthumb140%2F112%2F2011%2F09%2F06%2F2223878.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
       "rank": 2,
@@ -85,26 +95,16 @@
     },
     {
       "rank": 3,
-      "title": "결혼의 완성",
-      "rating": 4.4,
-      "channel": "KBS2",
-      "air_days": "토·일",
-      "synopsis": "이혼 직전 납치된 아내를 구하기 위해 인면수심의 범죄자와 극한 사투를 벌이게 된 한 남자의 위험천만한 범죄스릴러",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260712_298%2FT5xgU_1783807056344YBIbT_JPEG%2FU0Sum95ynoE7.jpg"
-    },
-    {
-      "rank": 4,
       "title": "불후의 명곡",
       "rating": 4.1,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5353%2F2026%2F07%2F11%2F1274027.jpg&type=fface200_200&expire=2&refresh=true"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2F4SDNA-MmysGZ3I-TcF5YNKuHnW9RZiMfdCSZEAni7NduN92BKpWF5x6u_ORb86euo2lC9ryaNlnfC7M5cICQRA.webp&type=fff208_208_ar"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "메시 vs 보지냐",
       "rating": 3.6,
       "channel": "",
