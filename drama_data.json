@@ -1,8 +1,18 @@
 {
-  "updated": "2026-07-15T00:03:21",
+  "updated": "2026-07-16T00:03:32",
   "dramas": [
     {
       "rank": 1,
+      "title": "김부장",
+      "rating": 26.0,
+      "channel": "SBS",
+      "air_days": "금·토",
+      "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260605_177%2F1780643009824ofbJ8_JPEG%2F0b896e8db9eecc002b4012185312d75f.jpg"
+    },
+    {
+      "rank": 2,
       "title": "제작 드라마 '김부장",
       "rating": 22.3,
       "channel": "",
@@ -12,17 +22,17 @@
       "poster_url": ""
     },
     {
-      "rank": 2,
-      "title": "열혈사제'(22%), '모범택시2",
-      "rating": 21.8,
+      "rank": 3,
+      "title": "안경 쓴 아저씨들 제대로 일냈다",
+      "rating": 21.6,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg.khan.co.kr%2Fnews%2F2026%2F07%2F12%2Fnews-p.v1.20260712.530a2e6062ea41f7bd1fbdb6a9003198.png&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTJfMTM0%2FMDAxNzgxMjU4NTYyNDA0.bipaFZfEVvWKPW-UZ3xPABs9ecDTLeeqpezgHJeEgLsg.XnH6M1QPgxs4s1T4FKt8LS4ZEOlIRShhGN4Zj2rQfl0g.JPEG%2F30001067976_1280.jpg&type=fff208_208_ar"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "오싹한 연애",
       "rating": 20.0,
       "channel": "tvN",
@@ -32,7 +42,7 @@
       "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260713_6%2F5SbDe_1783953243931nrc7M_JPEG%2F39fc305e-b3b9-4c96-b7f3-1f650c899763_naver.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "소간지 액션",
       "rating": 20.0,
       "channel": "",
@@ -42,24 +52,14 @@
       "poster_url": ""
     },
     {
-      "rank": 5,
-      "title": "스토브리그",
-      "rating": 19.1,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "SBS '스토브리그' 원작 일본 리메이크 드라마! 만년 꼴찌 프로야구 팀 ‘드림즈’. 팀 내 불협화음과 팬 이탈이 심각해지는 가운데, 구단 운영을 책임지는 ‘단장’ 자리에 야구 경험이 전무한 사쿠라자키 준(카메나시 카즈야)이 ...",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260318_125%2F1773796627492P3eKu_JPEG%2F75d1e124985b73fc4f65c6e8226a08aa.jpg"
-    },
-    {
       "rank": 6,
       "title": "기쁜 우리 좋은 날",
-      "rating": 10.9,
+      "rating": 10.3,
       "channel": "KBS1",
       "air_days": "",
       "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260714_216%2FU8HHx_17840368118525yDwW_JPEG%2FXc43J4J4fyuh.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260715_144%2FUKBw3_1784119355316LdMXK_JPEG%2FgeEhwX6kTakn.jpg"
     },
     {
       "rank": 7,
@@ -69,7 +69,17 @@
       "air_days": "목",
       "synopsis": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기를 담은 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260714_202%2Fw8iiu_1784027506283mLySo_JPEG%2Fclip_20260714200302_28.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260715_100%2FFTQ6k_1784114499459bNrmi_JPEG%2Fclip_20260715201107_80.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "내일도 출근!",
+      "rating": 4.8,
+      "channel": "tvN",
+      "air_days": "월·화",
+      "synopsis": "일상적 권태기에 시달리던 7년 차 직장인 차지윤이 까칠한 직장 상사 강시우와 함께 서로의 대체 불가능한 최선이 되어 일도 사랑도 다시 '설렘 ON 오피스 로맨스'",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260714_247%2FuYrVs_1784027043854ldtGp_JPEG%2F5b8611dc-f5e2-45da-a40b-b16a915854a5_naver.jpg"
     }
   ],
   "variety": [
