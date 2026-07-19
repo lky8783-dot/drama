@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-18T00:03:30",
+  "updated": "2026-07-19T00:03:25",
   "dramas": [
     {
       "rank": 1,
-      "title": "오싹한 연애",
-      "rating": 26.4,
-      "channel": "tvN",
-      "air_days": "토·일",
-      "synopsis": "귀신을 보는 재벌 상속녀와 귀신을 가장 무서워하는 열혈 검사의 좌충우돌 오컬트 로맨스",
+      "title": "임무 실패",
+      "rating": 26.2,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260716_236%2F0ksnQ_1784193730284tA6J1_JPEG%2Fce105349-bf26-4b05-89e7-7bc58def8647_naver.jpg"
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F076%2F2026%2F07%2F19%2F4426788.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
       "rank": 2,
@@ -19,10 +19,20 @@
       "air_days": "금·토",
       "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260718_160%2FBi95I_1784304428934XwOuC_JPEG%2F28dd354c-e8aa-47dc-9692-1416f59c9898.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260605_177%2F1780643009824ofbJ8_JPEG%2F0b896e8db9eecc002b4012185312d75f.jpg"
     },
     {
       "rank": 3,
+      "title": "실패한 임무",
+      "rating": 23.1,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
+    },
+    {
+      "rank": 4,
       "title": "딸 찾은",
       "rating": 21.9,
       "channel": "",
@@ -32,7 +42,7 @@
       "poster_url": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "안경 쓴 아저씨들 제대로 일냈다",
       "rating": 21.6,
       "channel": "",
@@ -42,7 +52,7 @@
       "poster_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTJfMTM0%2FMDAxNzgxMjU4NTYyNDA0.bipaFZfEVvWKPW-UZ3xPABs9ecDTLeeqpezgHJeEgLsg.XnH6M1QPgxs4s1T4FKt8LS4ZEOlIRShhGN4Zj2rQfl0g.JPEG%2F30001067976_1280.jpg&type=fff208_208_ar"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "소간지 액션",
       "rating": 20.0,
       "channel": "",
@@ -52,7 +62,7 @@
       "poster_url": ""
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "김부장'이 방송 4회만에 '꿈의 시청률",
       "rating": 20.0,
       "channel": "",
@@ -62,7 +72,7 @@
       "poster_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA3MDVfMTYz%2FMDAxNzgzMjM1NDAxNTcz.kbTjM2NFXdfLa5vujWdFj58ONxa2elaH8YUmLd2wt4cg.bIhEg71afEYy_K5HbhfZVlQG6Zx9C6XyHt1kyicn0UQg.JPEG%2Fimage_aeb5870c.jpg&type=fff208_208_ar"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "기쁜 우리 좋은 날",
       "rating": 10.3,
       "channel": "KBS1",
@@ -72,17 +82,17 @@
       "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260717_259%2F02zRQ_1784292705948I4Shx_JPEG%2FeSRr1n7dH7Bn.jpg"
     },
     {
-      "rank": 8,
-      "title": "취사병",
-      "rating": 7.2,
-      "channel": "tvN",
-      "air_days": "월·화",
-      "synopsis": "총 대신 식칼, 탄띠 대신 앞치마! 이등병 강성재가 ‘전설의 취사병’으로 거듭나는 과정을 그린 밀리터리 쿡방 판타지 드라마",
+      "rank": 9,
+      "title": "가족관계증명서",
+      "rating": 4.9,
+      "channel": "MBC",
+      "air_days": "목",
+      "synopsis": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기를 담은 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=174x242&quality=75&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260427_289%2F1777268581598feg6T_JPEG%2Fe74bc7780afe3bcc6b1a4785c2f5bafd.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260717_290%2FVieL4_1784286759257jK3z6_JPEG%2Fclip_20260717200655_23.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "내일도 출근!",
       "rating": 4.8,
       "channel": "tvN",
@@ -90,16 +100,6 @@
       "synopsis": "일상적 권태기에 시달리던 7년 차 직장인 차지윤이 까칠한 직장 상사 강시우와 함께 서로의 대체 불가능한 최선이 되어 일도 사랑도 다시 '설렘 ON 오피스 로맨스'",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260715_223%2F0kQrs_17841050443658BD2C_JPEG%2F52df7afd-a6d4-4179-aa16-0e9673e49702_naver.jpg"
-    },
-    {
-      "rank": 10,
-      "title": "가족관계증명서",
-      "rating": 4.2,
-      "channel": "MBC",
-      "air_days": "목",
-      "synopsis": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기를 담은 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260717_290%2FVieL4_1784286759257jK3z6_JPEG%2Fclip_20260717200655_23.jpg"
     }
   ],
   "variety": [
@@ -135,6 +135,16 @@
     },
     {
       "rank": 4,
+      "title": "산골총각 영웅",
+      "rating": 5.3,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2F5u30W7rP1lJJBUpEg7E82FGO6lUEuTJEMFC2lN2EB6anmuXlPeDaAMd0TqLLWxi_W3wXoqWAa9V322jSR_DMoA.webp&type=fff208_208_ar"
+    },
+    {
+      "rank": 5,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
