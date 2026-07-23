@@ -1,18 +1,8 @@
 {
-  "updated": "2026-07-22T00:02:55",
+  "updated": "2026-07-23T00:02:56",
   "dramas": [
     {
       "rank": 1,
-      "title": "닥쳐, 네 목을 부러뜨리기 전에..",
-      "rating": 50.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fs.bizhankook.com%2Fattachments%2F2026%2F05%2Fec6abcb6071c.jpg&type=fff208_208_ar"
-    },
-    {
-      "rank": 2,
       "title": "김부장",
       "rating": 26.4,
       "channel": "SBS",
@@ -22,57 +12,47 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260605_177%2F1780643009824ofbJ8_JPEG%2F0b896e8db9eecc002b4012185312d75f.jpg"
     },
     {
-      "rank": 3,
-      "title": "안경 쓴 아저씨들 제대로 일냈다",
-      "rating": 21.6,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MTJfMTM0%2FMDAxNzgxMjU4NTYyNDA0.bipaFZfEVvWKPW-UZ3xPABs9ecDTLeeqpezgHJeEgLsg.XnH6M1QPgxs4s1T4FKt8LS4ZEOlIRShhGN4Zj2rQfl0g.JPEG%2F30001067976_1280.jpg&type=fff208_208_ar"
-    },
-    {
-      "rank": 4,
-      "title": "김부장'이 방송 4회만에 '꿈의 시청률",
-      "rating": 20.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA3MDVfMTYz%2FMDAxNzgzMjM1NDAxNTcz.kbTjM2NFXdfLa5vujWdFj58ONxa2elaH8YUmLd2wt4cg.bIhEg71afEYy_K5HbhfZVlQG6Zx9C6XyHt1kyicn0UQg.JPEG%2Fimage_aeb5870c.jpg&type=fff208_208_ar"
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "title": "기쁜 우리 좋은 날",
       "rating": 10.9,
       "channel": "KBS1",
       "air_days": "",
       "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260721_222%2FdOk2Y_1784637403352VhBmU_JPEG%2F38vH13psayxs.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260722_49%2FW8gi4_17847256021417Rp2u_JPEG%2FlFzq7VIaKkVi.jpg"
     },
     {
-      "rank": 6,
+      "rank": 3,
+      "title": "기쁜 우리 좋은 날 몇부작",
+      "rating": 10.3,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fhallyufeed.kr%2Fwp-content%2Fuploads%2F2026%2F04%2F%25EA%25B8%25B0%25EC%2581%259C-%25EC%259A%25B0%25EB%25A6%25AC-%25EC%25A2%258B%25EC%259D%2580-%25EB%2582%25A0.webp&type=fff208_208_ar"
+    },
+    {
+      "rank": 4,
       "title": "가족관계증명서",
       "rating": 4.9,
       "channel": "MBC",
       "air_days": "목",
       "synopsis": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기를 담은 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260721_184%2FLbC1l_1784632596912Sie8M_JPEG%2Fclip_20260721200429_78.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260722_185%2FFF5OR_1784721111257i9UtR_JPEG%2Fclip_20260722204347_112.jpg"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "아너: 그녀들의 법정",
       "rating": 3.1,
       "channel": "ENA",
       "air_days": "",
-      "synopsis": "거대한 스캔들이 되어 돌아온 과거에 정면 돌파로 맞서는 세 여성 변호사의 뜨거운 미스터리 추적극.\n그리하여 지금이다. 잃어버린 명예를 되찾을 시간.",
+      "synopsis": "거대한 스캔들이 되어 돌아온 과거에 정면 돌파로 맞서는 세 여성 변호사의 뜨거운 미스터리 추적극. 그리하여 지금이다. 잃어버린 명예를 되찾을 시간.",
       "cast": [],
       "poster_url": ""
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "그대에게 드림",
       "rating": 2.9,
       "channel": "ENA",
