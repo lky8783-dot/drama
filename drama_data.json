@@ -1,48 +1,28 @@
 {
-  "updated": "2026-07-24T00:02:58",
+  "updated": "2026-07-25T00:04:20",
   "dramas": [
     {
       "rank": 1,
-      "title": "닥쳐, 네 목을 부러뜨리기 전에..",
-      "rating": 50.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fs.bizhankook.com%2Fattachments%2F2026%2F05%2Fec6abcb6071c.jpg&type=fff208_208_ar"
-    },
-    {
-      "rank": 2,
-      "title": "김부장'이 방송 4회만에 '꿈의 시청률",
-      "rating": 20.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA3MDVfMTYz%2FMDAxNzgzMjM1NDAxNTcz.kbTjM2NFXdfLa5vujWdFj58ONxa2elaH8YUmLd2wt4cg.bIhEg71afEYy_K5HbhfZVlQG6Zx9C6XyHt1kyicn0UQg.JPEG%2Fimage_aeb5870c.jpg&type=fff208_208_ar"
-    },
-    {
-      "rank": 3,
       "title": "기쁜 우리 좋은 날",
       "rating": 11.7,
       "channel": "KBS1",
       "air_days": "",
       "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260723_272%2FS70Gu_1784810497322rjn2Q_JPEG%2F2BxZ1DuPxUt4.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260724_189%2FjFN3c_1784899296094Tbtrn_JPEG%2FrSl9bes1Tuny.jpg"
     },
     {
-      "rank": 4,
-      "title": "가족관계증명서",
-      "rating": 4.9,
-      "channel": "MBC",
-      "air_days": "목",
-      "synopsis": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기를 담은 드라마",
+      "rank": 2,
+      "title": "기쁜 우리 좋은 날 몇부작",
+      "rating": 10.3,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260723_243%2FLJJNN_1784806061319iquwS_JPEG%2Fclip_20260723201927_0.jpg"
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5566%2F2026%2F07%2F25%2F171116.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "아너: 그녀들의 법정",
       "rating": 3.1,
       "channel": "ENA",
@@ -65,6 +45,16 @@
     },
     {
       "rank": 2,
+      "title": "무명전설",
+      "rating": 9.3,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fmr9AZQxvjCw%2Fmaxresdefault.jpg&type=f368_208"
+    },
+    {
+      "rank": 3,
       "title": "라디오 스타",
       "rating": 5.6,
       "channel": "",
@@ -74,7 +64,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "능력자들",
       "rating": 1.4,
       "channel": "",
@@ -84,7 +74,7 @@
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fwww.pps.go.kr%2FfileManager%2Fkor%2Fbbs%2F2511030025%2F1761894283107.jpg&type=fff208_208_ar"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
