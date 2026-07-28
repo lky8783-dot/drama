@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-27T00:03:11",
+  "updated": "2026-07-28T00:03:14",
   "dramas": [
     {
       "rank": 1,
       "title": "사랑이 온다",
-      "rating": 13.0,
+      "rating": 13.8,
       "channel": "KBS2",
       "air_days": "토·일",
       "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260726_298%2F2JqPN_17850703099390YmAU_JPEG%2F6a65fe2a97e0adefd83dc18a_upload_1785069832461.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260727_279%2FH2FFz_1785142656017QXcjV_JPEG%2FGJ1eF4gdg1bg.jpg"
     },
     {
       "rank": 2,
@@ -19,7 +19,7 @@
       "air_days": "",
       "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260724_189%2FjFN3c_1784899296094Tbtrn_JPEG%2FrSl9bes1Tuny.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260727_293%2Fb4fr1_1785156099020ygQvu_JPEG%2Fk76j9NnHzjyY.jpg"
     },
     {
       "rank": 3,
@@ -39,7 +39,7 @@
       "air_days": "토·일",
       "synopsis": "이혼 직전 납치된 아내를 구하기 위해 인면수심의 범죄자와 극한 사투를 벌이게 된 한 남자의 위험천만한 범죄스릴러",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260727_263%2F1E6HU_1785106659490Ua914_JPEG%2FkXMPUwNhXpYL.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260727_264%2Fok7VT_1785112301101aBGS0_JPEG%2FHBPXyHtGwVn1.jpg"
     },
     {
       "rank": 5,
@@ -53,13 +53,23 @@
     },
     {
       "rank": 6,
-      "title": "내일도 출근!",
-      "rating": 4.8,
-      "channel": "tvN",
-      "air_days": "월·화",
-      "synopsis": "일상적 권태기에 시달리던 7년 차 직장인 차지윤이 까칠한 직장 상사 강시우와 함께 서로의 대체 불가능한 최선이 되어 일도 사랑도 다시 '설렘 ON 오피스 로맨스'",
+      "title": "아너: 그녀들의 법정",
+      "rating": 3.1,
+      "channel": "ENA",
+      "air_days": "",
+      "synopsis": "거대한 스캔들이 되어 돌아온 과거에 정면 돌파로 맞서는 세 여성 변호사의 뜨거운 미스터리 추적극. 그리하여 지금이다. 잃어버린 명예를 되찾을 시간.",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260723_15%2FAvn5q_1784806204005Vi47X_JPEG%2Feda4b093-37d4-4a3a-86bb-9f32ee07c0cf_naver.jpg"
+      "poster_url": ""
+    },
+    {
+      "rank": 7,
+      "title": "그대에게 드림",
+      "rating": 2.1,
+      "channel": "ENA",
+      "air_days": "월·화",
+      "synopsis": "꿈을 이루고 돌아온 천재 영화감독 우수빈과 꿈을 잊은 채 사는 생계형 리포터 주이재의 재회 후일담을 그린 로맨틱 코미디",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260724_167%2FMF5JL_1784866300628JoFwy_JPEG%2F330f46a0-0655-4a48-bfec-0446d4aa0c21.jpg"
     }
   ],
   "variety": [
@@ -75,16 +85,6 @@
     },
     {
       "rank": 2,
-      "title": "무명전설",
-      "rating": 9.3,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": ""
-    },
-    {
-      "rank": 3,
       "title": "라디오 스타",
       "rating": 5.6,
       "channel": "",
@@ -94,17 +94,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
     },
     {
-      "rank": 4,
-      "title": "황금어장-라디오 스타",
-      "rating": 5.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5042%2F2014%2F07%2F22%2F27110.jpg&type=fface200_200&expire=2&refresh=true"
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "title": "해피투게더-혼자가 아니어서 좋아",
       "rating": 4.8,
       "channel": "",
@@ -114,7 +104,7 @@
       "poster_url": ""
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "능력자들",
       "rating": 1.4,
       "channel": "",
@@ -124,14 +114,14 @@
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fwww.pps.go.kr%2FfileManager%2Fkor%2Fbbs%2F2511030025%2F1761894283107.jpg&type=fff208_208_ar"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": ""
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Ffs.jtbc.co.kr%2Fjoydata%2FCP00000001%2Fprog%2Fenter%2Fjtbcbros%2Fimg%2F20250923_153413_077.jpg&type=fff208_208_ar"
     }
   ]
 }
