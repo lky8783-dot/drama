@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T00:03:02",
+  "updated": "2026-07-31T00:03:01",
   "dramas": [
     {
       "rank": 1,
@@ -23,16 +23,6 @@
     },
     {
       "rank": 3,
-      "title": "기쁜 우리 좋은 날",
-      "rating": 11.7,
-      "channel": "KBS1",
-      "air_days": "",
-      "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260729_86%2FCqOQI_1785331297304xI64L_JPEG%2FPcoAKJvsuwh9.jpg"
-    },
-    {
-      "rank": 4,
       "title": "기쁜 우리 좋은 날 몇부작",
       "rating": 10.3,
       "channel": "",
@@ -40,16 +30,6 @@
       "synopsis": "",
       "cast": [],
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Finfluencer-phinf.pstatic.net%2FMjAyNjA3MTNfMTcg%2FMDAxNzgzOTMzOTk5NTIw.MtSd2Tm4GBmC7x5Q4BF9VppwQlhiqiJiAtJig4fEiCkg.l3m-0B7QlI_MwC9BhFVj-W6VWA7wxBW9aAJ5QRAJAmog.PNG%2F0fc9.png%3Ftype%3Dw700&type=fff208_208_ar"
-    },
-    {
-      "rank": 5,
-      "title": "오싹한 연애",
-      "rating": 5.8,
-      "channel": "tvN",
-      "air_days": "토·일",
-      "synopsis": "귀신을 보는 재벌 상속녀와 귀신을 가장 무서워하는 열혈 검사의 좌충우돌 오컬트 로맨스",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260729_214%2Fq3aa8_1785300349124IeAJ4_JPEG%2Fa11adb93-7188-40ea-a476-cc30b566f61a_naver.jpg"
     }
   ],
   "variety": [
@@ -65,16 +45,6 @@
     },
     {
       "rank": 2,
-      "title": "무명전설",
-      "rating": 9.3,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": ""
-    },
-    {
-      "rank": 3,
       "title": "라디오 스타",
       "rating": 5.6,
       "channel": "",
@@ -84,7 +54,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "능력자들",
       "rating": 1.4,
       "channel": "",
@@ -92,16 +62,6 @@
       "synopsis": "",
       "cast": [],
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fwww.pps.go.kr%2FfileManager%2Fkor%2Fbbs%2F2511030025%2F1761894283107.jpg&type=fff208_208_ar"
-    },
-    {
-      "rank": 5,
-      "title": "아는 형님",
-      "rating": 1.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.tving.com%2Fntgs%2Fcontents%2FCTC%2Fcaie%2FCAIE0400%2Fcom%2F20260725%2F1230%2FE004600530.jpg%2Fdims%2Fresize%2FF_webp%2C720&type=fff208_208_ar"
     }
   ]
 }
