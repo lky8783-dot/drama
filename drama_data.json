@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T00:03:01",
+  "updated": "2026-08-01T00:03:03",
   "dramas": [
     {
       "rank": 1,
@@ -19,10 +19,30 @@
       "air_days": "토·일",
       "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260727_279%2FH2FFz_1785142656017QXcjV_JPEG%2FGJ1eF4gdg1bg.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260801_126%2FnMqZv_1785538655726bC3Ly_JPEG%2FfTtI3Jb4RbHs.jpg"
     },
     {
       "rank": 3,
+      "title": "멋진 신세계",
+      "rating": 11.8,
+      "channel": "SBS",
+      "air_days": "",
+      "synopsis": "희대의 조선 악녀 영혼이 씌어 ‘악질’해진 무명배우 신서리와\n자본주의의 괴물이라 불리는 악질재벌 차세계의\n일촉즉발 전쟁 같은 로맨스 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260429_112%2F1777425582811RHMXL_JPEG%2F861d2969a4ff8f2cb6a5bfd0cb451ab1.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "기쁜 우리 좋은 날",
+      "rating": 11.3,
+      "channel": "KBS1",
+      "air_days": "",
+      "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260731_154%2F7VcX7_1785501756253RRVlj_JPEG%2F2P58oS4BuOUk.jpg"
+    },
+    {
+      "rank": 5,
       "title": "기쁜 우리 좋은 날 몇부작",
       "rating": 10.3,
       "channel": "",
@@ -30,21 +50,41 @@
       "synopsis": "",
       "cast": [],
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Finfluencer-phinf.pstatic.net%2FMjAyNjA3MTNfMTcg%2FMDAxNzgzOTMzOTk5NTIw.MtSd2Tm4GBmC7x5Q4BF9VppwQlhiqiJiAtJig4fEiCkg.l3m-0B7QlI_MwC9BhFVj-W6VWA7wxBW9aAJ5QRAJAmog.PNG%2F0fc9.png%3Ftype%3Dw700&type=fff208_208_ar"
+    },
+    {
+      "rank": 6,
+      "title": "유부녀 킬러",
+      "rating": 9.4,
+      "channel": "MBC",
+      "air_days": "금·토",
+      "synopsis": "세상에서 가장 살벌한 직업을 가진, 어느 워킹맘의 고군분투 워라밸(work & life balance) 사수기를 그린 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260731_242%2FZjQfR_1785473495791ASMh5_JPEG%2Fclip_20260731134158_0.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "첫방",
+      "rating": 7.4,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fcdn.ize.co.kr%2Fnews%2Fthumbnail%2F202605%2F76929_116769_4125_v150.jpg&type=fff208_208_ar"
+    },
+    {
+      "rank": 8,
+      "title": "결혼의 완성",
+      "rating": 7.3,
+      "channel": "KBS2",
+      "air_days": "토·일",
+      "synopsis": "이혼 직전 납치된 아내를 구하기 위해 인면수심의 범죄자와 극한 사투를 벌이게 된 한 남자의 위험천만한 범죄스릴러",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260801_3%2F9nDfb_1785535054238Lqh3I_JPEG%2F9MyhT1t6a3xq.jpg"
     }
   ],
   "variety": [
     {
       "rank": 1,
-      "title": "1박2일' '무한도전' '해피투게더",
-      "rating": 20.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Fthumb140%2F112%2F2011%2F09%2F06%2F2223878.jpg&type=fface200_200&expire=2&refresh=true"
-    },
-    {
-      "rank": 2,
       "title": "라디오 스타",
       "rating": 5.6,
       "channel": "",
@@ -54,14 +94,14 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
     },
     {
-      "rank": 3,
-      "title": "능력자들",
-      "rating": 1.4,
+      "rank": 2,
+      "title": "아는 형님",
+      "rating": 1.0,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fwww.pps.go.kr%2FfileManager%2Fkor%2Fbbs%2F2511030025%2F1761894283107.jpg&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FEMTRyqkwPKKtNGNyVpCFrRAxl9-s330eSYvRoiPKuZKe_SdmmkW7bCZ8OMreP39XjYxLBO2uj9fX5ia677yAqg.webp&type=fff208_208_ar"
     }
   ]
 }
