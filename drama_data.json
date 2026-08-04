@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T00:02:57",
+  "updated": "2026-08-04T00:03:05",
   "dramas": [
     {
       "rank": 1,
@@ -23,16 +23,6 @@
     },
     {
       "rank": 3,
-      "title": "사랑이 온다",
-      "rating": 13.9,
-      "channel": "KBS2",
-      "air_days": "토·일",
-      "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260802_212%2F5f3b3_1785675098116SoE0a_JPEG%2F6a6f372245abd5fbf8e35368_upload_1785674506850.jpg"
-    },
-    {
-      "rank": 4,
       "title": "EXID 하니",
       "rating": 11.7,
       "channel": "",
@@ -42,17 +32,7 @@
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2F1IaCGWVZ3kuc9JK2Ai6B_n9DGiMtScDMcJQueIl-Y_RuYzxnKamOdDff8djgtV7YS-jgcsQuMb2JKjXHXjyLDQ.webp&type=fff208_208_ar"
     },
     {
-      "rank": 5,
-      "title": "기쁜 우리 좋은 날",
-      "rating": 11.3,
-      "channel": "KBS1",
-      "air_days": "",
-      "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260731_154%2F7VcX7_1785501756253RRVlj_JPEG%2F2P58oS4BuOUk.jpg"
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "유부녀킬러",
       "rating": 10.6,
       "channel": "MBC",
@@ -62,7 +42,17 @@
       "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260731_265%2FZoXnS_1785462707579wa132_PNG%2Fclip_20260731103949_98.png"
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "title": "기쁜 우리 좋은 날",
+      "rating": 10.3,
+      "channel": "KBS1",
+      "air_days": "",
+      "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260803_136%2Fx3a40_1785761198992Sdpgx_JPEG%2FoLqIfYTzQPgH.jpg"
+    },
+    {
+      "rank": 6,
       "title": "기쁜 우리 좋은 날 몇부작",
       "rating": 10.3,
       "channel": "",
@@ -72,19 +62,29 @@
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Finfluencer-phinf.pstatic.net%2FMjAyNjA3MTNfMTcg%2FMDAxNzgzOTMzOTk5NTIw.MtSd2Tm4GBmC7x5Q4BF9VppwQlhiqiJiAtJig4fEiCkg.l3m-0B7QlI_MwC9BhFVj-W6VWA7wxBW9aAJ5QRAJAmog.PNG%2F0fc9.png%3Ftype%3Dw700&type=fff208_208_ar"
     },
     {
-      "rank": 8,
-      "title": "김부장' 빠진 주말 승자는 공효진..",
-      "rating": 8.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
+      "rank": 7,
+      "title": "최애의 사원",
+      "rating": 4.2,
+      "channel": "tvN",
+      "air_days": "월·화",
+      "synopsis": "‘최애’를 만나려다 ‘최애의 사원’이 된 신입사원 남다름의 오피스 성장 로맨스!",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F109%2F2026%2F08%2F02%2F5582482.jpg&type=fface200_200&expire=2&refresh=true"
+      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260729_79%2FCzcQG_178528863279931CQB_JPEG%2FPrtylUjSol_08.jpg"
     }
   ],
   "variety": [
     {
       "rank": 1,
+      "title": "무명전설",
+      "rating": 9.3,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSWkiziSKE2c%2Fmaxresdefault.jpg&type=f368_208"
+    },
+    {
+      "rank": 2,
       "title": "라디오 스타",
       "rating": 5.6,
       "channel": "",
@@ -94,17 +94,17 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "놀면 뭐하니?",
       "rating": 3.6,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F079%2F2026%2F08%2F02%2F4174654.jpg&type=fface200_200&expire=2&refresh=true"
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F018%2F2026%2F08%2F03%2F6343183.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
