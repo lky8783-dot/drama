@@ -1,28 +1,38 @@
 {
-  "updated": "2026-08-07T00:03:35",
+  "updated": "2026-08-08T00:03:20",
   "dramas": [
     {
       "rank": 1,
+      "title": "김부장",
+      "rating": 26.4,
+      "channel": "SBS",
+      "air_days": "",
+      "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260801_19%2FmMBy5_1785594398590Dtyzd_JPEG%2Fd8501257-d85d-4d55-9ecd-ff853a2eee1c.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "어리둥절합니다.",
+      "rating": 23.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
+    },
+    {
+      "rank": 3,
       "title": "사랑이 온다",
       "rating": 13.3,
       "channel": "KBS2",
       "air_days": "토·일",
       "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260803_101%2FGI5qb_17857474023756Ea6D_JPEG%2FLOL74O1qg7Io.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260808_17%2FpwhYk_1786143458878G2qxE_JPEG%2FkUE26lEchypj.jpg"
     },
     {
-      "rank": 2,
-      "title": "재벌X형사2' OST Part.1인",
-      "rating": 11.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FAvP3bVoiikEwtQbTQmYXP1G3EFYrJ34Ba9uW9SY1_5L9W61xdt550cHt1K4NudQNXEtWhOJV5G0SjrjCiBvBvg.webp&type=fff208_208_ar"
-    },
-    {
-      "rank": 3,
+      "rank": 4,
       "title": "기쁜 우리 좋은 날 몇부작",
       "rating": 10.3,
       "channel": "",
@@ -32,19 +42,49 @@
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Finfluencer-phinf.pstatic.net%2FMjAyNjA3MTNfMTcg%2FMDAxNzgzOTMzOTk5NTIw.MtSd2Tm4GBmC7x5Q4BF9VppwQlhiqiJiAtJig4fEiCkg.l3m-0B7QlI_MwC9BhFVj-W6VWA7wxBW9aAJ5QRAJAmog.PNG%2F0fc9.png%3Ftype%3Dw700&type=fff208_208_ar"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "유부녀 킬러",
+      "rating": 8.3,
+      "channel": "MBC",
+      "air_days": "금·토",
+      "synopsis": "세상에서 가장 살벌한 직업을 가진, 어느 워킹맘의 고군분투 워라밸(work & life balance) 사수기를 그린 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260807_210%2FKNb4l_1786083397669VpVd6_JPEG%2Fclip_20260807150806_9.jpg"
+    },
+    {
+      "rank": 6,
       "title": "욕망의 덫",
       "rating": 7.0,
       "channel": "KBS2",
       "air_days": "",
       "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260807_110%2Fkd52P_1786056998444j8kp0_JPEG%2F2HUnEtwYsres.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260807_114%2FYWrYI_1786063657770P4uFf_PNG%2F1786063657702.png"
+    },
+    {
+      "rank": 7,
+      "title": "재벌X형사2",
+      "rating": 6.9,
+      "channel": "SBS",
+      "air_days": "금·토",
+      "synopsis": "수사가 막히면 돈이 부족한 게 아닌지 생각해 보자. 재벌X형사, 진이수가 돌아왔다! 새로운 팀장 주혜라와 유쾌상쾌통쾌 도파민 터지는 사이다 수사가 펼쳐진다!!",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260716_274%2F1784163385433bMmwC_JPEG%2Fd334b3c9b611b549fe2b430f5f10b2c4.jpg"
     }
   ],
   "variety": [
     {
       "rank": 1,
+      "title": "이런 엿같은 사랑",
+      "rating": 11.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "기억상실 걸린 검사 '고은새'와 자칭 남자친구라 우기는 복싱 코치 '장태하'의 설렘 찐득한 동거생활을 그린 로맨틱 코미디",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=594x336&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260807_247%2F23nSV_1786092391502BUsRS_JPEG%2Fimage.jpg"
+    },
+    {
+      "rank": 2,
       "title": "무명전설",
       "rating": 9.3,
       "channel": "",
@@ -54,7 +94,7 @@
       "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSWkiziSKE2c%2Fmaxresdefault.jpg&type=f368_208"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "라디오 스타",
       "rating": 5.6,
       "channel": "",
@@ -64,17 +104,17 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "놀면 뭐하니?",
       "rating": 3.6,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F468%2F2026%2F08%2F04%2F1257734.jpg&type=fface200_200&expire=2&refresh=true"
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F410%2F2026%2F08%2F07%2F1135466.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "우주떡집",
       "rating": 2.71,
       "channel": "",
@@ -84,7 +124,7 @@
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.tving.com%2Fntgs%2Fcontents%2FCTC%2Fcaip%2FCAIP0400%2Fko%2F20260709%2F0629%2FP001789273.jpg%2Fdims%2Fresize%2F500&type=fff208_208_ar"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
