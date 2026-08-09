@@ -1,18 +1,8 @@
 {
-  "updated": "2026-08-08T00:03:20",
+  "updated": "2026-08-09T00:03:13",
   "dramas": [
     {
       "rank": 1,
-      "title": "김부장",
-      "rating": 26.4,
-      "channel": "SBS",
-      "air_days": "",
-      "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260801_19%2FmMBy5_1785594398590Dtyzd_JPEG%2Fd8501257-d85d-4d55-9ecd-ff853a2eee1c.jpg"
-    },
-    {
-      "rank": 2,
       "title": "어리둥절합니다.",
       "rating": 23.0,
       "channel": "",
@@ -22,14 +12,24 @@
       "poster_url": ""
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "사랑이 온다",
-      "rating": 13.3,
+      "rating": 14.1,
       "channel": "KBS2",
       "air_days": "토·일",
       "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260808_17%2FpwhYk_1786143458878G2qxE_JPEG%2FkUE26lEchypj.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260809_91%2FPlR2U_1786229855914P1zY5_JPEG%2FmJW5AoBiHA4s.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "혹시 내 아들?",
+      "rating": 14.1,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5353%2F2026%2F08%2F09%2F1288529.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
       "rank": 4,
@@ -44,32 +44,32 @@
     {
       "rank": 5,
       "title": "유부녀 킬러",
-      "rating": 8.3,
+      "rating": 9.4,
       "channel": "MBC",
       "air_days": "금·토",
       "synopsis": "세상에서 가장 살벌한 직업을 가진, 어느 워킹맘의 고군분투 워라밸(work & life balance) 사수기를 그린 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260807_210%2FKNb4l_1786083397669VpVd6_JPEG%2Fclip_20260807150806_9.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260807_102%2FmQwEz_1786094855932QXQVm_PNG%2Fclip_20260807181513_25.png"
     },
     {
       "rank": 6,
-      "title": "욕망의 덫",
-      "rating": 7.0,
-      "channel": "KBS2",
-      "air_days": "",
-      "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260807_114%2FYWrYI_1786063657770P4uFf_PNG%2F1786063657702.png"
-    },
-    {
-      "rank": 7,
       "title": "재벌X형사2",
-      "rating": 6.9,
+      "rating": 9.0,
       "channel": "SBS",
       "air_days": "금·토",
       "synopsis": "수사가 막히면 돈이 부족한 게 아닌지 생각해 보자. 재벌X형사, 진이수가 돌아왔다! 새로운 팀장 주혜라와 유쾌상쾌통쾌 도파민 터지는 사이다 수사가 펼쳐진다!!",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260716_274%2F1784163385433bMmwC_JPEG%2Fd334b3c9b611b549fe2b430f5f10b2c4.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "오싹한 연애",
+      "rating": 6.0,
+      "channel": "tvN",
+      "air_days": "토·일",
+      "synopsis": "귀신을 보는 재벌 상속녀와 귀신을 가장 무서워하는 열혈 검사의 좌충우돌 오컬트 로맨스",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260809_267%2Fn6r2F_1786229148925IP1c8_JPEG%2F3e6c0b6f-2b30-466a-9e25-c7ab52645384_naver.jpg"
     }
   ],
   "variety": [
@@ -111,7 +111,7 @@
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F410%2F2026%2F08%2F07%2F1135466.jpg&type=fface200_200&expire=2&refresh=true"
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5353%2F2026%2F08%2F08%2F1288484.jpg&type=fface200_200&expire=2&refresh=true"
     },
     {
       "rank": 5,
