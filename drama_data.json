@@ -1,8 +1,18 @@
 {
-  "updated": "2026-08-13T00:03:00",
+  "updated": "2026-08-14T00:03:07",
   "dramas": [
     {
       "rank": 1,
+      "title": "어리둥절합니다.",
+      "rating": 23.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
+    },
+    {
+      "rank": 2,
       "title": "사랑이 온다' OST",
       "rating": 15.1,
       "channel": "",
@@ -12,27 +22,27 @@
       "poster_url": ""
     },
     {
-      "rank": 2,
-      "title": "기쁜 우리 좋은 날 몇부작",
-      "rating": 10.3,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
+      "rank": 3,
+      "title": "유부녀 킬러",
+      "rating": 8.0,
+      "channel": "MBC",
+      "air_days": "금·토",
+      "synopsis": "세상에서 가장 살벌한 직업을 가진, 어느 워킹맘의 고군분투 워라밸(work & life balance) 사수기를 그린 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Finfluencer-phinf.pstatic.net%2FMjAyNjA3MTNfMTcg%2FMDAxNzgzOTMzOTk5NTIw.MtSd2Tm4GBmC7x5Q4BF9VppwQlhiqiJiAtJig4fEiCkg.l3m-0B7QlI_MwC9BhFVj-W6VWA7wxBW9aAJ5QRAJAmog.PNG%2F0fc9.png%3Ftype%3Dw700&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260813_147%2FpImf9_1786600597613CNPPm_JPEG%2Fclip_20260813144459_2.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "욕망의 덫",
       "rating": 6.5,
       "channel": "KBS2",
       "air_days": "",
       "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260812_91%2FTbTx6_17865361043645K9yB_JPEG%2Fb0w9A74DBGvZ.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260813_177%2FRci3a_1786626699308sOfuY_JPEG%2F5vC5fB5qvGp2.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "욕망의 덫', 첫방부터 '방화 엔딩",
       "rating": 6.5,
       "channel": "",
@@ -42,7 +52,17 @@
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FSZnHuRgFRNMTcza2l6PJ5aNRb6GuKGu4BhmL8ie3X57gMo7RrSTxwty4uYkPGZO0mIBpC9TOONmgqcCrqv2Wug.webp&type=fff208_208_ar"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "오싹한 연애",
+      "rating": 6.2,
+      "channel": "tvN",
+      "air_days": "토·일",
+      "synopsis": "귀신을 보는 재벌 상속녀와 귀신을 가장 무서워하는 열혈 검사의 좌충우돌 오컬트 로맨스",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260813_286%2FKqkc9_1786583884046G9kMu_JPEG%2F9246621a-40fa-431d-8ae7-c390939206f1_naver.jpg"
+    },
+    {
+      "rank": 7,
       "title": "미스트롯4",
       "rating": 5.98,
       "channel": "",
@@ -50,16 +70,6 @@
       "synopsis": "",
       "cast": [],
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FwJEBHlnkL8vJxylB8yLUaTjo5yujfItzLKqXm-XPBNc3NdfJcbI4zSSPif4QfaveyhbNlE1XvLLa1kFH-3g44g.webp&type=fff208_208_ar"
-    },
-    {
-      "rank": 6,
-      "title": "최애의 사원",
-      "rating": 3.8,
-      "channel": "tvN",
-      "air_days": "월·화",
-      "synopsis": "‘최애’를 만나려다 ‘최애의 사원’이 된 신입사원 남다름의 오피스 성장 로맨스!",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260812_155%2FkTFHn_1786527590340hilw0_JPEG%2Fk9BCettvar_10.jpg"
     }
   ],
   "variety": [
@@ -105,13 +115,23 @@
     },
     {
       "rank": 5,
+      "title": "능력자들",
+      "rating": 1.4,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
+    },
+    {
+      "rank": 6,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHb7fTPT7ALs%2Fmaxresdefault.jpg&type=f368_208"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FEMTRyqkwPKKtNGNyVpCFrRAxl9-s330eSYvRoiPKuZKe_SdmmkW7bCZ8OMreP39XjYxLBO2uj9fX5ia677yAqg.webp&type=fff208_208_ar"
     }
   ]
 }
