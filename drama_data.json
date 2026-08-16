@@ -1,8 +1,18 @@
 {
-  "updated": "2026-08-15T00:03:02",
+  "updated": "2026-08-16T00:02:58",
   "dramas": [
     {
       "rank": 1,
+      "title": "김부장",
+      "rating": 23.2,
+      "channel": "SBS",
+      "air_days": "",
+      "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260801_19%2FmMBy5_1785594398590Dtyzd_JPEG%2Fd8501257-d85d-4d55-9ecd-ff853a2eee1c.jpg"
+    },
+    {
+      "rank": 2,
       "title": "어리둥절합니다.",
       "rating": 23.0,
       "channel": "",
@@ -10,16 +20,6 @@
       "synopsis": "",
       "cast": [],
       "poster_url": ""
-    },
-    {
-      "rank": 2,
-      "title": "사랑이 온다",
-      "rating": 15.7,
-      "channel": "KBS2",
-      "air_days": "토·일",
-      "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260815_39%2F3z8YG_17867482556232LQN3_JPEG%2FyYDHeNJ98sKP.jpg"
     },
     {
       "rank": 3,
@@ -33,23 +33,23 @@
     },
     {
       "rank": 4,
+      "title": "사랑이 온다",
+      "rating": 15.1,
+      "channel": "KBS2",
+      "air_days": "토·일",
+      "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260816_147%2F5j24P_1786834654988iVvIJ_JPEG%2FgzGcHm6OLh5u.jpg"
+    },
+    {
+      "rank": 5,
       "title": "유부녀 킬러",
-      "rating": 11.4,
+      "rating": 11.8,
       "channel": "MBC",
       "air_days": "금·토",
       "synopsis": "세상에서 가장 살벌한 직업을 가진, 어느 워킹맘의 고군분투 워라밸(work & life balance) 사수기를 그린 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260814_16%2FRFgwN_1786686999179Ruygo_JPEG%2Fclip_20260814144742_1.jpg"
-    },
-    {
-      "rank": 5,
-      "title": "기쁜 우리 좋은 날",
-      "rating": 10.3,
-      "channel": "KBS1",
-      "air_days": "",
-      "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260814_129%2FlSWTr_1786712254979cWLDh_JPEG%2FwSOqaKbzY41F.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260814_64%2FDIk3r_1786680398598Rx9pd_PNG%2Fclip_20260814125523_0.png"
     },
     {
       "rank": 6,
@@ -69,10 +69,20 @@
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FSZnHuRgFRNMTcza2l6PJ5aNRb6GuKGu4BhmL8ie3X57gMo7RrSTxwty4uYkPGZO0mIBpC9TOONmgqcCrqv2Wug.webp&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.starnewskorea.com%2Fcdn-cgi%2Fimage%2Ff%3Dauto%2Cw%3D1200%2Ch%3D675%2Cfit%3Dcover%2Cq%3Dhigh%2Csharpen%3D2%2F21%2F2026%2F08%2F2026081108043454214_1.jpg&type=fff208_208_ar"
     },
     {
       "rank": 8,
+      "title": "오싹한 연애",
+      "rating": 6.1,
+      "channel": "tvN",
+      "air_days": "토·일",
+      "synopsis": "귀신을 보는 재벌 상속녀와 귀신을 가장 무서워하는 열혈 검사의 좌충우돌 오컬트 로맨스",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260814_284%2Fbfkaw_1786692253284UhK2N_JPEG%2Fc3cc1b15-fa79-446a-b55c-80d3c00488cd_naver.jpg"
+    },
+    {
+      "rank": 9,
       "title": "미스트롯4",
       "rating": 5.98,
       "channel": "",
@@ -85,16 +95,6 @@
   "variety": [
     {
       "rank": 1,
-      "title": "이런 엿같은 사랑",
-      "rating": 11.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "기억상실 걸린 검사 '고은새'와 자칭 남자친구라 우기는 복싱 코치 '장태하'의 설렘 찐득한 동거생활을 그린 로맨틱 코미디",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=594x336&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260810_284%2FB6dAy_1786350655004T9vbu_JPEG%2Fimage.jpg"
-    },
-    {
-      "rank": 2,
       "title": "라디오 스타",
       "rating": 5.6,
       "channel": "",
@@ -104,17 +104,17 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "놀면 뭐하니?",
       "rating": 3.6,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F410%2F2026%2F08%2F07%2F1135466.jpg&type=fface200_200&expire=2&refresh=true"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FzusG0WpQXC_Wit5OO0pW_l-O-BBx3Dp33NkHRdXLJo0aux7kwIbqrknfNqdoQU5eeCSLqwb9LknO1FjQa2bdJg.jpg&type=fff208_208_ar"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
