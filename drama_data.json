@@ -1,8 +1,18 @@
 {
-  "updated": "2026-08-24T00:02:48",
+  "updated": "2026-08-25T00:02:54",
   "dramas": [
     {
       "rank": 1,
+      "title": "사랑이 온다",
+      "rating": 16.8,
+      "channel": "KBS2",
+      "air_days": "토·일",
+      "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260824_91%2FulVKE_1787561803239mBsvR_JPEG%2FZEm0quHcqftc.jpg"
+    },
+    {
+      "rank": 2,
       "title": "우리 가족은 쪽팔림",
       "rating": 15.1,
       "channel": "",
@@ -12,17 +22,37 @@
       "poster_url": ""
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "기쁜 우리 좋은 날",
-      "rating": 11.7,
+      "rating": 11.6,
       "channel": "KBS1",
       "air_days": "",
       "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260821_163%2Fcw2Xv_1787318500858k0XiC_JPEG%2FFnGj3oCRF4xn.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260824_69%2FhkQiX_1787575294060MpD6v_JPEG%2F3io2fsrpLxOw.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "유부녀 킬러",
+      "rating": 10.2,
+      "channel": "MBC",
+      "air_days": "금·토",
+      "synopsis": "세상에서 가장 살벌한 직업을 가진, 어느 워킹맘의 고군분투 워라밸(work & life balance) 사수기를 그린 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260821_63%2FPaSNp_1787276200420xJJvg_PNG%2Fclip_20260821102528_8.png"
+    },
+    {
+      "rank": 5,
+      "title": "욕망의 덫",
+      "rating": 7.9,
+      "channel": "KBS2",
+      "air_days": "",
+      "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260824_16%2FNxzz8_1787573201185aW27I_JPEG%2F3KxLnIXwAxhZ.jpg"
+    },
+    {
+      "rank": 6,
       "title": "재벌X형사2', 일 냈다..",
       "rating": 7.5,
       "channel": "",
@@ -32,29 +62,49 @@
       "poster_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MjlfMTE0%2FMDAxNzgyNzA4NDY5Nzkw.9oLlqvyvNhaYfs0zANZxHdyATkmycdLEZFN_pjmE2jEg.msk_IfLVJgl2jwl_olkPubzJe9g05L9fToaTi9LI0swg.JPEG%2F21.jpg&type=fff208_208_ar"
     },
     {
-      "rank": 4,
-      "title": "내일도 출근!",
-      "rating": 4.8,
-      "channel": "tvN",
-      "air_days": "",
-      "synopsis": "일상적 권태기에 시달리던 7년 차 직장인 차지윤이 까칠한 직장 상사 강시우와 함께 서로의 대체 불가능한 최선이 되어 일도 사랑도 다시 '설렘 ON 오피스 로맨스'",
+      "rank": 7,
+      "title": "가족관계증명서",
+      "rating": 5.5,
+      "channel": "MBC",
+      "air_days": "목",
+      "synopsis": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기를 담은 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260803_209%2FOkFAG_1785720366402cBL0a_JPEG%2F11836134-7253-487e-93d8-17cc41f2b5b3_naver.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260824_87%2FScNSI_1787569597458DsrsI_JPEG%2Fclip_20260824195510_27.jpg"
     },
     {
-      "rank": 5,
-      "title": "그래, 이혼하자",
-      "rating": 0.4,
-      "channel": "KBS",
-      "air_days": "수·목",
-      "synopsis": "지칠 대로 지친 결혼 생활에 종지부를 찍기 위한 웨딩드레스샵 대표 부부의 리얼 이혼 체험기",
+      "rank": 8,
+      "title": "안나",
+      "rating": 5.2,
+      "channel": "MBC",
+      "air_days": "일",
+      "synopsis": "“믿는 순간, 거짓도 진실이 된다” 이름, 가족, 학력, 과거까지... 사소한 거짓말을 시작으로 완전히 다른 사람의 인생을 살게 된 여자의 이야기",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260821_139%2Fjp6TO_1787273196210Dd6Jn_JPEG%2F9925976779_ContentImg.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=f&size=594x336&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20220711_30%2FZvXmU_16575135649403uhNp_JPEG%2F1657513412637.jpg"
     }
   ],
   "variety": [
     {
       "rank": 1,
+      "title": "화려한 날들",
+      "rating": 20.5,
+      "channel": "KBS2",
+      "air_days": "",
+      "synopsis": "인간은 누구에게나 화려한 날들이 있다. 지금이든, 과거에서든, 앞으로든. 각기 다른 의미로 만나게 되는 화려한 날들에 대한 세대 공감 가족 멜로 이야기",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260130_82%2FgVw99_1769763697213S7O08_JPEG%2FzMPeIVEQ27I5.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "1박 2일",
+      "rating": 6.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
+    },
+    {
+      "rank": 3,
       "title": "우주떡집",
       "rating": 3.05,
       "channel": "",
@@ -64,7 +114,7 @@
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.tving.com%2Fntgs%2Fcontents%2FCTC%2Fcaip%2FCAIP0400%2Fko%2F20260709%2F0629%2FP001789273.jpg%2Fdims%2Fresize%2F500&type=fff208_208_ar"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
