@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T00:02:54",
+  "updated": "2026-08-26T00:02:55",
   "dramas": [
     {
       "rank": 1,
@@ -23,18 +23,8 @@
     },
     {
       "rank": 3,
-      "title": "기쁜 우리 좋은 날",
-      "rating": 11.6,
-      "channel": "KBS1",
-      "air_days": "",
-      "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260824_69%2FhkQiX_1787575294060MpD6v_JPEG%2F3io2fsrpLxOw.jpg"
-    },
-    {
-      "rank": 4,
-      "title": "유부녀 킬러",
-      "rating": 10.2,
+      "title": "유부녀킬러",
+      "rating": 12.2,
       "channel": "MBC",
       "air_days": "금·토",
       "synopsis": "세상에서 가장 살벌한 직업을 가진, 어느 워킹맘의 고군분투 워라밸(work & life balance) 사수기를 그린 드라마",
@@ -42,44 +32,44 @@
       "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260821_63%2FPaSNp_1787276200420xJJvg_PNG%2Fclip_20260821102528_8.png"
     },
     {
+      "rank": 4,
+      "title": "기쁜 우리 좋은 날",
+      "rating": 11.6,
+      "channel": "KBS1",
+      "air_days": "",
+      "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260825_199%2FdLjPU_1787664096504V6kyV_JPEG%2F0TMxrALtsgNg.jpg"
+    },
+    {
       "rank": 5,
+      "title": "10배",
+      "rating": 9.9,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
+    },
+    {
+      "rank": 6,
       "title": "욕망의 덫",
       "rating": 7.9,
       "channel": "KBS2",
       "air_days": "",
       "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260824_16%2FNxzz8_1787573201185aW27I_JPEG%2F3KxLnIXwAxhZ.jpg"
-    },
-    {
-      "rank": 6,
-      "title": "재벌X형사2', 일 냈다..",
-      "rating": 7.5,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA2MjlfMTE0%2FMDAxNzgyNzA4NDY5Nzkw.9oLlqvyvNhaYfs0zANZxHdyATkmycdLEZFN_pjmE2jEg.msk_IfLVJgl2jwl_olkPubzJe9g05L9fToaTi9LI0swg.JPEG%2F21.jpg&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260825_295%2Fd1bEF_1787659962604uIcND_JPEG%2FkbnLV8rlk19C.jpg"
     },
     {
       "rank": 7,
-      "title": "가족관계증명서",
-      "rating": 5.5,
-      "channel": "MBC",
-      "air_days": "목",
-      "synopsis": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기를 담은 드라마",
+      "title": "최애의 사원",
+      "rating": 3.2,
+      "channel": "tvN",
+      "air_days": "월·화",
+      "synopsis": "‘최애’를 만나려다 ‘최애의 사원’이 된 신입사원 남다름의 오피스 성장 로맨스!",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260824_87%2FScNSI_1787569597458DsrsI_JPEG%2Fclip_20260824195510_27.jpg"
-    },
-    {
-      "rank": 8,
-      "title": "안나",
-      "rating": 5.2,
-      "channel": "MBC",
-      "air_days": "일",
-      "synopsis": "“믿는 순간, 거짓도 진실이 된다” 이름, 가족, 학력, 과거까지... 사소한 거짓말을 시작으로 완전히 다른 사람의 인생을 살게 된 여자의 이야기",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=594x336&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20220711_30%2FZvXmU_16575135649403uhNp_JPEG%2F1657513412637.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260824_7%2FC6soC_1787550243504i3iyn_JPEG%2Ffd4d46af-b17b-4bd4-9e85-6367bd550021_naver.jpg"
     }
   ],
   "variety": [
