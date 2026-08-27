@@ -1,8 +1,18 @@
 {
-  "updated": "2026-08-26T00:02:55",
+  "updated": "2026-08-27T00:02:54",
   "dramas": [
     {
       "rank": 1,
+      "title": "김부장",
+      "rating": 23.1,
+      "channel": "SBS",
+      "air_days": "",
+      "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260801_19%2FmMBy5_1785594398590Dtyzd_JPEG%2Fd8501257-d85d-4d55-9ecd-ff853a2eee1c.jpg"
+    },
+    {
+      "rank": 2,
       "title": "사랑이 온다",
       "rating": 16.8,
       "channel": "KBS2",
@@ -12,7 +22,7 @@
       "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260824_91%2FulVKE_1787561803239mBsvR_JPEG%2FZEm0quHcqftc.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "우리 가족은 쪽팔림",
       "rating": 15.1,
       "channel": "",
@@ -22,34 +32,24 @@
       "poster_url": ""
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "유부녀킬러",
       "rating": 12.2,
       "channel": "MBC",
       "air_days": "금·토",
       "synopsis": "세상에서 가장 살벌한 직업을 가진, 어느 워킹맘의 고군분투 워라밸(work & life balance) 사수기를 그린 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260821_63%2FPaSNp_1787276200420xJJvg_PNG%2Fclip_20260821102528_8.png"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260826_97%2Fjj8X6_1787726795291oQNt9_JPEG%2Fclip_20260826153839_0.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "기쁜 우리 좋은 날",
-      "rating": 11.6,
+      "rating": 11.4,
       "channel": "KBS1",
       "air_days": "",
       "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260825_199%2FdLjPU_1787664096504V6kyV_JPEG%2F0TMxrALtsgNg.jpg"
-    },
-    {
-      "rank": 5,
-      "title": "10배",
-      "rating": 9.9,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": ""
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260826_233%2FySIN2_1787747495350Y4qDt_JPEG%2FDyOuQwRnxwcx.jpg"
     },
     {
       "rank": 6,
@@ -59,17 +59,47 @@
       "air_days": "",
       "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260825_295%2Fd1bEF_1787659962604uIcND_JPEG%2FkbnLV8rlk19C.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260826_175%2FW6OGX_1787745456032q1338_JPEG%2FSdPFNiKZNOVu.jpg"
     },
     {
       "rank": 7,
       "title": "최애의 사원",
-      "rating": 3.2,
+      "rating": 3.4,
       "channel": "tvN",
       "air_days": "월·화",
       "synopsis": "‘최애’를 만나려다 ‘최애의 사원’이 된 신입사원 남다름의 오피스 성장 로맨스!",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260824_7%2FC6soC_1787550243504i3iyn_JPEG%2Ffd4d46af-b17b-4bd4-9e85-6367bd550021_naver.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260826_121%2FBa725_17877180957877gJre_JPEG%2FnFeLRXAY9l_03.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "나는 자연인이다",
+      "rating": 3.4,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Finfluencer-phinf.pstatic.net%2FMjAyNjA0MTlfNDEg%2FMDAxNzc2NTY5NzUwNTYy.XajL1qJW6YCtGizC9ComgFUYsigKRzY99u0w3590-_kg.h2A9aTHkgCNaPOIVwlA7sItGbJ9wSpXQQ7eg0N-TYA8g.PNG%2Ff7f2.png%3Ftype%3Dw700&type=fff208_208_ar"
+    },
+    {
+      "rank": 9,
+      "title": "신병4",
+      "rating": 2.8,
+      "channel": "ENA",
+      "air_days": "월·화",
+      "synopsis": "계급이 오르고 고민도 늘어버린 상병 박민석! 하사로 돌아온 최일구와 미스터리 신병, 돌풍을 일으킬 대대장의 등장으로 그의 군생활은 다시 전투 태세에 돌입한다!",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260820_82%2Fa32Br_1787204199405cfuEX_JPEG%2F736fc7d9-24b1-4505-8151-f9705850ae97.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "그래, 이혼하자",
+      "rating": 0.4,
+      "channel": "KBS",
+      "air_days": "수·목",
+      "synopsis": "지칠 대로 지친 결혼 생활에 종지부를 찍기 위한 웨딩드레스샵 대표 부부의 리얼 이혼 체험기",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260821_18%2FCz9Ik_1787273497045CYw28_JPEG%2F5399339036_ContentImg.jpg"
     }
   ],
   "variety": [
@@ -85,16 +115,6 @@
     },
     {
       "rank": 2,
-      "title": "1박 2일",
-      "rating": 6.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": ""
-    },
-    {
-      "rank": 3,
       "title": "우주떡집",
       "rating": 3.05,
       "channel": "",
@@ -102,6 +122,16 @@
       "synopsis": "",
       "cast": [],
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.tving.com%2Fntgs%2Fcontents%2FCTC%2Fcaip%2FCAIP0400%2Fko%2F20260709%2F0629%2FP001789273.jpg%2Fdims%2Fresize%2F500&type=fff208_208_ar"
+    },
+    {
+      "rank": 3,
+      "title": "능력자들",
+      "rating": 1.4,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
     },
     {
       "rank": 4,
