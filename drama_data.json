@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T00:02:38",
+  "updated": "2026-08-30T00:02:34",
   "dramas": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "air_days": "토·일",
       "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260829_122%2FboHkx_1787957855359ovIiH_JPEG%2FG7WPomqgA1bg.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260830_266%2FBIuG5_1788044255176k5AQI_JPEG%2FzNJU8S3rE8OM.jpg"
     },
     {
       "rank": 2,
@@ -24,12 +24,12 @@
     {
       "rank": 3,
       "title": "유부녀 킬러",
-      "rating": 12.2,
+      "rating": 13.3,
       "channel": "MBC",
       "air_days": "금·토",
       "synopsis": "세상에서 가장 살벌한 직업을 가진, 어느 워킹맘의 고군분투 워라밸(work & life balance) 사수기를 그린 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260826_41%2F4imT7_178772949714757rlJ_JPEG%2Fclip_20260826161956_88.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260828_257%2FVbUDt_1787879555872D80na_PNG%2Fclip_20260828095947_4.png"
     },
     {
       "rank": 4,
@@ -59,17 +59,17 @@
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fcdn.ize.co.kr%2Fnews%2Fthumbnail%2F202608%2F80087_123248_3749_v150.jpg&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fcdn.frame-less.co.kr%2Fnews%2Fphoto%2F202608%2F4529_12251_2839.png&type=fff208_208_ar"
     },
     {
       "rank": 7,
-      "title": "가족관계증명서",
+      "title": "최애의 사원",
       "rating": 4.0,
-      "channel": "MBC",
-      "air_days": "목",
-      "synopsis": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기를 담은 드라마",
+      "channel": "tvN",
+      "air_days": "월·화",
+      "synopsis": "‘최애’를 만나려다 ‘최애의 사원’이 된 신입사원 남다름의 오피스 성장 로맨스!",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260828_91%2FqdzqE_1787916107860iOQFc_JPEG%2Fclip_20260828201300_43.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260828_186%2F8FTtu_1787902444209T7YJI_JPEG%2Fc42d38cd-3893-490b-aef2-ef1991eaffa9_naver.jpg"
     },
     {
       "rank": 8,
@@ -83,16 +83,6 @@
     },
     {
       "rank": 9,
-      "title": "신병",
-      "rating": 2.8,
-      "channel": "ENA",
-      "air_days": "월·화",
-      "synopsis": "계급이 오르고 고민도 늘어버린 상병 박민석! 하사로 돌아온 최일구와 미스터리 신병, 돌풍을 일으킬 대대장의 등장으로 그의 군생활은 다시 전투 태세에 돌입한다!",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260820_82%2Fa32Br_1787204199405cfuEX_JPEG%2F736fc7d9-24b1-4505-8151-f9705850ae97.jpg"
-    },
-    {
-      "rank": 10,
       "title": "그래, 이혼하자",
       "rating": 0.4,
       "channel": "KBS",
