@@ -1,10 +1,30 @@
 {
-  "updated": "2026-08-31T00:02:37",
+  "updated": "2026-09-01T00:02:48",
   "dramas": [
     {
       "rank": 1,
+      "title": "닥터X : 하얀 마피아의 시대",
+      "rating": 38.8,
+      "channel": "SBS",
+      "air_days": "",
+      "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20251231_155%2FutKGW_17671489023502C5Ky_PNG%2F4bd31d50-231a-4661-b30f-37055c477c74.png"
+    },
+    {
+      "rank": 2,
+      "title": "(이하 '닥터X",
+      "rating": 24.9,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
+    },
+    {
+      "rank": 3,
       "title": "사랑이 온다",
-      "rating": 17.0,
+      "rating": 16.6,
       "channel": "KBS2",
       "air_days": "토·일",
       "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
@@ -12,7 +32,7 @@
       "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260830_122%2Fbnpj6_1788096997992QCaKC_JPEG%2FXnCyEc5KWgj4.jpg"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "우리 가족은 쪽팔림",
       "rating": 15.1,
       "channel": "",
@@ -22,49 +42,49 @@
       "poster_url": ""
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "유부녀 킬러",
-      "rating": 13.3,
+      "rating": 12.2,
       "channel": "MBC",
       "air_days": "금·토",
       "synopsis": "세상에서 가장 살벌한 직업을 가진, 어느 워킹맘의 고군분투 워라밸(work & life balance) 사수기를 그린 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260828_257%2FVbUDt_1787879555872D80na_PNG%2Fclip_20260828095947_4.png"
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260708_164%2F17834974543718mdlD_JPEG%2Ffff161993050295925071cebef2d25c5.jpg"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "기쁜 우리 좋은 날",
       "rating": 11.6,
       "channel": "KBS1",
       "air_days": "",
       "synopsis": "세상 제일 완벽남과 허당녀의 일촉즉발 생사 쟁탈전! 저마다 '내 인생의 주인공'이 되고픈, 다양한 세대가 만들어가는 멜로 가족 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260828_30%2FgrMVC_1787921505960s8HES_JPEG%2Fjq4GkMrQz3VG.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260831_89%2FvwRHs_1788183396197ggDHf_JPEG%2FaLDpa7YOG0XO.jpg"
     },
     {
-      "rank": 5,
-      "title": "욕망의 덫",
-      "rating": 7.9,
+      "rank": 7,
+      "title": "욕망의덫",
+      "rating": 8.2,
       "channel": "KBS2",
       "air_days": "",
       "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260828_127%2FHcOC4_1787918497442Xsn4K_JPEG%2F1YvS2IiIVTs1.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260831_121%2FPDI8v_1788179496158i73Dh_JPEG%2FhWA9Zk1ZybL1.jpg"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "최애의 사원",
       "rating": 4.0,
       "channel": "tvN",
       "air_days": "월·화",
       "synopsis": "‘최애’를 만나려다 ‘최애의 사원’이 된 신입사원 남다름의 오피스 성장 로맨스!",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260828_186%2F8FTtu_1787902444209T7YJI_JPEG%2Fc42d38cd-3893-490b-aef2-ef1991eaffa9_naver.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260827_291%2FsNkoq_1787817801221hLvyR_JPEG%2FcsQJFTucqH_10.jpg"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "신병4",
-      "rating": 2.8,
+      "rating": 3.4,
       "channel": "ENA",
       "air_days": "월·화",
       "synopsis": "계급이 오르고 고민도 늘어버린 상병 박민석! 하사로 돌아온 최일구와 미스터리 신병, 돌풍을 일으킬 대대장의 등장으로 그의 군생활은 다시 전투 태세에 돌입한다!",
@@ -72,7 +92,7 @@
       "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260820_82%2Fa32Br_1787204199405cfuEX_JPEG%2F736fc7d9-24b1-4505-8151-f9705850ae97.jpg"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "그래, 이혼하자",
       "rating": 0.4,
       "channel": "KBS",
@@ -85,6 +105,16 @@
   "variety": [
     {
       "rank": 1,
+      "title": "화려한 날들",
+      "rating": 20.5,
+      "channel": "KBS2",
+      "air_days": "",
+      "synopsis": "인간은 누구에게나 화려한 날들이 있다. 지금이든, 과거에서든, 앞으로든. 각기 다른 의미로 만나게 되는 화려한 날들에 대한 세대 공감 가족 멜로 이야기",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260130_82%2FgVw99_1769763697213S7O08_JPEG%2FzMPeIVEQ27I5.jpg"
+    },
+    {
+      "rank": 2,
       "title": "우주떡집",
       "rating": 3.05,
       "channel": "",
@@ -92,6 +122,16 @@
       "synopsis": "",
       "cast": [],
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.tving.com%2Fntgs%2Fcontents%2FCTC%2Fcaip%2FCAIP0400%2Fko%2F20260709%2F0629%2FP001789273.jpg%2Fdims%2Fresize%2F500&type=fff208_208_ar"
+    },
+    {
+      "rank": 3,
+      "title": "아는 형님",
+      "rating": 1.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
     }
   ]
 }
