@@ -1,20 +1,10 @@
 {
-  "updated": "2026-09-06T00:03:00",
+  "updated": "2026-09-07T00:03:02",
   "dramas": [
     {
       "rank": 1,
-      "title": "나의 유죄인간",
-      "rating": 17.4,
-      "channel": "tvN",
-      "air_days": "월·화",
-      "synopsis": "살인 용의자로 지목된 안하무인 재벌 3세와 그의 수행비서로 잠입한 특수부대 출신 형사의 밀착 스릴 로맨스를 담은 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260904_12%2F1788500007886ytKhT_JPEG%2F57_40455194_poster_image_1788500007878.jpg"
-    },
-    {
-      "rank": 2,
       "title": "사랑이 온다",
-      "rating": 17.0,
+      "rating": 16.6,
       "channel": "KBS2",
       "air_days": "토·일",
       "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
@@ -22,17 +12,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
     },
     {
-      "rank": 3,
-      "title": "사랑이 온다' 안희연, \"K-장녀 사퇴한다",
-      "rating": 17.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA5MDNfMjU4%2FMDAxNzg4Mzk0NDA5NzI5.DyWvfUWuxP21wjbziXIskEN3OIUxtu7GL_MOif3gORYg.-HgyvRrv1pq4f5X2p6h17aIVziDEQiWszM6v9e_V-Ikg.JPEG%2F260903_-_KBS_2TV_%25C1%25D6%25B8%25BB%25B5%25E5%25B6%25F3%25B8%25B6_%25BB%25E7%25B6%25FB%25C0%25CC_%25BF%25C2%25B4%25D9_%25BE%25C8%25C8%25F1%25BF%25AC%252C_%25C4%25E8%25B0%25A8_%25BA%25CE%25B8%25A5_K-%25C0%25E5%25B3%25E0%25C0%25C7_%25C1%25D6%25C3%25BC%25C0%25FB_%25C8%25A6%25B7%25CE%25BC%25AD%25B1%25E2_%25B0%25F8%25B0%25A8_%25C0%25AF%25B9%25DF_%25BC%25BA%25C0%25E5%25B1%25E2.jpg&type=fff208_208_ar"
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "title": "우리 가족은 쪽팔림",
       "rating": 15.1,
       "channel": "",
@@ -42,7 +22,17 @@
       "poster_url": ""
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "title": "유부녀 킬러",
+      "rating": 12.6,
+      "channel": "MBC",
+      "air_days": "금",
+      "synopsis": "세상에서 가장 살벌한 직업을 가진, 어느 워킹맘의 고군분투 워라밸(work & life balance) 사수기를 그린 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260708_164%2F17834974543718mdlD_JPEG%2Ffff161993050295925071cebef2d25c5.jpg"
+    },
+    {
+      "rank": 4,
       "title": "욕망의 덫",
       "rating": 10.0,
       "channel": "KBS2",
@@ -52,7 +42,27 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
     },
     {
+      "rank": 5,
+      "title": "공효진 비밀 지켰다",
+      "rating": 8.6,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FepsS9Szsb4A%2Fmaxresdefault.jpg&type=f368_208"
+    },
+    {
       "rank": 6,
+      "title": "가족관계증명서",
+      "rating": 6.2,
+      "channel": "MBC",
+      "air_days": "목",
+      "synopsis": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기를 담은 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260706_100%2F1783302305887fq7bL_JPEG%2Fa6e56f9d56d0c60d09a8c68e34975828.jpg"
+    },
+    {
+      "rank": 7,
       "title": "신병4",
       "rating": 4.2,
       "channel": "ENA",
@@ -62,7 +72,7 @@
       "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260820_82%2Fa32Br_1787204199405cfuEX_JPEG%2F736fc7d9-24b1-4505-8151-f9705850ae97.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "그래, 이혼하자",
       "rating": 0.4,
       "channel": "KBS",
@@ -81,7 +91,7 @@
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fdvdprime.com%2Fg2%2Fdata%2Ftier_icons%2Ftier_dvdprime_9_1769767190.png&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fflexible.img.hani.co.kr%2Fflexible%2Fnormal%2F590%2F211%2Fimgdb%2Fresize%2F2015%2F0305%2F142545695059_20150305.JPG&type=fff208_208_ar"
     },
     {
       "rank": 2,
