@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T00:03:13",
+  "updated": "2026-09-11T00:03:18",
   "dramas": [
     {
       "rank": 1,
@@ -33,16 +33,6 @@
     },
     {
       "rank": 4,
-      "title": "미운우리새끼",
-      "rating": 9.15,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA3MjBfMjcy%2FMDAxNzg0NTQ1NjgxNjIx.0pe4nC0qOdea9ProbsRfilhEAF8Rvu7cjpyBtuc3u_sg.yRnkOs9y5gVSWG8JvsBwkxeIbbRIyRGNoY88LioK8w4g.PNG%2F%25B9%25CC%25BF%25EC%25BB%25F5%25B1%25E8%25C1%25A4%25C0%25BA.png&type=fff208_208_ar"
-    },
-    {
-      "rank": 5,
       "title": "욕망의 덫",
       "rating": 8.5,
       "channel": "KBS2",
@@ -52,7 +42,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "가족관계증명서",
       "rating": 5.5,
       "channel": "MBC",
@@ -62,7 +52,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260706_100%2F1783302305887fq7bL_JPEG%2Fa6e56f9d56d0c60d09a8c68e34975828.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "신병4' 한가인 등장 '역대급 엔딩",
       "rating": 4.4,
       "channel": "",
@@ -70,16 +60,6 @@
       "synopsis": "",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F108%2F2026%2F09%2F09%2F3468990.jpg&type=fface200_200&expire=2&refresh=true"
-    },
-    {
-      "rank": 8,
-      "title": "신병4",
-      "rating": 4.4,
-      "channel": "ENA",
-      "air_days": "월·화",
-      "synopsis": "계급이 오르고 고민도 늘어버린 상병 박민석! 하사로 돌아온 최일구와 미스터리 신병, 돌풍을 일으킬 대대장의 등장으로 그의 군생활은 다시 전투 태세에 돌입한다!",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260820_82%2Fa32Br_1787204199405cfuEX_JPEG%2F736fc7d9-24b1-4505-8151-f9705850ae97.jpg"
     }
   ],
   "variety": [
@@ -105,16 +85,6 @@
     },
     {
       "rank": 3,
-      "title": "전참시",
-      "rating": 5.1,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fcdn.rnx.kr%2Fnews%2Fthumbnail%2F202608%2F878658_913955_4355_v150.jpg&type=fff208_208_ar"
-    },
-    {
-      "rank": 4,
       "title": "연애전쟁",
       "rating": 1.0,
       "channel": "",
