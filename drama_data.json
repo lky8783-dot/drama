@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T00:03:07",
+  "updated": "2026-09-13T00:03:13",
   "dramas": [
     {
       "rank": 1,
@@ -13,16 +13,26 @@
     },
     {
       "rank": 2,
-      "title": "사랑이 온다",
-      "rating": 17.2,
-      "channel": "KBS2",
-      "air_days": "토·일",
-      "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
+      "title": "연애박사",
+      "rating": 21.7,
+      "channel": "ENA",
+      "air_days": "월·화",
+      "synopsis": "고등학교 때 수영선수였지만 병으로 한 쪽 다리를 잃은 박사과정생 민재와, 진로를 잃고 방황하다 새로운 길에 들어선 석사과정생 유진. 로봇 연구실에서 피어난 두 청춘의 맵고, 쓰고, 달콤한 로맨스",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
+      "poster_url": ""
     },
     {
       "rank": 3,
+      "title": "너 말고 다른 연애",
+      "rating": 20.0,
+      "channel": "KBS2",
+      "air_days": "토·일",
+      "synopsis": "연애 10년 차, 익숙했던 연인이 낯선 감정과 마주하게 되는 현실 공감 리얼 멜로드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260910_197%2Fh3god_17890127744683KQFj_JPEG%2Fimage.jpg"
+    },
+    {
+      "rank": 4,
       "title": "우리 가족은 쪽팔림",
       "rating": 15.1,
       "channel": "",
@@ -32,7 +42,17 @@
       "poster_url": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "사랑이 온다",
+      "rating": 15.1,
+      "channel": "KBS2",
+      "air_days": "토·일",
+      "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
+    },
+    {
+      "rank": 6,
       "title": "욕망의 덫",
       "rating": 8.5,
       "channel": "KBS2",
@@ -55,16 +75,6 @@
     },
     {
       "rank": 2,
-      "title": "갑론을박",
-      "rating": 7.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20251224_35%2FATimO_1766581032254y2yvO_JPEG%2FB120195749_EPI0001_22_B_naver.jpg&type=ac368_208"
-    },
-    {
-      "rank": 3,
       "title": "라디오 스타",
       "rating": 5.6,
       "channel": "",
@@ -72,6 +82,16 @@
       "synopsis": "지진 이후 재난 FM 라디오에 모인 사람들이 웃음과 진심의 목소리로 서로의 상처를 치유해 가는 이야기",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "스트릿 레스토랑 파이터'(이하 '스레파",
+      "rating": 1.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiMRFx3pguzQ%2Fmaxresdefault.jpg&type=f368_208"
     }
   ]
 }
