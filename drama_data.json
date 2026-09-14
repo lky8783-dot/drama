@@ -1,50 +1,20 @@
 {
-  "updated": "2026-09-13T00:03:13",
+  "updated": "2026-09-14T00:03:09",
   "dramas": [
     {
       "rank": 1,
-      "title": "김부장",
-      "rating": 23.1,
-      "channel": "SBS",
-      "air_days": "",
-      "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260801_19%2FmMBy5_1785594398590Dtyzd_JPEG%2Fd8501257-d85d-4d55-9ecd-ff853a2eee1c.jpg"
-    },
-    {
-      "rank": 2,
-      "title": "연애박사",
-      "rating": 21.7,
-      "channel": "ENA",
-      "air_days": "월·화",
-      "synopsis": "고등학교 때 수영선수였지만 병으로 한 쪽 다리를 잃은 박사과정생 민재와, 진로를 잃고 방황하다 새로운 길에 들어선 석사과정생 유진. 로봇 연구실에서 피어난 두 청춘의 맵고, 쓰고, 달콤한 로맨스",
-      "cast": [],
-      "poster_url": ""
-    },
-    {
-      "rank": 3,
       "title": "너 말고 다른 연애",
       "rating": 20.0,
       "channel": "KBS2",
       "air_days": "토·일",
       "synopsis": "연애 10년 차, 익숙했던 연인이 낯선 감정과 마주하게 되는 현실 공감 리얼 멜로드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260910_197%2Fh3god_17890127744683KQFj_JPEG%2Fimage.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260911_144%2Fwka9F_17891036186491g5z6_JPEG%2Fimage.jpg"
     },
     {
-      "rank": 4,
-      "title": "우리 가족은 쪽팔림",
-      "rating": 15.1,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": ""
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "title": "사랑이 온다",
-      "rating": 15.1,
+      "rating": 17.3,
       "channel": "KBS2",
       "air_days": "토·일",
       "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
@@ -52,14 +22,14 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
     },
     {
-      "rank": 6,
-      "title": "욕망의 덫",
-      "rating": 8.5,
-      "channel": "KBS2",
+      "rank": 3,
+      "title": "우리 가족은 쪽팔림",
+      "rating": 15.1,
+      "channel": "",
       "air_days": "",
-      "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
+      "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
+      "poster_url": ""
     }
   ],
   "variety": [
@@ -85,6 +55,16 @@
     },
     {
       "rank": 3,
+      "title": "천만기인쇼",
+      "rating": 4.2,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.tving.com%2Fntgs%2Fcontents%2FCTC%2Fcaip%2FCAIP0400%2Fko%2F20260831%2F1117%2FP001791349.jpg%2Fdims%2Fresize%2F500&type=fff208_208_ar"
+    },
+    {
+      "rank": 4,
       "title": "스트릿 레스토랑 파이터'(이하 '스레파",
       "rating": 1.0,
       "channel": "",
