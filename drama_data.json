@@ -1,20 +1,10 @@
 {
-  "updated": "2026-09-14T00:03:09",
+  "updated": "2026-09-15T00:03:16",
   "dramas": [
     {
       "rank": 1,
-      "title": "너 말고 다른 연애",
-      "rating": 20.0,
-      "channel": "KBS2",
-      "air_days": "토·일",
-      "synopsis": "연애 10년 차, 익숙했던 연인이 낯선 감정과 마주하게 되는 현실 공감 리얼 멜로드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260911_144%2Fwka9F_17891036186491g5z6_JPEG%2Fimage.jpg"
-    },
-    {
-      "rank": 2,
       "title": "사랑이 온다",
-      "rating": 17.3,
+      "rating": 16.6,
       "channel": "KBS2",
       "air_days": "토·일",
       "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
@@ -22,7 +12,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "우리 가족은 쪽팔림",
       "rating": 15.1,
       "channel": "",
@@ -45,6 +35,16 @@
     },
     {
       "rank": 2,
+      "title": "갑론을박",
+      "rating": 7.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20251224_35%2FATimO_1766581032254y2yvO_JPEG%2FB120195749_EPI0001_22_B_naver.jpg&type=ac368_208"
+    },
+    {
+      "rank": 3,
       "title": "라디오 스타",
       "rating": 5.6,
       "channel": "",
@@ -54,7 +54,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "천만기인쇼",
       "rating": 4.2,
       "channel": "",
@@ -64,7 +64,7 @@
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.tving.com%2Fntgs%2Fcontents%2FCTC%2Fcaip%2FCAIP0400%2Fko%2F20260831%2F1117%2FP001791349.jpg%2Fdims%2Fresize%2F500&type=fff208_208_ar"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "스트릿 레스토랑 파이터'(이하 '스레파",
       "rating": 1.0,
       "channel": "",
