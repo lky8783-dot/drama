@@ -1,15 +1,35 @@
 {
-  "updated": "2026-09-20T00:03:00",
+  "updated": "2026-09-21T00:02:57",
   "dramas": [
     {
       "rank": 1,
-      "title": "우리 가족은 쪽팔림",
-      "rating": 15.1,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
+      "title": "사랑이 온다",
+      "rating": 16.6,
+      "channel": "KBS2",
+      "air_days": "토·일",
+      "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
       "cast": [],
-      "poster_url": ""
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "욕망의덫",
+      "rating": 8.4,
+      "channel": "KBS2",
+      "air_days": "",
+      "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
+    },
+    {
+      "rank": 3,
+      "title": "가족관계증명서",
+      "rating": 5.5,
+      "channel": "MBC",
+      "air_days": "목",
+      "synopsis": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기를 담은 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260706_100%2F1783302305887fq7bL_JPEG%2Fa6e56f9d56d0c60d09a8c68e34975828.jpg"
     }
   ],
   "variety": [
@@ -35,16 +55,6 @@
     },
     {
       "rank": 3,
-      "title": "천만기인쇼",
-      "rating": 4.2,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.tving.com%2Fntgs%2Fcontents%2FCTC%2Fcaip%2FCAIP0400%2Fko%2F20260831%2F1117%2FP001791349.jpg%2Fdims%2Fresize%2F500&type=fff208_208_ar"
-    },
-    {
-      "rank": 4,
       "title": "스트릿 레스토랑 파이터'(이하 '스레파",
       "rating": 1.0,
       "channel": "",
@@ -54,7 +64,7 @@
       "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiMRFx3pguzQ%2Fmaxresdefault.jpg&type=f368_208"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
