@@ -1,45 +1,35 @@
 {
-  "updated": "2026-09-23T00:03:00",
+  "updated": "2026-09-24T00:03:04",
   "dramas": [
     {
       "rank": 1,
-      "title": "우영우",
-      "rating": 17.5,
-      "channel": "",
+      "title": "엄마가 미쳤어요",
+      "rating": 20.0,
+      "channel": "KBS1",
       "air_days": "",
-      "synopsis": "",
+      "synopsis": "평생 가족만을 위해 살아온 엄마와 자신만을 위해 살아온 엄마, 그리고 두 엄마의 자식들이 얽히며 벌어지는 파란만장한 가족 성장기를 그린 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Focc-0-8123-993.1.nflxso.net%2Fdnm%2Fapi%2Fv6%2F6AYY37jfdO6hpXcMjf9Yu5cnmO0%2FAAAABQyqik0DJTLqilY8JSBWM4KmhYSZN03vPuJTT-5q27VGQZ9Xc4G2zuZ2dzsj3lUD87n2mzwiTwnJmv0JWVjUIEI0tRpjkIu8ddW2.jpg%3Fr%3Da5a&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
     },
     {
       "rank": 2,
-      "title": "욕망의덫",
-      "rating": 8.4,
+      "title": "사랑이 온다",
+      "rating": 16.6,
+      "channel": "KBS2",
+      "air_days": "토·일",
+      "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "욕망의 덫",
+      "rating": 7.0,
       "channel": "KBS2",
       "air_days": "",
       "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
-    },
-    {
-      "rank": 3,
-      "title": "가족관계증명서",
-      "rating": 5.5,
-      "channel": "MBC",
-      "air_days": "목",
-      "synopsis": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기를 담은 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260706_100%2F1783302305887fq7bL_JPEG%2Fa6e56f9d56d0c60d09a8c68e34975828.jpg"
-    },
-    {
-      "rank": 4,
-      "title": "내일도 출근!",
-      "rating": 4.8,
-      "channel": "tvN",
-      "air_days": "",
-      "synopsis": "일상적 권태기에 시달리던 7년 차 직장인 차지윤이 까칠한 직장 상사 강시우와 함께 서로의 대체 불가능한 최선이 되어 일도 사랑도 다시 '설렘 ON 오피스 로맨스'",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260803_209%2FOkFAG_1785720366402cBL0a_JPEG%2F11836134-7253-487e-93d8-17cc41f2b5b3_naver.jpg"
     }
   ],
   "variety": [
@@ -65,6 +55,26 @@
     },
     {
       "rank": 3,
+      "title": "나 혼자 산다",
+      "rating": 2.1,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2Fb0zcOoZp6CfF9IzJ9kWh12bvh1J2DnC3-xFVryHwgWkCnOMc3bzZC18B_7WnI7ICDBn97uFkmuKuU3NN-g2flg.webp&type=fff174_174"
+    },
+    {
+      "rank": 4,
+      "title": "세계테마기행",
+      "rating": 1.7,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FRk-ahtbrMn_9aNFxYKPCp2cg0MdKBIPe0xej4yKODr5xNIAOP1iyjA_1yi5q8cruVHKcRQcMVmeZ6UTdwF-BmQ.webp&type=fff174_174"
+    },
+    {
+      "rank": 5,
       "title": "스트릿 레스토랑 파이터'(이하 '스레파",
       "rating": 1.0,
       "channel": "",
@@ -74,7 +84,7 @@
       "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiMRFx3pguzQ%2Fmaxresdefault.jpg&type=f368_208"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
