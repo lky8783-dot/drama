@@ -1,37 +1,6 @@
 {
-  "updated": "2026-09-24T00:03:04",
-  "dramas": [
-    {
-      "rank": 1,
-      "title": "엄마가 미쳤어요",
-      "rating": 20.0,
-      "channel": "KBS1",
-      "air_days": "",
-      "synopsis": "평생 가족만을 위해 살아온 엄마와 자신만을 위해 살아온 엄마, 그리고 두 엄마의 자식들이 얽히며 벌어지는 파란만장한 가족 성장기를 그린 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
-    },
-    {
-      "rank": 2,
-      "title": "사랑이 온다",
-      "rating": 16.6,
-      "channel": "KBS2",
-      "air_days": "토·일",
-      "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
-    },
-    {
-      "rank": 3,
-      "title": "욕망의 덫",
-      "rating": 7.0,
-      "channel": "KBS2",
-      "air_days": "",
-      "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
-    }
-  ],
+  "updated": "2026-09-25T00:03:07",
+  "dramas": [],
   "variety": [
     {
       "rank": 1,
@@ -81,7 +50,7 @@
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiMRFx3pguzQ%2Fmaxresdefault.jpg&type=f368_208"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FOtn6EwiID8qId0eBO3ie-iCqICvH35-djKQ_lfutle72C3ew0ywVW_dwu7gOA_fZMrdESKonSbZbIU1ufFmScw.webp&type=fff208_208_ar"
     },
     {
       "rank": 6,
