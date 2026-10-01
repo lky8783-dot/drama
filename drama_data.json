@@ -1,6 +1,37 @@
 {
-  "updated": "2026-09-30T00:02:57",
-  "dramas": [],
+  "updated": "2026-10-01T00:02:53",
+  "dramas": [
+    {
+      "rank": 1,
+      "title": "김부장",
+      "rating": 23.1,
+      "channel": "SBS",
+      "air_days": "",
+      "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260801_19%2FmMBy5_1785594398590Dtyzd_JPEG%2Fd8501257-d85d-4d55-9ecd-ff853a2eee1c.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "엄마가 미쳤어요",
+      "rating": 9.0,
+      "channel": "KBS1",
+      "air_days": "",
+      "synopsis": "평생 가족만을 위해 살아온 엄마와 자신만을 위해 살아온 엄마, 그리고 두 엄마의 자식들이 얽히며 벌어지는 파란만장한 가족 성장기를 그린 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
+    },
+    {
+      "rank": 3,
+      "title": "포핸즈",
+      "rating": 7.2,
+      "channel": "tvN",
+      "air_days": "토·일",
+      "synopsis": "음악 천재들만 모인 예술고등학교에서 만난 청춘들의 우정과 사랑, 경쟁과 성장을 그리는 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260930_296%2F2tdur_17907428437930p2HN_JPEG%2F441e9b9e-b9eb-4414-8867-b23ca03d356f_naver.jpg"
+    }
+  ],
   "variety": [
     {
       "rank": 1,
@@ -14,16 +45,6 @@
     },
     {
       "rank": 2,
-      "title": "라디오 스타",
-      "rating": 5.6,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "지진 이후 재난 FM 라디오에 모인 사람들이 웃음과 진심의 목소리로 서로의 상처를 치유해 가는 이야기",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
-    },
-    {
-      "rank": 3,
       "title": "나 혼자 산다",
       "rating": 2.1,
       "channel": "",
@@ -33,27 +54,27 @@
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2Fb0zcOoZp6CfF9IzJ9kWh12bvh1J2DnC3-xFVryHwgWkCnOMc3bzZC18B_7WnI7ICDBn97uFkmuKuU3NN-g2flg.webp&type=fff208_208_ar"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "세계테마기행",
       "rating": 1.7,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FRk-ahtbrMn_9aNFxYKPCp2cg0MdKBIPe0xej4yKODr5xNIAOP1iyjA_1yi5q8cruVHKcRQcMVmeZ6UTdwF-BmQ.webp&type=fff174_174"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.tving.com%2Fntgs%2Fcontents%2FCTC%2Fcaip%2FCAIP0400%2Fko%2F20231026%2F1340%2FP21097.jpg%2Fdims%2Fresize%2F500&type=fff208_208_ar"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "스트릿 레스토랑 파이터'(이하 '스레파",
       "rating": 1.0,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA3MjZfMTU4%2FMDAxNzg1MDcyNzc5ODk3.1whGD3-QJJAOZ_roMhoyOhubuMIDMm82aOkvufCSVhIg.kManMCTJtIVqRnOPUoT7QM0f76H-EOkJYuqzvNk2Lfgg.PNG%2Fimage.png&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FOtn6EwiID8qId0eBO3ie-iCqICvH35-djKQ_lfutle72C3ew0ywVW_dwu7gOA_fZMrdESKonSbZbIU1ufFmScw.webp&type=fff208_208_ar"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
