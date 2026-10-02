@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-01T00:02:53",
+  "updated": "2026-10-02T00:02:56",
   "dramas": [
     {
       "rank": 1,
-      "title": "김부장",
-      "rating": 23.1,
-      "channel": "SBS",
-      "air_days": "",
-      "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
+      "title": "사랑이 온다",
+      "rating": 16.6,
+      "channel": "KBS2",
+      "air_days": "토·일",
+      "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260801_19%2FmMBy5_1785594398590Dtyzd_JPEG%2Fd8501257-d85d-4d55-9ecd-ff853a2eee1c.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
     },
     {
       "rank": 2,
       "title": "엄마가 미쳤어요",
-      "rating": 9.0,
+      "rating": 9.6,
       "channel": "KBS1",
       "air_days": "",
       "synopsis": "평생 가족만을 위해 살아온 엄마와 자신만을 위해 살아온 엄마, 그리고 두 엄마의 자식들이 얽히며 벌어지는 파란만장한 가족 성장기를 그린 드라마",
@@ -23,6 +23,16 @@
     },
     {
       "rank": 3,
+      "title": "욕망의 덫",
+      "rating": 8.0,
+      "channel": "KBS2",
+      "air_days": "",
+      "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
+    },
+    {
+      "rank": 4,
       "title": "포핸즈",
       "rating": 7.2,
       "channel": "tvN",
@@ -35,13 +45,13 @@
   "variety": [
     {
       "rank": 1,
-      "title": "종편이 셀 줄 알았는데",
-      "rating": 8.7,
+      "title": "라디오 스타",
+      "rating": 5.6,
       "channel": "",
       "air_days": "",
-      "synopsis": "",
+      "synopsis": "지진 이후 재난 FM 라디오에 모인 사람들이 웃음과 진심의 목소리로 서로의 상처를 치유해 가는 이야기",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fflexible.img.hani.co.kr%2Fflexible%2Fnormal%2F590%2F211%2Fimgdb%2Fresize%2F2015%2F0305%2F142545695059_20150305.JPG&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
     },
     {
       "rank": 2,
@@ -65,16 +75,6 @@
     },
     {
       "rank": 4,
-      "title": "스트릿 레스토랑 파이터'(이하 '스레파",
-      "rating": 1.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FOtn6EwiID8qId0eBO3ie-iCqICvH35-djKQ_lfutle72C3ew0ywVW_dwu7gOA_fZMrdESKonSbZbIU1ufFmScw.webp&type=fff208_208_ar"
-    },
-    {
-      "rank": 5,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
