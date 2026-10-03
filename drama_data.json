@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T00:02:56",
+  "updated": "2026-10-03T00:02:54",
   "dramas": [
     {
       "rank": 1,
@@ -13,6 +13,16 @@
     },
     {
       "rank": 2,
+      "title": "연애박사'..",
+      "rating": 10.0,
+      "channel": "ENA",
+      "air_days": "월·화",
+      "synopsis": "고등학교 때 수영선수였지만 병으로 한 쪽 다리를 잃은 박사과정생 민재와, 진로를 잃고 방황하다 새로운 길에 들어선 석사과정생 유진. 로봇 연구실에서 피어난 두 청춘의 맵고, 쓰고, 달콤한 로맨스",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260917_260%2F1789603250463ctrQ5_PNG%2Fc9c9a3e2df284a635df7f48c9d83ca50.png"
+    },
+    {
+      "rank": 3,
       "title": "엄마가 미쳤어요",
       "rating": 9.6,
       "channel": "KBS1",
@@ -22,24 +32,24 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "포핸즈",
+      "rating": 7.2,
+      "channel": "tvN",
+      "air_days": "토",
+      "synopsis": "음악 천재들만 모인 예술고등학교에서 만난 청춘들의 우정과 사랑, 경쟁과 성장을 그리는 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20261002_208%2F9hOEW_1790932324348f6xgd_JPEG%2F1223f56f-9581-4706-8cbe-aa4077b00caa_naver.jpg"
+    },
+    {
+      "rank": 5,
       "title": "욕망의 덫",
-      "rating": 8.0,
+      "rating": 6.4,
       "channel": "KBS2",
       "air_days": "",
       "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
-    },
-    {
-      "rank": 4,
-      "title": "포핸즈",
-      "rating": 7.2,
-      "channel": "tvN",
-      "air_days": "토·일",
-      "synopsis": "음악 천재들만 모인 예술고등학교에서 만난 청춘들의 우정과 사랑, 경쟁과 성장을 그리는 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260930_296%2F2tdur_17907428437930p2HN_JPEG%2F441e9b9e-b9eb-4414-8867-b23ca03d356f_naver.jpg"
     }
   ],
   "variety": [
@@ -55,26 +65,6 @@
     },
     {
       "rank": 2,
-      "title": "나 혼자 산다",
-      "rating": 2.1,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2Fb0zcOoZp6CfF9IzJ9kWh12bvh1J2DnC3-xFVryHwgWkCnOMc3bzZC18B_7WnI7ICDBn97uFkmuKuU3NN-g2flg.webp&type=fff208_208_ar"
-    },
-    {
-      "rank": 3,
-      "title": "세계테마기행",
-      "rating": 1.7,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.tving.com%2Fntgs%2Fcontents%2FCTC%2Fcaip%2FCAIP0400%2Fko%2F20231026%2F1340%2FP21097.jpg%2Fdims%2Fresize%2F500&type=fff208_208_ar"
-    },
-    {
-      "rank": 4,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
