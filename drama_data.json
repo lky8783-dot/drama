@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T00:02:57",
+  "updated": "2026-10-05T00:03:04",
   "dramas": [
     {
       "rank": 1,
@@ -10,36 +10,6 @@
       "synopsis": "고등학교 때 수영선수였지만 병으로 한 쪽 다리를 잃은 박사과정생 민재와, 진로를 잃고 방황하다 새로운 길에 들어선 석사과정생 유진. 로봇 연구실에서 피어난 두 청춘의 맵고, 쓰고, 달콤한 로맨스",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260917_260%2F1789603250463ctrQ5_PNG%2Fc9c9a3e2df284a635df7f48c9d83ca50.png"
-    },
-    {
-      "rank": 2,
-      "title": "엄마가 미쳤어요",
-      "rating": 9.6,
-      "channel": "KBS1",
-      "air_days": "",
-      "synopsis": "평생 가족만을 위해 살아온 엄마와 자신만을 위해 살아온 엄마, 그리고 두 엄마의 자식들이 얽히며 벌어지는 파란만장한 가족 성장기를 그린 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
-    },
-    {
-      "rank": 3,
-      "title": "욕망의 덫",
-      "rating": 8.0,
-      "channel": "KBS2",
-      "air_days": "",
-      "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
-    },
-    {
-      "rank": 4,
-      "title": "포핸즈",
-      "rating": 7.2,
-      "channel": "tvN",
-      "air_days": "토",
-      "synopsis": "음악 천재들만 모인 예술고등학교에서 만난 청춘들의 우정과 사랑, 경쟁과 성장을 그리는 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20261002_290%2FnPvSB_1790932923774ph0EA_JPEG%2F4535825b-50ac-4ccc-bb08-e055c9b7806b_naver.jpg"
     }
   ],
   "variety": [
@@ -55,6 +25,16 @@
     },
     {
       "rank": 2,
+      "title": "계약결혼",
+      "rating": 1.6,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
+    },
+    {
+      "rank": 3,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
