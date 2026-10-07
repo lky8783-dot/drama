@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T00:03:09",
+  "updated": "2026-10-07T00:02:59",
   "dramas": [
     {
       "rank": 1,
@@ -13,7 +13,7 @@
     },
     {
       "rank": 2,
-      "title": "엄마가미쳤어요",
+      "title": "엄마가 미쳤어요",
       "rating": 10.7,
       "channel": "KBS1",
       "air_days": "",
@@ -24,12 +24,22 @@
     {
       "rank": 3,
       "title": "욕망의 덫",
-      "rating": 8.0,
+      "rating": 6.4,
       "channel": "KBS2",
       "air_days": "",
       "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
+    },
+    {
+      "rank": 4,
+      "title": "가족관계증명서",
+      "rating": 5.6,
+      "channel": "MBC",
+      "air_days": "목",
+      "synopsis": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기를 담은 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260706_100%2F1783302305887fq7bL_JPEG%2Fa6e56f9d56d0c60d09a8c68e34975828.jpg"
     }
   ],
   "variety": [
@@ -45,23 +55,13 @@
     },
     {
       "rank": 2,
-      "title": "계약결혼",
-      "rating": 1.6,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": ""
-    },
-    {
-      "rank": 3,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": ""
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Finfluencer-phinf.pstatic.net%2FMjAyNjA2MjdfMTQy%2FMDAxNzgyNTMwNjc4MzYz.d8GiEewrNfklvWEBGqKQSnIr-v4pUeG9feM55rF0Racg.GXtZ4-91kzSnxayroD7-uAYdM5TtLeBjVCyZu6HViOIg.PNG%2F7fd2.png%3Ftype%3Dw700&type=fff208_208_ar"
     }
   ]
 }
