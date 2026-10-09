@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T00:02:50",
+  "updated": "2026-10-09T00:02:49",
   "dramas": [
     {
       "rank": 1,
@@ -23,6 +23,16 @@
     },
     {
       "rank": 3,
+      "title": "사랑이 온다",
+      "rating": 16.6,
+      "channel": "KBS2",
+      "air_days": "토·일",
+      "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
+    },
+    {
+      "rank": 4,
       "title": "엄마가 미쳤어요",
       "rating": 10.7,
       "channel": "KBS1",
@@ -32,24 +42,14 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
     },
     {
-      "rank": 4,
-      "title": "포핸즈",
-      "rating": 9.4,
-      "channel": "tvN",
-      "air_days": "토",
-      "synopsis": "음악 천재들만 모인 예술고등학교에서 만난 청춘들의 우정과 사랑, 경쟁과 성장을 그리는 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20261006_247%2FNoVWi_1791276723665tp3hd_JPEG%2F27d45df0-351b-47be-83e5-735e7119180b_naver.jpg"
-    },
-    {
       "rank": 5,
-      "title": "욕망의 덫",
-      "rating": 6.4,
-      "channel": "KBS2",
-      "air_days": "",
-      "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
+      "title": "가족관계증명서",
+      "rating": 5.6,
+      "channel": "MBC",
+      "air_days": "목",
+      "synopsis": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기를 담은 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260706_100%2F1783302305887fq7bL_JPEG%2Fa6e56f9d56d0c60d09a8c68e34975828.jpg"
     }
   ],
   "variety": [
