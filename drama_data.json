@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T00:02:49",
+  "updated": "2026-10-10T00:03:13",
   "dramas": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
     {
       "rank": 2,
       "title": "김부장",
-      "rating": 23.2,
+      "rating": 23.0,
       "channel": "SBS",
       "air_days": "",
       "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
@@ -33,6 +33,26 @@
     },
     {
       "rank": 4,
+      "title": "닥터X",
+      "rating": 11.4,
+      "channel": "SBS",
+      "air_days": "금·토",
+      "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "닥터X : 하얀 마피아의 시대",
+      "rating": 11.4,
+      "channel": "SBS",
+      "air_days": "금·토",
+      "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
+    },
+    {
+      "rank": 6,
       "title": "엄마가 미쳤어요",
       "rating": 10.7,
       "channel": "KBS1",
@@ -42,14 +62,14 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
     },
     {
-      "rank": 5,
-      "title": "가족관계증명서",
-      "rating": 5.6,
-      "channel": "MBC",
-      "air_days": "목",
-      "synopsis": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기를 담은 드라마",
+      "rank": 7,
+      "title": "욕망의 덫",
+      "rating": 6.4,
+      "channel": "KBS2",
+      "air_days": "",
+      "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260706_100%2F1783302305887fq7bL_JPEG%2Fa6e56f9d56d0c60d09a8c68e34975828.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
     }
   ],
   "variety": [
@@ -71,7 +91,7 @@
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": ""
+      "poster_url": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzExMjdfMjQ3%2FMDAxNzAxMDQzNTQ0NjE1.hvRkt4LewowMWpvZi_neMrqXgfDgQu27qvVUlLX2D6Ig.HkvyiWpCghzV0J3wCmm6W-YVTADh7QrkuZ5eudVyDOsg.JPEG.iyris421%2F%25BF%25AD%25B3%25E0%25B9%25DA%25BD%25C3_%25B0%25E8%25BE%25E0%25B0%25E1%25C8%25A5%25B5%25AF_%25C6%25F7%25BD%25BA%25C5%25CD.jpg&type=ff332_332"
     },
     {
       "rank": 3,
