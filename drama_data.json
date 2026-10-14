@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-13T00:02:53",
+  "updated": "2026-10-14T00:02:57",
   "dramas": [
     {
       "rank": 1,
-      "title": "닥터X",
-      "rating": 17.4,
-      "channel": "SBS",
-      "air_days": "금·토",
-      "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
+      "title": "인생 명작",
+      "rating": 24.9,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
+      "poster_url": ""
     },
     {
       "rank": 2,
-      "title": "닥터X : 하얀 마피아의 시대",
+      "title": "닥터X",
       "rating": 14.9,
       "channel": "SBS",
       "air_days": "금·토",
@@ -23,28 +23,28 @@
     },
     {
       "rank": 3,
-      "title": "엄마가 미쳤어요",
-      "rating": 10.9,
-      "channel": "KBS1",
-      "air_days": "",
-      "synopsis": "평생 가족만을 위해 살아온 엄마와 자신만을 위해 살아온 엄마, 그리고 두 엄마의 자식들이 얽히며 벌어지는 파란만장한 가족 성장기를 그린 드라마",
+      "title": "가족관계증명서",
+      "rating": 5.5,
+      "channel": "MBC",
+      "air_days": "목",
+      "synopsis": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기를 담은 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
-    },
-    {
-      "rank": 4,
-      "title": "슬기로운 감빵생활', '남자친구",
-      "rating": 10.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FRmWg9ghoIQq02z-tN9tjcnwXDEQVhG2OR0hn0SNHe-1wa6pqgewQuKvAFr1svmScrxUc1zMuybepuX1gufhLKg.webp&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260706_100%2F1783302305887fq7bL_JPEG%2Fa6e56f9d56d0c60d09a8c68e34975828.jpg"
     }
   ],
   "variety": [
     {
       "rank": 1,
+      "title": "TV 켰다가 못 끄겠더라",
+      "rating": 6.1,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
+    },
+    {
+      "rank": 2,
       "title": "라디오 스타",
       "rating": 5.6,
       "channel": "",
@@ -54,7 +54,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "아는 형님",
       "rating": 1.0,
       "channel": "",
