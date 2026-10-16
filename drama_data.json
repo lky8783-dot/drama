@@ -1,9 +1,39 @@
 {
-  "updated": "2026-10-15T00:03:00",
+  "updated": "2026-10-16T00:03:18",
   "dramas": [
     {
       "rank": 1,
-      "title": "닥터X",
+      "title": "닥터X: 하얀 마피아의 시대'(이하 '닥터X",
+      "rating": 14.9,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg.etoday.co.kr%2Fpto_db%2F2026%2F09%2F20260911090756_2386485_702_1000.jpg&type=fff208_208_ar"
+    },
+    {
+      "rank": 2,
+      "title": "너네 진짜 후져",
+      "rating": 14.9,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F025%2F2026%2F10%2F16%2F3558329.jpg&type=fface200_200&expire=2&refresh=true"
+    },
+    {
+      "rank": 3,
+      "title": "최고 17.4%",
+      "rating": 14.9,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjEwMTFfNSAg%2FMDAxNzkxNzE4Mjc4NTM3.hOH_WgSghdTMqHCLVK0m93zJMAHDkde7T26_tS4nxrgg.jCl--Br4Mra5cigigGkSOf-z-P-dmdgTFqm50jevC5wg.PNG%2Fhy35i_bt0022fhd.png&type=fff208_208_ar"
+    },
+    {
+      "rank": 4,
+      "title": "닥터X : 하얀 마피아의 시대",
       "rating": 14.9,
       "channel": "SBS",
       "air_days": "금·토",
@@ -12,8 +42,8 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
     },
     {
-      "rank": 2,
-      "title": "닥터X 하얀 마피아의 시대",
+      "rank": 5,
+      "title": "닥터X",
       "rating": 11.4,
       "channel": "SBS",
       "air_days": "금·토",
@@ -22,7 +52,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "title": "엄마가 미쳤어요",
       "rating": 10.9,
       "channel": "KBS1",
@@ -32,14 +62,14 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
     },
     {
-      "rank": 4,
-      "title": "슬기로운 감빵생활', '남자친구",
-      "rating": 10.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
+      "rank": 7,
+      "title": "100일의 거짓말",
+      "rating": 7.6,
+      "channel": "tvN",
+      "air_days": "토·일",
+      "synopsis": "밀정이 된 경성 최고의 소매치기와 조선총독부의 엘리트 통역관이 적의 심장부에서 마주하며 벌어지는 100일간의 첩보 로맨스",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2F3FehIwyZn6M_t3DTwyRTxu-bKnuilpdH-3HR2zcOkp5PgGL0XOWI14BnFP4QEh-W9HnfM8fgzbwmU6CvFcacSA.webp&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20261014_113%2FnLduQ_1791962163761m8uhG_JPEG%2Fd965d465-a2cc-455d-896b-eeb21b2f5953_naver.jpg"
     }
   ],
   "variety": [
@@ -55,23 +85,13 @@
     },
     {
       "rank": 2,
-      "title": "놀면 뭐하니?",
-      "rating": 3.6,
+      "title": "황금어장-라디오 스타",
+      "rating": 5.0,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FzusG0WpQXC_Wit5OO0pW_l-O-BBx3Dp33NkHRdXLJo0aux7kwIbqrknfNqdoQU5eeCSLqwb9LknO1FjQa2bdJg.jpg&type=fff208_208_ar"
-    },
-    {
-      "rank": 3,
-      "title": "아는 형님",
-      "rating": 1.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Finfluencer-phinf.pstatic.net%2FMjAyNjA2MjdfMTQy%2FMDAxNzgyNTMwNjc4MzYz.d8GiEewrNfklvWEBGqKQSnIr-v4pUeG9feM55rF0Racg.GXtZ4-91kzSnxayroD7-uAYdM5TtLeBjVCyZu6HViOIg.PNG%2F7fd2.png%3Ftype%3Dw700&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fcdn.topstarnews.net%2Fnews%2Fphoto%2F202503%2F15611245_1511887_711.jpg&type=fff208_208_ar"
     }
   ]
 }
