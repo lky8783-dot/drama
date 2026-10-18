@@ -1,28 +1,18 @@
 {
-  "updated": "2026-10-17T00:02:49",
+  "updated": "2026-10-18T00:02:53",
   "dramas": [
     {
       "rank": 1,
-      "title": "김부장",
-      "rating": 23.0,
+      "title": "닥터X",
+      "rating": 20.8,
       "channel": "SBS",
-      "air_days": "",
-      "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
+      "air_days": "금·토",
+      "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260801_19%2FmMBy5_1785594398590Dtyzd_JPEG%2Fd8501257-d85d-4d55-9ecd-ff853a2eee1c.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
     },
     {
       "rank": 2,
-      "title": "수술방의 미친 계', 닥터X '계수정",
-      "rating": 17.4,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fcdn.ize.co.kr%2Fnews%2Fthumbnail%2F202609%2F80344_123791_3539_v150.jpg&type=fff208_208_ar"
-    },
-    {
-      "rank": 3,
       "title": "사랑이온다",
       "rating": 17.0,
       "channel": "KBS2",
@@ -32,27 +22,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
     },
     {
-      "rank": 4,
-      "title": "닥터X",
-      "rating": 16.9,
-      "channel": "SBS",
-      "air_days": "금·토",
-      "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
-    },
-    {
-      "rank": 5,
-      "title": "닥터X 하얀 마피아의 시대",
-      "rating": 11.4,
-      "channel": "SBS",
-      "air_days": "금·토",
-      "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "title": "엄마가 미쳤어요",
       "rating": 10.9,
       "channel": "KBS1",
@@ -62,7 +32,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "결혼의 완성",
       "rating": 8.5,
       "channel": "KBS2",
@@ -72,7 +42,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260622_51%2F1782088599932htfNM_PNG%2Fc5322d8f47c00d0ea99702e6dc2f91c8.png"
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "욕망의 덫",
       "rating": 6.4,
       "channel": "KBS2",
@@ -80,6 +50,16 @@
       "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
+    },
+    {
+      "rank": 6,
+      "title": "로또 1등도 출근합니다",
+      "rating": 5.1,
+      "channel": "tvN",
+      "air_days": "목",
+      "synopsis": "위아래로 치이며 하루하루를 버티던 팀장 ‘공은태’가 로또 1등에 당첨된 후 사직서 대신 당첨금 13억을 품고 이전과는 다른 마음가짐으로 출근하는 K-직장인 오피스 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=594x336&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260909_155%2F2Qu8u_1788916145046A8qjX_PNG%2Fimage.png"
     }
   ],
   "variety": [
@@ -101,7 +81,7 @@
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": ""
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Finfluencer-phinf.pstatic.net%2FMjAyNjA2MjdfMTQy%2FMDAxNzgyNTMwNjc4MzYz.d8GiEewrNfklvWEBGqKQSnIr-v4pUeG9feM55rF0Racg.GXtZ4-91kzSnxayroD7-uAYdM5TtLeBjVCyZu6HViOIg.PNG%2F7fd2.png%3Ftype%3Dw700&type=fff208_208_ar"
     }
   ]
 }
