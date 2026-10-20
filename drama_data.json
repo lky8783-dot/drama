@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-19T00:02:35",
+  "updated": "2026-10-20T00:02:41",
   "dramas": [
     {
       "rank": 1,
-      "title": "닥터X",
-      "rating": 20.8,
+      "title": "김부장",
+      "rating": 23.0,
       "channel": "SBS",
-      "air_days": "금·토",
-      "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
+      "air_days": "",
+      "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260801_19%2FmMBy5_1785594398590Dtyzd_JPEG%2Fd8501257-d85d-4d55-9ecd-ff853a2eee1c.jpg"
     },
     {
       "rank": 2,
-      "title": "닥터X : 하얀 마피아의 시대",
+      "title": "닥터X",
       "rating": 18.5,
       "channel": "SBS",
       "air_days": "금·토",
@@ -23,8 +23,18 @@
     },
     {
       "rank": 3,
+      "title": "닥터X: 하얀 마피아의 시대",
+      "rating": 14.9,
+      "channel": "SBS",
+      "air_days": "금·토",
+      "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
+    },
+    {
+      "rank": 4,
       "title": "엄마가 미쳤어요",
-      "rating": 10.9,
+      "rating": 11.1,
       "channel": "KBS1",
       "air_days": "",
       "synopsis": "평생 가족만을 위해 살아온 엄마와 자신만을 위해 살아온 엄마, 그리고 두 엄마의 자식들이 얽히며 벌어지는 파란만장한 가족 성장기를 그린 드라마",
@@ -32,7 +42,27 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "결혼의 완성",
+      "rating": 8.5,
+      "channel": "KBS2",
+      "air_days": "",
+      "synopsis": "이혼 직전 납치된 아내를 구하기 위해 인면수심의 범죄자와 극한 사투를 벌이게 된 한 남자의 위험천만한 범죄스릴러",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260622_51%2F1782088599932htfNM_PNG%2Fc5322d8f47c00d0ea99702e6dc2f91c8.png"
+    },
+    {
+      "rank": 6,
+      "title": "100일의 거짓말",
+      "rating": 7.6,
+      "channel": "tvN",
+      "air_days": "토·일",
+      "synopsis": "밀정이 된 경성 최고의 소매치기와 조선총독부의 엘리트 통역관이 적의 심장부에서 마주하며 벌어지는 100일간의 첩보 로맨스",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20261019_51%2FOLgqT_1792398491564kjTQ5_JPEG%2F7b3a3c51-0aa7-49d0-a698-c70465990806_naver.jpg"
+    },
+    {
+      "rank": 7,
       "title": "욕망의 덫",
       "rating": 6.4,
       "channel": "KBS2",
@@ -42,14 +72,14 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
     },
     {
-      "rank": 5,
-      "title": "가족관계증명서",
-      "rating": 5.5,
-      "channel": "MBC",
-      "air_days": "목",
-      "synopsis": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기를 담은 드라마",
+      "rank": 8,
+      "title": "나의 유죄인간",
+      "rating": 5.6,
+      "channel": "tvN",
+      "air_days": "월·화",
+      "synopsis": "살인 용의자로 지목된 안하무인 재벌 3세와 그의 수행비서로 잠입한 특수부대 출신 형사의 밀착 스릴 로맨스를 담은 드라마",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260706_100%2F1783302305887fq7bL_JPEG%2Fa6e56f9d56d0c60d09a8c68e34975828.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260914_50%2F1789349213694NrxS0_JPEG%2Fdb003c7f420a2406c3434a5799983fe3.jpg"
     }
   ],
   "variety": [
@@ -71,7 +101,7 @@
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Finfluencer-phinf.pstatic.net%2FMjAyNjA2MjdfMTQy%2FMDAxNzgyNTMwNjc4MzYz.d8GiEewrNfklvWEBGqKQSnIr-v4pUeG9feM55rF0Racg.GXtZ4-91kzSnxayroD7-uAYdM5TtLeBjVCyZu6HViOIg.PNG%2F7fd2.png%3Ftype%3Dw700&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FEMTRyqkwPKKtNGNyVpCFrRAxl9-s330eSYvRoiPKuZKe_SdmmkW7bCZ8OMreP39XjYxLBO2uj9fX5ia677yAqg.webp&type=fff208_208_ar"
     }
   ]
 }
