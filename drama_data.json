@@ -1,19 +1,9 @@
 {
-  "updated": "2026-10-21T00:02:43",
+  "updated": "2026-10-22T00:02:24",
   "dramas": [
     {
       "rank": 1,
-      "title": "김부장",
-      "rating": 23.0,
-      "channel": "SBS",
-      "air_days": "",
-      "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260801_19%2FmMBy5_1785594398590Dtyzd_JPEG%2Fd8501257-d85d-4d55-9ecd-ff853a2eee1c.jpg"
-    },
-    {
-      "rank": 2,
-      "title": "닥터X : 하얀 마피아의 시대",
+      "title": "닥터X",
       "rating": 18.5,
       "channel": "SBS",
       "air_days": "금·토",
@@ -22,7 +12,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "사랑이 온다",
       "rating": 16.7,
       "channel": "KBS2",
@@ -32,8 +22,8 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
     },
     {
-      "rank": 4,
-      "title": "닥터X",
+      "rank": 3,
+      "title": "닥터X: 하얀 마피아의 시대",
       "rating": 14.9,
       "channel": "SBS",
       "air_days": "금·토",
@@ -42,17 +32,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
     },
     {
-      "rank": 5,
-      "title": "엄마가 미쳤어요",
-      "rating": 11.1,
-      "channel": "KBS1",
-      "air_days": "",
-      "synopsis": "평생 가족만을 위해 살아온 엄마와 자신만을 위해 살아온 엄마, 그리고 두 엄마의 자식들이 얽히며 벌어지는 파란만장한 가족 성장기를 그린 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "결혼의 완성",
       "rating": 8.5,
       "channel": "KBS2",
@@ -62,56 +42,25 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260622_51%2F1782088599932htfNM_PNG%2Fc5322d8f47c00d0ea99702e6dc2f91c8.png"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "100일의 거짓말",
       "rating": 7.6,
       "channel": "tvN",
       "air_days": "토·일",
       "synopsis": "밀정이 된 경성 최고의 소매치기와 조선총독부의 엘리트 통역관이 적의 심장부에서 마주하며 벌어지는 100일간의 첩보 로맨스",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20261020_136%2FMa9I9_1792460285442PFrMg_JPEG%2F9a56a016-695b-4b45-8918-0ef74ae2c97c_naver.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20261021_139%2FnXOGu_1792563723745aBdRv_JPEG%2F6ee7530a-5ede-4608-924a-de6976830188_naver.jpg"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "남장' 설인아에 폭 안겼다..'나의 유죄인간",
       "rating": 5.9,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": ""
-    },
-    {
-      "rank": 9,
-      "title": "나의 유죄인간",
-      "rating": 5.6,
-      "channel": "tvN",
-      "air_days": "월·화",
-      "synopsis": "살인 용의자로 지목된 안하무인 재벌 3세와 그의 수행비서로 잠입한 특수부대 출신 형사의 밀착 스릴 로맨스를 담은 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260914_50%2F1789349213694NrxS0_JPEG%2Fdb003c7f420a2406c3434a5799983fe3.jpg"
-    },
-    {
-      "rank": 10,
-      "title": "남장",
-      "rating": 5.6,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA5MTdfOTgg%2FMDAxNzg5NjEzNzU3OTcz.UpaGZN8jhMsaqOgJ4SP2F_ldvz3BjubaJPSqEkmAgXwg.2KMhq7dGUUM6soUGWu5_jcJ38Omui84gWEWHN3qX84Yg.JPEG%2FScreenshot_20260917_115525_NAVER.jpg&type=ff332_332"
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F076%2F2026%2F10%2F21%2F4458032.jpg&type=fface200_200&expire=2&refresh=true"
     }
   ],
-  "variety": [
-    {
-      "rank": 1,
-      "title": "아는 형님",
-      "rating": 1.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FEMTRyqkwPKKtNGNyVpCFrRAxl9-s330eSYvRoiPKuZKe_SdmmkW7bCZ8OMreP39XjYxLBO2uj9fX5ia677yAqg.webp&type=fff208_208_ar"
-    }
-  ]
+  "variety": []
 }
