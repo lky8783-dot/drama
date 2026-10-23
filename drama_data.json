@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T00:02:24",
+  "updated": "2026-10-23T00:02:41",
   "dramas": [
     {
       "rank": 1,
@@ -13,16 +13,6 @@
     },
     {
       "rank": 2,
-      "title": "사랑이 온다",
-      "rating": 16.7,
-      "channel": "KBS2",
-      "air_days": "토·일",
-      "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
-    },
-    {
-      "rank": 3,
       "title": "닥터X: 하얀 마피아의 시대",
       "rating": 14.9,
       "channel": "SBS",
@@ -30,6 +20,16 @@
       "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "엄마가 미쳤어요",
+      "rating": 10.6,
+      "channel": "KBS1",
+      "air_days": "",
+      "synopsis": "평생 가족만을 위해 살아온 엄마와 자신만을 위해 살아온 엄마, 그리고 두 엄마의 자식들이 얽히며 벌어지는 파란만장한 가족 성장기를 그린 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
     },
     {
       "rank": 4,
@@ -43,6 +43,16 @@
     },
     {
       "rank": 5,
+      "title": "욕망의 덫",
+      "rating": 8.0,
+      "channel": "KBS2",
+      "air_days": "",
+      "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
+    },
+    {
+      "rank": 6,
       "title": "100일의 거짓말",
       "rating": 7.6,
       "channel": "tvN",
@@ -52,7 +62,7 @@
       "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20261021_139%2FnXOGu_1792563723745aBdRv_JPEG%2F6ee7530a-5ede-4608-924a-de6976830188_naver.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "남장' 설인아에 폭 안겼다..'나의 유죄인간",
       "rating": 5.9,
       "channel": "",
@@ -62,5 +72,26 @@
       "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F076%2F2026%2F10%2F21%2F4458032.jpg&type=fface200_200&expire=2&refresh=true"
     }
   ],
-  "variety": []
+  "variety": [
+    {
+      "rank": 1,
+      "title": "라디오 스타",
+      "rating": 5.6,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "지진 이후 재난 FM 라디오에 모인 사람들이 웃음과 진심의 목소리로 서로의 상처를 치유해 가는 이야기",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "아는 형님",
+      "rating": 1.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.tving.com%2Fntgs%2Fcontents%2FCTC%2Fcaie%2FCAIE0400%2Fcom%2F20261017%2F1242%2FE004648250.jpg%2Fdims%2Fresize%2FF_webp%2C720&type=fff208_208_ar"
+    }
+  ]
 }
