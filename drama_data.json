@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-24T00:02:42",
+  "updated": "2026-10-25T00:02:43",
   "dramas": [
     {
       "rank": 1,
       "title": "김부장",
-      "rating": 23.0,
+      "rating": 23.1,
       "channel": "SBS",
       "air_days": "",
       "synopsis": "'세상에서 가장 평범한' 아빠가 하나 뿐인 딸을 되찾기 위해 '세상에서 가장 위험한' 남자가 되어 싸우는 아빠 유니버스 복수 액션 드라마",
@@ -14,7 +14,7 @@
     {
       "rank": 2,
       "title": "닥터X",
-      "rating": 18.5,
+      "rating": 21.3,
       "channel": "SBS",
       "air_days": "금·토",
       "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
@@ -23,16 +23,6 @@
     },
     {
       "rank": 3,
-      "title": "사랑이 온다",
-      "rating": 16.7,
-      "channel": "KBS2",
-      "air_days": "토·일",
-      "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
-    },
-    {
-      "rank": 4,
       "title": "닥터X: 하얀 마피아의 시대",
       "rating": 14.9,
       "channel": "SBS",
@@ -42,17 +32,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
     },
     {
-      "rank": 5,
-      "title": "엄마가 미쳤어요",
-      "rating": 10.6,
-      "channel": "KBS1",
-      "air_days": "",
-      "synopsis": "평생 가족만을 위해 살아온 엄마와 자신만을 위해 살아온 엄마, 그리고 두 엄마의 자식들이 얽히며 벌어지는 파란만장한 가족 성장기를 그린 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "결혼의 완성",
       "rating": 8.5,
       "channel": "KBS2",
@@ -62,7 +42,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260622_51%2F1782088599932htfNM_PNG%2Fc5322d8f47c00d0ea99702e6dc2f91c8.png"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "욕망의 덫",
       "rating": 8.0,
       "channel": "KBS2",
@@ -72,17 +52,17 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "100일의 거짓말",
       "rating": 7.6,
       "channel": "tvN",
       "air_days": "토·일",
       "synopsis": "밀정이 된 경성 최고의 소매치기와 조선총독부의 엘리트 통역관이 적의 심장부에서 마주하며 벌어지는 100일간의 첩보 로맨스",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20261023_236%2FHW9Oa_1792731246472n3mJK_JPEG%2F33f9fc57-d32a-4a92-a904-f8b1c450c3ce_naver.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260904_46%2F1788508311150fixTB_JPEG%2F5cdf60746e228fc7445fa3bf2a1ede24.jpg"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "나의 유죄인간",
       "rating": 5.6,
       "channel": "tvN",
@@ -90,6 +70,16 @@
       "synopsis": "살인 용의자로 지목된 안하무인 재벌 3세와 그의 수행비서로 잠입한 특수부대 출신 형사의 밀착 스릴 로맨스를 담은 드라마",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260914_50%2F1789349213694NrxS0_JPEG%2Fdb003c7f420a2406c3434a5799983fe3.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "가족관계증명서",
+      "rating": 5.5,
+      "channel": "MBC",
+      "air_days": "목",
+      "synopsis": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기를 담은 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260706_100%2F1783302305887fq7bL_JPEG%2Fa6e56f9d56d0c60d09a8c68e34975828.jpg"
     }
   ],
   "variety": [
