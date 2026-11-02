@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-01T00:04:00",
+  "updated": "2026-11-02T00:03:39",
   "dramas": [
     {
       "rank": 1,
-      "title": "주말 밤 뭐 보지?",
-      "rating": 19.5,
+      "title": "17살 신민아, 이병헌 동생이었다..",
+      "rating": 24.0,
       "channel": "",
       "air_days": "",
       "synopsis": "",
@@ -13,36 +13,6 @@
     },
     {
       "rank": 2,
-      "title": "닥터X",
-      "rating": 19.5,
-      "channel": "SBS",
-      "air_days": "금·토",
-      "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
-    },
-    {
-      "rank": 3,
-      "title": "라이어' vs 김지원 '닥터X",
-      "rating": 19.5,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg.tenasia.co.kr%2Fphoto%2F202610%2FBF.46163226.1.jpg&type=fff208_208_ar"
-    },
-    {
-      "rank": 4,
-      "title": "닥터X: 하얀 마피아의 시대",
-      "rating": 19.5,
-      "channel": "SBS",
-      "air_days": "금·토",
-      "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
-    },
-    {
-      "rank": 5,
       "title": "세상이 무너져도 나 무진 씨 포기 안 한다",
       "rating": 16.3,
       "channel": "",
@@ -52,19 +22,19 @@
       "poster_url": ""
     },
     {
-      "rank": 6,
-      "title": "엄마가 미쳤어요",
-      "rating": 10.8,
-      "channel": "KBS1",
-      "air_days": "",
-      "synopsis": "평생 가족만을 위해 살아온 엄마와 자신만을 위해 살아온 엄마, 그리고 두 엄마의 자식들이 얽히며 벌어지는 파란만장한 가족 성장기를 그린 드라마",
+      "rank": 3,
+      "title": "닥터X: 하얀 마피아의 시대",
+      "rating": 15.6,
+      "channel": "SBS",
+      "air_days": "금·토",
+      "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
     },
     {
-      "rank": 7,
-      "title": "저녁마다 밥 먹다 멈칫하게 되는데",
-      "rating": 10.0,
+      "rank": 4,
+      "title": "(이하",
+      "rating": 11.4,
       "channel": "",
       "air_days": "",
       "synopsis": "",
@@ -72,9 +42,19 @@
       "poster_url": ""
     },
     {
-      "rank": 8,
+      "rank": 5,
+      "title": "김지원 또 사고쳤다",
+      "rating": 11.4,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg.tenasia.co.kr%2Fphoto%2F202610%2FBF.46086028.1.jpg&type=fff208_208_ar"
+    },
+    {
+      "rank": 6,
       "title": "욕망의 덫",
-      "rating": 8.0,
+      "rating": 6.4,
       "channel": "KBS2",
       "air_days": "",
       "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
@@ -82,7 +62,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "내일도 출근!",
       "rating": 5.4,
       "channel": "tvN",
@@ -90,26 +70,6 @@
       "synopsis": "일상적 권태기에 시달리던 7년 차 직장인 차지윤이 까칠한 직장 상사 강시우와 함께 서로의 대체 불가능한 최선이 되어 일도 사랑도 다시 '설렘 ON 오피스 로맨스'",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260803_209%2FOkFAG_1785720366402cBL0a_JPEG%2F11836134-7253-487e-93d8-17cc41f2b5b3_naver.jpg"
-    },
-    {
-      "rank": 10,
-      "title": "라이어",
-      "rating": 4.8,
-      "channel": "MBC",
-      "air_days": "금·토",
-      "synopsis": "하나의 기억을 두고 정반대의 주장을 펼치는 두 남녀가 진실을 향해 치열하게 충돌하는 심리 스릴러 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20261006_135%2F1791249717612wemMz_JPEG%2F57_40393285_poster_image_1791249717601.jpg"
-    },
-    {
-      "rank": 11,
-      "title": "나의 유죄인간",
-      "rating": 4.7,
-      "channel": "tvN",
-      "air_days": "월·화",
-      "synopsis": "살인 용의자로 지목된 안하무인 재벌 3세와 그의 수행비서로 잠입한 특수부대 출신 형사의 밀착 스릴 로맨스를 담은 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260914_50%2F1789349213694NrxS0_JPEG%2Fdb003c7f420a2406c3434a5799983fe3.jpg"
     }
   ],
   "variety": [
