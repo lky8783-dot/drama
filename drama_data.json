@@ -1,8 +1,18 @@
 {
-  "updated": "2026-11-03T00:03:19",
+  "updated": "2026-11-04T00:03:21",
   "dramas": [
     {
       "rank": 1,
+      "title": "어릴 땐 악역을 응원했는데..",
+      "rating": 48.3,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
+    },
+    {
+      "rank": 2,
       "title": "닥터X",
       "rating": 19.5,
       "channel": "SBS",
@@ -12,17 +22,17 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
     },
     {
-      "rank": 2,
-      "title": "라이어' vs 김지원 '닥터X",
+      "rank": 3,
+      "title": "닥터X' 9회와 '100일의 거짓말",
       "rating": 19.5,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg.tenasia.co.kr%2Fphoto%2F202610%2FBF.46163226.1.jpg&type=fff208_208_ar"
+      "poster_url": ""
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "세상이 무너져도 나 무진 씨 포기 안 한다",
       "rating": 16.3,
       "channel": "",
@@ -32,8 +42,8 @@
       "poster_url": ""
     },
     {
-      "rank": 4,
-      "title": "닥터X: 하얀 마피아의 시대",
+      "rank": 5,
+      "title": "닥터X : 하얀 마피아의 시대",
       "rating": 15.6,
       "channel": "SBS",
       "air_days": "금·토",
@@ -42,7 +52,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "엄마가 미쳤어요",
       "rating": 10.8,
       "channel": "KBS1",
@@ -52,17 +62,47 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "100일의 거짓말",
-      "rating": 9.8,
+      "rating": 10.0,
       "channel": "tvN",
       "air_days": "토·일",
       "synopsis": "밀정이 된 경성 최고의 소매치기와 조선총독부의 엘리트 통역관이 적의 심장부에서 마주하며 벌어지는 100일간의 첩보 로맨스",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20261028_24%2F3XlIl_1793153765806nd6qO_JPEG%2Fdbe5618d-464d-461d-8f1b-946475b2d17d_naver.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20261103_194%2F3axRg_1793688603938Y2EKS_JPEG%2Fcfa504ff-2a49-4095-96f8-ba4e9a626939_naver.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "욕망의 덫",
+      "rating": 8.0,
+      "channel": "KBS2",
+      "air_days": "",
+      "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
+    },
+    {
+      "rank": 9,
+      "title": "강의 중 교수가 죽었다",
+      "rating": 7.8,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fcdn-view.mk.co.kr%2Fmkview%2F2026%2F10%2F31171456%2FCP-2026-0021-40799595-thumb-1200x900.jpg&type=fff208_208_ar"
+    },
+    {
+      "rank": 10,
+      "title": "나의 유죄인간",
+      "rating": 5.5,
+      "channel": "tvN",
+      "air_days": "월·화",
+      "synopsis": "살인 용의자로 지목된 안하무인 재벌 3세와 그의 수행비서로 잠입한 특수부대 출신 형사의 밀착 스릴 로맨스를 담은 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260914_50%2F1789349213694NrxS0_JPEG%2Fdb003c7f420a2406c3434a5799983fe3.jpg"
+    },
+    {
+      "rank": 11,
       "title": "내일도 출근!",
       "rating": 5.4,
       "channel": "tvN",
@@ -70,16 +110,6 @@
       "synopsis": "일상적 권태기에 시달리던 7년 차 직장인 차지윤이 까칠한 직장 상사 강시우와 함께 서로의 대체 불가능한 최선이 되어 일도 사랑도 다시 '설렘 ON 오피스 로맨스'",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260803_209%2FOkFAG_1785720366402cBL0a_JPEG%2F11836134-7253-487e-93d8-17cc41f2b5b3_naver.jpg"
-    },
-    {
-      "rank": 8,
-      "title": "나의 유죄인간",
-      "rating": 4.7,
-      "channel": "tvN",
-      "air_days": "월·화",
-      "synopsis": "살인 용의자로 지목된 안하무인 재벌 3세와 그의 수행비서로 잠입한 특수부대 출신 형사의 밀착 스릴 로맨스를 담은 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260914_50%2F1789349213694NrxS0_JPEG%2Fdb003c7f420a2406c3434a5799983fe3.jpg"
     }
   ],
   "variety": [
@@ -125,23 +155,13 @@
     },
     {
       "rank": 5,
-      "title": "비서진",
-      "rating": 4.9,
+      "title": "틈만 나면",
+      "rating": 5.0,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
       "poster_url": ""
-    },
-    {
-      "rank": 6,
-      "title": "무엇이든 해줄지니-비서진",
-      "rating": 3.7,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fckck.kr%2Fwp-content%2Fuploads%2F2026%2F09%2Fckck-a7a4ae54e691837d.png&type=fff208_208_ar"
     }
   ]
 }
