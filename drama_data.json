@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-07T00:03:07",
+  "updated": "2026-11-08T00:02:50",
   "dramas": [
     {
       "rank": 1,
-      "title": "닥터X",
+      "title": "김지원 껌딱지' 김우석, 환자 살해 시도",
       "rating": 20.0,
-      "channel": "SBS",
-      "air_days": "금·토",
-      "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fnews.nateimg.co.kr%2ForgImg%2Ftn%2F2026%2F11%2F08%2F2026110807245670053_1.jpg&type=fff208_208_ar"
     },
     {
       "rank": 2,
@@ -23,17 +23,17 @@
     },
     {
       "rank": 3,
-      "title": "사랑이 온다",
+      "title": "세상이 무너져도 나 무진 씨 포기 안 한다",
       "rating": 16.3,
-      "channel": "KBS2",
-      "air_days": "토·일",
-      "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
+      "poster_url": ""
     },
     {
       "rank": 4,
-      "title": "닥터X: 하얀 마피아의 시대",
+      "title": "닥터X : 하얀 마피아의 시대",
       "rating": 15.6,
       "channel": "SBS",
       "air_days": "금·토",
@@ -43,8 +43,28 @@
     },
     {
       "rank": 5,
+      "title": "사랑이 온다",
+      "rating": 15.1,
+      "channel": "KBS2",
+      "air_days": "토·일",
+      "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "케미를 예고했다. 오는 25일 첫 방송되는",
+      "rating": 12.3,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
+    },
+    {
+      "rank": 7,
       "title": "엄마가 미쳤어요",
-      "rating": 10.8,
+      "rating": 11.1,
       "channel": "KBS1",
       "air_days": "",
       "synopsis": "평생 가족만을 위해 살아온 엄마와 자신만을 위해 살아온 엄마, 그리고 두 엄마의 자식들이 얽히며 벌어지는 파란만장한 가족 성장기를 그린 드라마",
@@ -52,7 +72,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "와 주인공 바꾼게 신의 한수네",
       "rating": 10.0,
       "channel": "",
@@ -62,37 +82,7 @@
       "poster_url": ""
     },
     {
-      "rank": 7,
-      "title": "욕망의 덫",
-      "rating": 8.0,
-      "channel": "KBS2",
-      "air_days": "",
-      "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
-    },
-    {
-      "rank": 8,
-      "title": "100일의 거짓말",
-      "rating": 7.2,
-      "channel": "tvN",
-      "air_days": "토·일",
-      "synopsis": "밀정이 된 경성 최고의 소매치기와 조선총독부의 엘리트 통역관이 적의 심장부에서 마주하며 벌어지는 100일간의 첩보 로맨스",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=o&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20261104_7%2F0337W_1793781844105fTQzP_JPEG%2Fbc364830-8e6d-40ef-8beb-a191e1f5314f_naver.jpg"
-    },
-    {
       "rank": 9,
-      "title": "라이어",
-      "rating": 4.8,
-      "channel": "MBC",
-      "air_days": "금·토",
-      "synopsis": "하나의 기억을 두고 정반대의 주장을 펼치는 두 남녀가 진실을 향해 치열하게 충돌하는 심리 스릴러 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20261006_135%2F1791249717612wemMz_JPEG%2F57_40393285_poster_image_1791249717601.jpg"
-    },
-    {
-      "rank": 10,
       "title": "나의 유죄인간",
       "rating": 4.7,
       "channel": "tvN",
@@ -100,16 +90,6 @@
       "synopsis": "살인 용의자로 지목된 안하무인 재벌 3세와 그의 수행비서로 잠입한 특수부대 출신 형사의 밀착 스릴 로맨스를 담은 드라마",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260914_50%2F1789349213694NrxS0_JPEG%2Fdb003c7f420a2406c3434a5799983fe3.jpg"
-    },
-    {
-      "rank": 11,
-      "title": "꽃뱀",
-      "rating": 4.2,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": ""
     }
   ],
   "variety": [
@@ -125,16 +105,6 @@
     },
     {
       "rank": 2,
-      "title": "벌금 청산 레이스",
-      "rating": 7.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi1.daumcdn.net%2Fthumb%2FC150x150%2F%3Ffname%3Dhttps%253A%252F%252Fblog.kakaocdn.net%252Fdna%252FczRr7Q%252FdJMcaiZuDBM%252FAAAAAAAAAAAAAAAAAAAAAAy7BEQKNWLVJuu6tywUWr9IfxITMq9wqLcows4rFvl9%252Ftfile.jpg%253Fcredential%253DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%2526expires%253D1796050799%2526allow_ip%253D%2526allow_referer%253D%2526signature%253DfLzvk1MMarvKkQwbJE8V58Yoeiw%25253D&type=fff208_208_ar"
-    },
-    {
-      "rank": 3,
       "title": "PD수첩",
       "rating": 6.5,
       "channel": "",
@@ -144,14 +114,14 @@
       "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fyt3.ggpht.com%2FktaaNLsw4-3PdQYb9zvmvbupevIxklQxhfFdI75Ps20l7HJrZcJ2y_QHY1gXCehx1KKG1Clogg%3Ds800-c-k-c0x00ffffff-no-rj&type=f70_70"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "영심이",
       "rating": 6.0,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg.coupangstreaming.com%2Ftitles%2Fa478f1e9-53f6-4232-91d6-8174b7b8b520%2Fstory-art%2F61f03f42-4743-4029-ae43-8a3c72170b1b.jpg%3Fimwidth%3D480&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fi.namu.wiki%2Fi%2FHc4GtCavXllBaL7QD3EoOBOJIdGkI9YU3YBNYWmgvNacjUFIEdfYWMT35c9FrY7aLeq5HM6EU-SogUceECADKQ.webp&type=fff208_208_ar"
     }
   ]
 }
