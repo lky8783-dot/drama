@@ -1,8 +1,18 @@
 {
-  "updated": "2026-11-09T00:02:42",
+  "updated": "2026-11-10T00:03:06",
   "dramas": [
     {
       "rank": 1,
+      "title": "하객 알바 간 결혼식, 신부가 내 딸?",
+      "rating": 47.6,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
+    },
+    {
+      "rank": 2,
       "title": "화려한 날들",
       "rating": 20.5,
       "channel": "KBS2",
@@ -12,7 +22,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20250708_38%2F1751933605580OMjsp_PNG%2Fb56ca18256661759b7fe4a0fa9669848.png"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "닥터X",
       "rating": 20.2,
       "channel": "SBS",
@@ -22,7 +32,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "김지원 또 일냈다",
       "rating": 19.5,
       "channel": "",
@@ -32,49 +42,9 @@
       "poster_url": ""
     },
     {
-      "rank": 4,
-      "title": "닥터X' 9회와 '100일의 거짓말",
-      "rating": 19.5,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": ""
-    },
-    {
       "rank": 5,
-      "title": "닥터X : 하얀 마피아의 시대'(이하 '닥터X",
-      "rating": 17.7,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fsearch.pstatic.net%2Fcommon%3Ftype%3Df%26size%3D176x244%26quality%3D100%26direct%3Dtrue%26src%3Dhttps%253A%252F%252Fcsearch-phinf.pstatic.net%252F20260918_262%252F1789691195097bLiAB_JPEG%252F62983d3ec9ddab8355d064a1f628233c.jpg&type=fff208_208_ar"
-    },
-    {
-      "rank": 6,
-      "title": "사랑이 온다",
-      "rating": 16.5,
-      "channel": "KBS2",
-      "air_days": "토·일",
-      "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
-    },
-    {
-      "rank": 7,
-      "title": "세상이 무너져도 나 무진 씨 포기 안 한다",
-      "rating": 16.3,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": ""
-    },
-    {
-      "rank": 8,
       "title": "닥터X: 하얀 마피아의 시대",
-      "rating": 16.0,
+      "rating": 17.7,
       "channel": "SBS",
       "air_days": "금·토",
       "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
@@ -82,19 +52,9 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
     },
     {
-      "rank": 9,
-      "title": "케미를 예고했다. 오는 25일 첫 방송되는",
-      "rating": 12.3,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": ""
-    },
-    {
-      "rank": 10,
+      "rank": 6,
       "title": "엄마가 미쳤어요",
-      "rating": 10.8,
+      "rating": 10.9,
       "channel": "KBS1",
       "air_days": "",
       "synopsis": "평생 가족만을 위해 살아온 엄마와 자신만을 위해 살아온 엄마, 그리고 두 엄마의 자식들이 얽히며 벌어지는 파란만장한 가족 성장기를 그린 드라마",
@@ -102,7 +62,17 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
     },
     {
-      "rank": 11,
+      "rank": 7,
+      "title": "닥터X' 주춤하자 '100일의 거짓말",
+      "rating": 10.7,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5291%2F2026%2F11%2F09%2F2649720.jpg&type=fface200_200&expire=2&refresh=true"
+    },
+    {
+      "rank": 8,
       "title": "와 주인공 바꾼게 신의 한수네",
       "rating": 10.0,
       "channel": "",
@@ -110,21 +80,21 @@
       "synopsis": "",
       "cast": [],
       "poster_url": ""
-    },
-    {
-      "rank": 12,
-      "title": "욕망의 덫",
-      "rating": 8.0,
-      "channel": "KBS2",
-      "air_days": "",
-      "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
     }
   ],
   "variety": [
     {
       "rank": 1,
+      "title": "이 굴을 먹었을 수도 있다",
+      "rating": 14.7,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg.kbs.co.kr%2Fkbs%2F960x540%2Fhttps%3A%2F%2Fmediafactory.play.kbs.co.kr%2Fclip%2F2026%2F11%2F08%2F6af058e7e61ae23f027a30a2%2Fthumbnail%2F6af058e7e61ae23f027a30a2_upload_1794136782514.jpg&type=fff208_208_ar"
+    },
+    {
+      "rank": 2,
       "title": "종편이 셀 줄 알았는데",
       "rating": 8.7,
       "channel": "",
@@ -134,7 +104,7 @@
       "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fflexible.img.hani.co.kr%2Fflexible%2Fnormal%2F590%2F211%2Fimgdb%2Fresize%2F2015%2F0305%2F142545695059_20150305.JPG&type=fff208_208_ar"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "PD수첩",
       "rating": 6.5,
       "channel": "",
@@ -144,14 +114,14 @@
       "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fyt3.ggpht.com%2FktaaNLsw4-3PdQYb9zvmvbupevIxklQxhfFdI75Ps20l7HJrZcJ2y_QHY1gXCehx1KKG1Clogg%3Ds800-c-k-c0x00ffffff-no-rj&type=f70_70"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "영심이",
       "rating": 6.0,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg.coupangstreaming.com%2Ftitles%2Fa478f1e9-53f6-4232-91d6-8174b7b8b520%2Fstory-art%2F61f03f42-4743-4029-ae43-8a3c72170b1b.jpg%3Fimwidth%3D480&type=fff208_208_ar"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimage.tving.com%2Fntgs%2Fcontents%2FCTC%2Fcaim%2FCAIM0400%2Fcom%2F20220510%2FM000366923.png%2Fdims%2Fresize%2F500&type=fff208_208_ar"
     }
   ]
 }
