@@ -1,25 +1,25 @@
 {
-  "updated": "2026-11-12T00:02:56",
+  "updated": "2026-11-13T00:02:47",
   "dramas": [
     {
       "rank": 1,
-      "title": "이게 말이 되는 수치야?",
-      "rating": 28.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FbsfV7kPpYsw%2Fmaxresdefault.jpg&type=f280_156"
-    },
-    {
-      "rank": 2,
-      "title": "닥터X : 하얀 마피아의 시대",
-      "rating": 20.2,
+      "title": "닥터X: 하얀 마피아의 시대",
+      "rating": 17.7,
       "channel": "SBS",
       "air_days": "금·토",
       "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "5%로 시작해 두 배",
+      "rating": 17.7,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
     },
     {
       "rank": 3,
@@ -53,16 +53,6 @@
     },
     {
       "rank": 6,
-      "title": "욕망의 덫",
-      "rating": 8.0,
-      "channel": "KBS2",
-      "air_days": "",
-      "synopsis": "살인 누명으로 인생을 빼앗긴 여자가 거대한 욕망에 맞서는 운명 복원 리벤지 극",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
-    },
-    {
-      "rank": 7,
       "title": "틈만나면",
       "rating": 2.5,
       "channel": "",
@@ -70,6 +60,46 @@
       "synopsis": "",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA5MjJfMzQg%2FMDAxNzkwMDUxNjA0Njg5.u1o-Qu0NrPbQ13ToHGWCViZeetFxEwFaq7pH0iqv5MEg.YOZ96C-Q0mA8_jdHmqJaNipM9uBC73pvdxLNy6W3Oe0g.PNG%2Fimage.png&type=ff256_336"
+    },
+    {
+      "rank": 7,
+      "title": "그대에게 드림",
+      "rating": 2.0,
+      "channel": "ENA",
+      "air_days": "",
+      "synopsis": "꿈을 이루고 돌아온 천재 영화감독 우수빈과 꿈을 잊은 채 사는 생계형 리포터 주이재의 재회 후일담을 그린 로맨틱 코미디",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20260818_103%2Fi9qqC_1787037697050iHNfM_JPEG%2F124fcfec-2812-4a3c-a6b8-5eb0f1dcea9d.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "이건 진짜 경악스럽다",
+      "rating": 2.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
+    },
+    {
+      "rank": 9,
+      "title": "파이널 테이블",
+      "rating": 1.8,
+      "channel": "JTBC",
+      "air_days": "토",
+      "synopsis": "최고의 한국인 요리사를 뽑는 '더 테이블: K 셰프 2026' 대회를 위해 전 세계에서 모인 한국인 셰프들이 벌이는 화려한 음식과 기막힌 사연들의 향연을 담은 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20261007_224%2F1791333638687yQhey_JPEG%2F57_40968024_poster_image_1791333638670.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "우리 딱 10년만 같이 해보자",
+      "rating": 1.7,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
     }
   ],
   "variety": [
@@ -95,16 +125,6 @@
     },
     {
       "rank": 3,
-      "title": "영심이",
-      "rating": 6.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg.coupangstreaming.com%2Ftitles%2Fa478f1e9-53f6-4232-91d6-8174b7b8b520%2Fstory-art%2F61f03f42-4743-4029-ae43-8a3c72170b1b.jpg%3Fimwidth%3D480&type=fff208_208_ar"
-    },
-    {
-      "rank": 4,
       "title": "라디오스타",
       "rating": 5.6,
       "channel": "",
