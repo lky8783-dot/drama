@@ -1,38 +1,8 @@
 {
-  "updated": "2026-11-15T00:02:58",
+  "updated": "2026-11-16T00:03:16",
   "dramas": [
     {
       "rank": 1,
-      "title": "파이널 테이블'은 1.6%에 그쳤습니다.",
-      "rating": 20.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fisplus.com%2Fdata%2Fisp%2Fimage%2F2026%2F11%2F02%2Fisp20261102000123.800x.0.png&type=fff208_208_ar"
-    },
-    {
-      "rank": 2,
-      "title": "5%로 시작해 두 배",
-      "rating": 17.7,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": ""
-    },
-    {
-      "rank": 3,
-      "title": "닥터 X : 하얀 마피아의 시대",
-      "rating": 15.2,
-      "channel": "SBS",
-      "air_days": "금·토",
-      "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
-      "cast": [],
-      "poster_url": ""
-    },
-    {
-      "rank": 4,
       "title": "사랑이 온다",
       "rating": 15.1,
       "channel": "KBS2",
@@ -42,27 +12,17 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
     },
     {
-      "rank": 5,
-      "title": "엄마가 미쳤어요",
-      "rating": 10.9,
-      "channel": "KBS1",
-      "air_days": "",
-      "synopsis": "평생 가족만을 위해 살아온 엄마와 자신만을 위해 살아온 엄마, 그리고 두 엄마의 자식들이 얽히며 벌어지는 파란만장한 가족 성장기를 그린 드라마",
+      "rank": 2,
+      "title": "닥터X: 하얀 마피아의 시대",
+      "rating": 15.0,
+      "channel": "SBS",
+      "air_days": "금·토",
+      "synopsis": "하지 않습니다. 실패도, 타협도! 오직 천재적인 수술 실력으로 부조리를 깨부수는 '수술방의 미친 계'. 닥터X '계수정'의 사이다 메디컬 느와르",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260918_262%2F1789691195097bLiAB_JPEG%2F62983d3ec9ddab8355d064a1f628233c.jpg"
     },
     {
-      "rank": 6,
-      "title": "닥터X' 주춤하자 '100일의 거짓말",
-      "rating": 10.7,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fpimg.mk.co.kr%2Fnews%2Fcms%2F202611%2F09%2Fnews-p.v1.20261109.5889427667b443c180a8f902712b8240_R.png&type=fff208_208_ar"
-    },
-    {
-      "rank": 7,
+      "rank": 3,
       "title": "욕망의 덫",
       "rating": 8.0,
       "channel": "KBS2",
@@ -72,7 +32,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260723_172%2F1784771393221V75Tw_PNG%2F1db379c8b441213deb13cd00fe1202dd.png"
     },
     {
-      "rank": 8,
+      "rank": 4,
       "title": "문무",
       "rating": 4.7,
       "channel": "KBS2",
@@ -82,7 +42,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20261013_74%2F1791850698364JRlq0_PNG%2F865bc51bafb26394518a558deda81bcc.png"
     },
     {
-      "rank": 9,
+      "rank": 5,
       "title": "라이어",
       "rating": 4.5,
       "channel": "MBC",
@@ -90,6 +50,16 @@
       "synopsis": "하나의 기억을 두고 정반대의 주장을 펼치는 두 남녀가 진실을 향해 치열하게 충돌하는 심리 스릴러 드라마",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20261006_135%2F1791249717612wemMz_JPEG%2F57_40393285_poster_image_1791249717601.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "틈만나면",
+      "rating": 2.5,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNjA5MjJfMzQg%2FMDAxNzkwMDUxNjA0Njg5.u1o-Qu0NrPbQ13ToHGWCViZeetFxEwFaq7pH0iqv5MEg.YOZ96C-Q0mA8_jdHmqJaNipM9uBC73pvdxLNy6W3Oe0g.PNG%2Fimage.png&type=ff256_336"
     }
   ],
   "variety": [
@@ -112,6 +82,26 @@
       "synopsis": "지진 이후 재난 FM 라디오에 모인 사람들이 웃음과 진심의 목소리로 서로의 상처를 치유해 가는 이야기",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "아는 형님",
+      "rating": 1.0,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": ""
+    },
+    {
+      "rank": 4,
+      "title": "끼리끼리' 집계 상황은 언급했다. '끼리끼리",
+      "rating": 0.8,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimages.justwatch.com%2Fposter%2F247712753%2Fs718%2Fggiriggiri.jpg&type=fff208_208_ar"
     }
   ]
 }
