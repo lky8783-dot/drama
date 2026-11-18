@@ -1,8 +1,18 @@
 {
-  "updated": "2026-11-17T00:03:29",
+  "updated": "2026-11-18T00:03:05",
   "dramas": [
     {
       "rank": 1,
+      "title": "굿파트너",
+      "rating": 17.7,
+      "channel": "SBS",
+      "air_days": "금·토",
+      "synopsis": "이혼이 ‘체질’인 대표 변호사 차은경과 이혼에 ‘진심’인 경력직 변호사 강혜성이 서로의 굿파트너가 되어 펼치는 사이다 이혼쇼",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20251231_13%2F4BRpJ_1767149800397C7w6j_PNG%2F6c08db49-6e26-42e9-991e-c7ac276059a7.png"
+    },
+    {
+      "rank": 2,
       "title": "사랑이 온다",
       "rating": 15.9,
       "channel": "KBS2",
@@ -12,9 +22,19 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "title": "한 번 보면 끊을 수가 없다",
+      "rating": 15.8,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fcdn-feed.viewus.co.kr%2Ffeed-viewus%2F2026%2F11%2F17210345%2FCP-2026-0021-41230334-thumb.jpg&type=fff208_208_ar"
+    },
+    {
+      "rank": 4,
       "title": "엄마가 미쳤어요",
-      "rating": 10.9,
+      "rating": 11.0,
       "channel": "KBS1",
       "air_days": "",
       "synopsis": "평생 가족만을 위해 살아온 엄마와 자신만을 위해 살아온 엄마, 그리고 두 엄마의 자식들이 얽히며 벌어지는 파란만장한 가족 성장기를 그린 드라마",
@@ -22,17 +42,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
     },
     {
-      "rank": 3,
-      "title": "뭔 낯짝으로 왔냐",
-      "rating": 10.5,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": ""
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "title": "나의 유죄인간",
       "rating": 5.4,
       "channel": "tvN",
@@ -42,7 +52,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260914_50%2F1789349213694NrxS0_JPEG%2Fdb003c7f420a2406c3434a5799983fe3.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "문무",
       "rating": 4.7,
       "channel": "KBS2",
@@ -52,7 +62,7 @@
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20261013_74%2F1791850698364JRlq0_PNG%2F865bc51bafb26394518a558deda81bcc.png"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "라이어",
       "rating": 4.2,
       "channel": "MBC",
@@ -60,6 +70,16 @@
       "synopsis": "하나의 기억을 두고 정반대의 주장을 펼치는 두 남녀가 진실을 향해 치열하게 충돌하는 심리 스릴러 드라마",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20261006_135%2F1791249717612wemMz_JPEG%2F57_40393285_poster_image_1791249717601.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "크래시2 : 분노의 도로",
+      "rating": 2.8,
+      "channel": "ENA",
+      "air_days": "월·화",
+      "synopsis": "칼 대신 운전대를 쥔 도로 위 빌런들을 소탕하는 교통범죄수사팀의 노브레이크 직진 수사극, 크래시의 두 번째 이야기",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20261029_61%2F1793231428893bvUtC_PNG%2F8073eb6e4bc374ae765ca076f83cfe92.png"
     }
   ],
   "variety": [
@@ -85,23 +105,13 @@
     },
     {
       "rank": 3,
-      "title": "라디오스타",
-      "rating": 5.6,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "지진 이후 재난 FM 라디오에 모인 사람들이 웃음과 진심의 목소리로 서로의 상처를 치유해 가는 이야기",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260210_30%2F1770688936643hwxnO_JPEG%2F57_poster_image_1770688936627.jpg"
-    },
-    {
-      "rank": 4,
-      "title": "아는 형님",
-      "rating": 1.0,
+      "title": "영심이",
+      "rating": 6.0,
       "channel": "",
       "air_days": "",
       "synopsis": "",
       "cast": [],
-      "poster_url": ""
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg.coupangstreaming.com%2Ftitles%2Fa478f1e9-53f6-4232-91d6-8174b7b8b520%2Fstory-art%2F61f03f42-4743-4029-ae43-8a3c72170b1b.jpg%3Fimwidth%3D480&type=fff208_208_ar"
     }
   ]
 }
