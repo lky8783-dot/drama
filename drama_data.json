@@ -1,8 +1,18 @@
 {
-  "updated": "2026-11-18T00:03:05",
+  "updated": "2026-11-19T00:03:14",
   "dramas": [
     {
       "rank": 1,
+      "title": "굿파트너2",
+      "rating": 18.7,
+      "channel": "SBS",
+      "air_days": "금·토",
+      "synopsis": "이혼이 ‘체질’인 대표 변호사 차은경과 이혼에 ‘진심’인 경력직 변호사 강혜성이 서로의 굿파트너가 되어 펼치는 사이다 이혼쇼",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20251231_13%2F4BRpJ_1767149800397C7w6j_PNG%2F6c08db49-6e26-42e9-991e-c7ac276059a7.png"
+    },
+    {
+      "rank": 2,
       "title": "굿파트너",
       "rating": 17.7,
       "channel": "SBS",
@@ -12,7 +22,7 @@
       "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20251231_13%2F4BRpJ_1767149800397C7w6j_PNG%2F6c08db49-6e26-42e9-991e-c7ac276059a7.png"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "사랑이 온다",
       "rating": 15.9,
       "channel": "KBS2",
@@ -20,16 +30,6 @@
       "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
-    },
-    {
-      "rank": 3,
-      "title": "한 번 보면 끊을 수가 없다",
-      "rating": 15.8,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fcdn-feed.viewus.co.kr%2Ffeed-viewus%2F2026%2F11%2F17210345%2FCP-2026-0021-41230334-thumb.jpg&type=fff208_208_ar"
     },
     {
       "rank": 4,
@@ -63,38 +63,18 @@
     },
     {
       "rank": 7,
-      "title": "라이어",
-      "rating": 4.2,
-      "channel": "MBC",
-      "air_days": "금·토",
-      "synopsis": "하나의 기억을 두고 정반대의 주장을 펼치는 두 남녀가 진실을 향해 치열하게 충돌하는 심리 스릴러 드라마",
+      "title": "틈만나면",
+      "rating": 2.5,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20261006_135%2F1791249717612wemMz_JPEG%2F57_40393285_poster_image_1791249717601.jpg"
-    },
-    {
-      "rank": 8,
-      "title": "크래시2 : 분노의 도로",
-      "rating": 2.8,
-      "channel": "ENA",
-      "air_days": "월·화",
-      "synopsis": "칼 대신 운전대를 쥔 도로 위 빌런들을 소탕하는 교통범죄수사팀의 노브레이크 직진 수사극, 크래시의 두 번째 이야기",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20261029_61%2F1793231428893bvUtC_PNG%2F8073eb6e4bc374ae765ca076f83cfe92.png"
+      "poster_url": ""
     }
   ],
   "variety": [
     {
       "rank": 1,
-      "title": "놀면 뭐하니?",
-      "rating": 6.5,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg.imbc.com%2Fadams%2FContent%2F20267%2F134297083834725985.png&type=fff208_208_ar"
-    },
-    {
-      "rank": 2,
       "title": "PD수첩",
       "rating": 6.5,
       "channel": "",
@@ -102,16 +82,6 @@
       "synopsis": "",
       "cast": [],
       "poster_url": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fyt3.ggpht.com%2FktaaNLsw4-3PdQYb9zvmvbupevIxklQxhfFdI75Ps20l7HJrZcJ2y_QHY1gXCehx1KKG1Clogg%3Ds800-c-k-c0x00ffffff-no-rj&type=f70_70"
-    },
-    {
-      "rank": 3,
-      "title": "영심이",
-      "rating": 6.0,
-      "channel": "",
-      "air_days": "",
-      "synopsis": "",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fimg.coupangstreaming.com%2Ftitles%2Fa478f1e9-53f6-4232-91d6-8174b7b8b520%2Fstory-art%2F61f03f42-4743-4029-ae43-8a3c72170b1b.jpg%3Fimwidth%3D480&type=fff208_208_ar"
     }
   ]
 }
