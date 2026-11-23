@@ -1,35 +1,35 @@
 {
-  "updated": "2026-11-22T00:02:52",
+  "updated": "2026-11-23T00:03:06",
   "dramas": [
     {
       "rank": 1,
-      "title": "사랑이 온다",
-      "rating": 15.3,
-      "channel": "KBS2",
-      "air_days": "토·일",
-      "synopsis": "깨진 가족의 파편을 모아 세상에서 가장 따뜻한 인생 한 상을 차려내는 두 남녀의 패밀리 레시피 드라마",
+      "title": "용달차 사서 과일장사 할까 싶었다",
+      "rating": 43.3,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260707_59%2F1783387883554RzKRM_JPEG%2Fab4c99424b0dc0e7c60e8ccdb0ef7b46.jpg"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fcdnweb01.wikitree.co.kr%2Fwebdata%2Feditor%2F202611%2F20%2F202611201123127068.jpg&type=fff208_208_ar"
     },
     {
       "rank": 2,
-      "title": "엄마가 미쳤어요",
-      "rating": 11.0,
-      "channel": "KBS1",
-      "air_days": "",
-      "synopsis": "평생 가족만을 위해 살아온 엄마와 자신만을 위해 살아온 엄마, 그리고 두 엄마의 자식들이 얽히며 벌어지는 파란만장한 가족 성장기를 그린 드라마",
-      "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
-    },
-    {
-      "rank": 3,
       "title": "굿파트너2",
-      "rating": 9.9,
+      "rating": 10.0,
       "channel": "SBS",
       "air_days": "금·토",
       "synopsis": "이혼이 ‘체질’인 대표 변호사 차은경과 이혼에 ‘진심’인 경력직 변호사 강혜성이 서로의 굿파트너가 되어 펼치는 사이다 이혼쇼",
       "cast": [],
       "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20261030_122%2F1793322344324QHT7v_JPEG%2Fce9be30af848004eda844f065209440b.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "엄마가 미쳤어요",
+      "rating": 9.6,
+      "channel": "KBS1",
+      "air_days": "",
+      "synopsis": "평생 가족만을 위해 살아온 엄마와 자신만을 위해 살아온 엄마, 그리고 두 엄마의 자식들이 얽히며 벌어지는 파란만장한 가족 성장기를 그린 드라마",
+      "cast": [],
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260923_236%2F1790140765448XK2Xb_PNG%2F642138b8fa54ea632931e260f95ba529.png"
     },
     {
       "rank": 4,
@@ -43,23 +43,23 @@
     },
     {
       "rank": 5,
-      "title": "굿파트너",
-      "rating": 7.8,
-      "channel": "SBS",
-      "air_days": "금·토",
-      "synopsis": "이혼이 ‘체질’인 대표 변호사 차은경과 이혼에 ‘진심’인 경력직 변호사 강혜성이 서로의 굿파트너가 되어 펼치는 사이다 이혼쇼",
+      "title": "크래시2",
+      "rating": 3.7,
+      "channel": "ENA",
+      "air_days": "월·화",
+      "synopsis": "칼 대신 운전대를 쥔 도로 위 빌런들을 소탕하는 교통범죄수사팀의 노브레이크 직진 수사극, 크래시의 두 번째 이야기",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20261030_122%2F1793322344324QHT7v_JPEG%2Fce9be30af848004eda844f065209440b.jpg"
+      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20261029_61%2F1793231428893bvUtC_PNG%2F8073eb6e4bc374ae765ca076f83cfe92.png"
     },
     {
       "rank": 6,
-      "title": "가족관계증명서",
-      "rating": 5.6,
-      "channel": "MBC",
-      "air_days": "목",
-      "synopsis": "태어난 순간부터 가족을 무너뜨린 존재로 낙인찍힌 한 아이와, 냉혹한 편견과 운명에 맞서 자신의 삶을 되찾아 가는 여성의 이야기를 담은 드라마",
+      "title": "틈만나면",
+      "rating": 2.5,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=f&size=176x244&quality=100&direct=true&src=https%3A%2F%2Fcsearch-phinf.pstatic.net%2F20260706_100%2F1783302305887fq7bL_JPEG%2Fa6e56f9d56d0c60d09a8c68e34975828.jpg"
+      "poster_url": ""
     }
   ],
   "variety": [
@@ -75,13 +75,13 @@
     },
     {
       "rank": 2,
-      "title": "뜨거운 안녕",
-      "rating": 1.0,
-      "channel": "tvN",
-      "air_days": "수·목",
-      "synopsis": "꿈을 향해 질주하던 ‘무명 개그맨 삼인방’이 ‘정체불명 수상녀’를 만나 저마다의 내일을 찾아가는 뜨겁고도 아름다운 실패 청산 성장기",
+      "title": "끼리끼리' 집계 상황은 언급했다. '끼리끼리",
+      "rating": 0.8,
+      "channel": "",
+      "air_days": "",
+      "synopsis": "",
       "cast": [],
-      "poster_url": "https://search.pstatic.net/common?type=n&size=640x360&quality=100&direct=true&src=https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20261119_200%2FlYfkI_17950848051011Eeam_JPEG%2F630ae730-3c96-4bc4-a570-82055dd51171_naver.jpg"
+      "poster_url": "https://search.pstatic.net/sunny?src=https%3A%2F%2Fan2-img.amz.wtchn.net%2Fimage%2Fv2%2FQsCrpTVPIIN47himdtOpfg.jpg%3Fjwt%3DZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk5Ea3dlRGN3TUhFNE1DSmRMQ0p3SWpvaUwzWXlMM04wYjNKbEwybHRZV2RsTHpFMk9UUTBNakkxTXpNNE1UQXpPVFF6T1RVaWZRLnh1aDJSNEpkX3RFaEI3VURUSFAtdE1NdWNJMUVsUkNBckhsbmczaVBJTzg%3D&type=fff208_208_ar"
     }
   ]
 }
